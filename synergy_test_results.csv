@@ -1,0 +1,403 @@
+Drug Combination,Overall Synergy Response
+"52, 45",Antagonistic
+"27, 69",Synergistic
+"76, 106",Antagonistic
+"68, 102, 2",Antagonistic
+"102, 45",Antagonistic
+"31, 1, 45",Antagonistic
+"102, 1, 11",Antagonistic
+"74, 52",Synergistic
+"2, 75",Antagonistic
+"65, 107",Antagonistic
+"63, 24",Antagonistic
+"33, 52",Antagonistic
+"106, 74, 65",Antagonistic
+"63, 52",Antagonistic
+"33, 2, 53",Antagonistic
+"2, 44",Antagonistic
+"97, 332, 88",Antagonistic
+"102, 65",Antagonistic
+"44, 105, 88",Antagonistic
+"14, 68, 52",Synergistic
+"87, 52",Synergistic
+"84, 88, 69",Antagonistic
+"33, 332, 1",Antagonistic
+"11, 97, 102",Antagonistic
+"103, 72",Antagonistic
+"92, 62",Synergistic
+"84, 68",Synergistic
+"24, 105, 69",Antagonistic
+"20, 34, 92",Antagonistic
+"1, 24",Antagonistic
+"103, 88, 44",Antagonistic
+"72, 36, 2",Antagonistic
+"332, 33, 88",Antagonistic
+"24, 76, 69",Antagonistic
+"74, 68, 84",Synergistic
+"105, 24, 102",Antagonistic
+"63, 92, 52",Antagonistic
+"87, 1",Antagonistic
+"88, 36, 1",Antagonistic
+"20, 84",Synergistic
+"45, 102, 1",Antagonistic
+"36, 106, 44",Antagonistic
+"76, 44, 1",Antagonistic
+"27, 69, 44",Antagonistic
+"11, 44, 1",Antagonistic
+"90, 1",Synergistic
+"68, 36",Antagonistic
+"24, 75, 88",Antagonistic
+"68, 2, 45",Antagonistic
+"52, 68",Synergistic
+"27, 44, 74",Antagonistic
+"65, 73, 52",Antagonistic
+"24, 88, 105",Antagonistic
+"72, 92, 33",Antagonistic
+"53, 1",Antagonistic
+"92, 106",Antagonistic
+"62, 92",Synergistic
+"11, 332",Antagonistic
+"27, 34, 74",Antagonistic
+"103, 44",Antagonistic
+"69, 107, 33",Antagonistic
+"75, 24, 69",Antagonistic
+"97, 102, 69",Antagonistic
+"14, 52, 68",Synergistic
+"90, 105, 1",Antagonistic
+"45, 2",Antagonistic
+"107, 33",Antagonistic
+"107, 69, 76",Antagonistic
+"44, 103, 2",Antagonistic
+"90, 65",Antagonistic
+"74, 36",Synergistic
+"65, 68, 52",Antagonistic
+"52, 20",Synergistic
+"103, 106",Antagonistic
+"14, 1, 52",Synergistic
+"44, 33, 2",Antagonistic
+"62, 69, 1",Antagonistic
+"65, 102, 68",Antagonistic
+"62, 73",Antagonistic
+"84, 45, 69",Antagonistic
+"92, 105",Antagonistic
+"20, 92",Antagonistic
+"53, 62, 1",Antagonistic
+"106, 36, 92",Antagonistic
+"53, 75, 52",Antagonistic
+"24, 1, 69",Antagonistic
+"75, 332, 88",Antagonistic
+"33, 69, 44",Antagonistic
+"74, 332",Synergistic
+"65, 68, 2",Antagonistic
+"65, 106, 74",Antagonistic
+"11, 75",Antagonistic
+"24, 102",Antagonistic
+"44, 20",Synergistic
+"31, 105",Antagonistic
+"107, 69, 1",Antagonistic
+"84, 68, 45",Antagonistic
+"2, 63",Antagonistic
+"45, 2, 52",Antagonistic
+"107, 103",Antagonistic
+"75, 44, 69",Antagonistic
+"34, 92, 63",Antagonistic
+"107, 75",Synergistic
+"87, 72, 1",Antagonistic
+"107, 1, 2",Antagonistic
+"74, 102, 1",Synergistic
+"44, 76, 69",Antagonistic
+"76, 34",Antagonistic
+"14, 34, 92",Antagonistic
+"41, 34",Synergistic
+"107, 76, 2",Antagonistic
+"72, 2, 33",Antagonistic
+"105, 44, 1",Antagonistic
+"73, 75, 69",Antagonistic
+"44, 88, 11",Antagonistic
+"2, 105",Antagonistic
+"34, 103, 90",Antagonistic
+"68, 36, 52",Antagonistic
+"2, 63, 52",Antagonistic
+"87, 72",Synergistic
+"76, 90, 88",Antagonistic
+"75, 68",Synergistic
+"106, 65, 88",Antagonistic
+"52, 14",Synergistic
+"103, 2",Antagonistic
+"62, 69",Antagonistic
+"14, 52",Synergistic
+"33, 53, 1",Antagonistic
+"332, 97, 88",Antagonistic
+"1, 2, 44",Antagonistic
+"69, 1",Antagonistic
+"107, 63, 1",Antagonistic
+"102, 97, 69",Antagonistic
+"53, 34",Synergistic
+"102, 65, 74",Antagonistic
+"33, 107",Antagonistic
+"102, 74, 68",Antagonistic
+"63, 53",Antagonistic
+"27, 74, 1",Antagonistic
+"88, 33, 106",Antagonistic
+"63, 2, 88",Antagonistic
+"90, 63",Antagonistic
+"41, 1",Synergistic
+"74, 68, 52",Synergistic
+"72, 36",Antagonistic
+"87, 52, 68",Synergistic
+"65, 2, 102",Antagonistic
+"65, 1, 2",Antagonistic
+"27, 34",Synergistic
+"105, 31",Antagonistic
+"44, 2, 75",Antagonistic
+"68, 74, 36",Antagonistic
+"31, 105, 1",Antagonistic
+"1, 36, 44",Antagonistic
+"31, 45, 1",Antagonistic
+"105, 102",Antagonistic
+"53, 103",Antagonistic
+"36, 44, 106",Antagonistic
+"52, 105, 2",Antagonistic
+"84, 74",Synergistic
+"103, 90",Antagonistic
+"27, 1, 69",Antagonistic
+"97, 88, 69",Antagonistic
+"2, 103, 52",Antagonistic
+"68, 62",Synergistic
+"69, 44",Antagonistic
+"74, 68, 102",Antagonistic
+"73, 52",Synergistic
+"52, 53",Synergistic
+"11, 75, 24",Antagonistic
+"45, 84, 68",Antagonistic
+"11, 24, 45",Antagonistic
+"1, 76, 52",Antagonistic
+"76, 1",Antagonistic
+"44, 103",Antagonistic
+"27, 44, 69",Antagonistic
+"65, 34",Antagonistic
+"44, 76",Antagonistic
+"62, 1, 69",Antagonistic
+"72, 36, 69",Antagonistic
+"44, 11, 88",Antagonistic
+"34, 53",Synergistic
+"92, 52, 76",Antagonistic
+"53, 36, 102",Antagonistic
+"332, 45, 88",Antagonistic
+"36, 34, 2",Antagonistic
+"34, 53, 33",Antagonistic
+"76, 92",Antagonistic
+"14, 34",Synergistic
+"34, 33",Antagonistic
+"73, 69, 75",Antagonistic
+"332, 33",Antagonistic
+"14, 1",Synergistic
+"84, 107",Synergistic
+"63, 88, 1",Antagonistic
+"88, 34",Antagonistic
+"65, 1",Antagonistic
+"44, 75",Antagonistic
+"102, 105",Antagonistic
+"65, 106",Antagonistic
+"102, 33, 2",Antagonistic
+"14, 68",Synergistic
+"76, 92, 52",Antagonistic
+"52, 74",Synergistic
+"73, 52, 65",Antagonistic
+"65, 90",Antagonistic
+"63, 11, 1",Antagonistic
+"52, 105, 53",Antagonistic
+"103, 1",Antagonistic
+"31, 33, 1",Antagonistic
+"34, 65",Antagonistic
+"24, 1, 45",Antagonistic
+"97, 102",Synergistic
+"106, 74",Synergistic
+"74, 1",Synergistic
+"90, 92, 105",Antagonistic
+"68, 76, 2",Antagonistic
+"107, 1, 33",Antagonistic
+"36, 69",Synergistic
+"63, 102",Antagonistic
+"45, 88",Antagonistic
+"44, 103, 1",Antagonistic
+"52, 76",Antagonistic
+"2, 45, 1",Antagonistic
+"36, 90",Antagonistic
+"1, 103",Antagonistic
+"75, 73",Synergistic
+"76, 332, 88",Antagonistic
+"102, 53, 76",Antagonistic
+"72, 76",Antagonistic
+"62, 73, 69",Antagonistic
+"11, 24",Antagonistic
+"44, 27, 69",Antagonistic
+"76, 53",Antagonistic
+"73, 74",Synergistic
+"2, 34",Antagonistic
+"24, 11",Antagonistic
+"87, 1, 72",Antagonistic
+"88, 45, 68",Antagonistic
+"107, 1, 74",Antagonistic
+"36, 34",Antagonistic
+"75, 88, 24",Antagonistic
+"105, 1",Antagonistic
+"44, 88",Antagonistic
+"52, 103",Antagonistic
+"75, 68, 52",Synergistic
+"97, 102, 74",Synergistic
+"74, 73",Synergistic
+"27, 1",Synergistic
+"65, 72, 92",Antagonistic
+"74, 65, 102",Antagonistic
+"44, 106",Antagonistic
+"69, 33, 107",Antagonistic
+"88, 105, 69",Antagonistic
+"63, 72",Antagonistic
+"107, 65, 74",Antagonistic
+"332, 11",Antagonistic
+"2, 65, 107",Antagonistic
+"31, 45",Antagonistic
+"68, 75, 52",Synergistic
+"33, 72, 69",Antagonistic
+"103, 72, 92",Antagonistic
+"45, 102",Antagonistic
+"107, 65",Antagonistic
+"24, 63",Antagonistic
+"65, 88, 34",Antagonistic
+"36, 34, 90",Antagonistic
+"69, 1, 33",Antagonistic
+"75, 106, 88",Antagonistic
+"72, 102",Synergistic
+"45, 72, 69",Antagonistic
+"34, 90, 92",Antagonistic
+"11, 75, 332",Antagonistic
+"53, 102, 76",Antagonistic
+"87, 68",Synergistic
+"44, 11",Antagonistic
+"76, 107, 69",Antagonistic
+"105, 34, 92",Antagonistic
+"52, 68, 75",Synergistic
+"11, 44, 63",Antagonistic
+"11, 102",Antagonistic
+"53, 45, 2",Antagonistic
+"72, 2",Antagonistic
+"62, 53",Synergistic
+"74, 52, 68",Synergistic
+"102, 103, 24",Antagonistic
+"97, 69",Antagonistic
+"36, 92",Antagonistic
+"72, 87, 1",Antagonistic
+"1, 65",Antagonistic
+"2, 65, 1",Antagonistic
+"92, 33",Antagonistic
+"53, 1, 36",Antagonistic
+"33, 44",Antagonistic
+"11, 1",Antagonistic
+"332, 88, 63",Antagonistic
+"44, 33",Antagonistic
+"24, 75",Antagonistic
+"332, 45, 1",Antagonistic
+"73, 75",Synergistic
+"63, 2",Antagonistic
+"105, 88",Antagonistic
+"107, 33, 2",Antagonistic
+"103, 107",Antagonistic
+"88, 69, 44",Antagonistic
+"74, 84, 68",Synergistic
+"69, 73, 75",Antagonistic
+"90, 36, 34",Antagonistic
+"63, 52, 1",Antagonistic
+"102, 1, 63",Antagonistic
+"24, 63, 88",Antagonistic
+"84, 45",Antagonistic
+"31, 11",Antagonistic
+"63, 1, 88",Antagonistic
+"45, 92",Antagonistic
+"33, 69",Antagonistic
+"332, 1, 74",Antagonistic
+"102, 72",Synergistic
+"75, 88, 332",Antagonistic
+"76, 52, 68",Antagonistic
+"44, 33, 69",Antagonistic
+"90, 92",Antagonistic
+"102, 1, 2",Antagonistic
+"74, 84, 107",Synergistic
+"74, 332, 1",Antagonistic
+"102, 74, 53",Antagonistic
+"72, 105, 1",Antagonistic
+"102, 11",Antagonistic
+"72, 65",Antagonistic
+"52, 105, 1",Antagonistic
+"69, 36",Synergistic
+"63, 332",Antagonistic
+"44, 36, 1",Antagonistic
+"97, 74, 332",Antagonistic
+"34, 20",Synergistic
+"20, 52, 92",Antagonistic
+"72, 76, 1",Antagonistic
+"1, 103, 92",Antagonistic
+"87, 1, 52",Antagonistic
+"87, 68, 52",Synergistic
+"75, 106, 44",Antagonistic
+"34, 105",Antagonistic
+"33, 92, 90",Antagonistic
+"105, 69",Antagonistic
+"69, 102, 105",Antagonistic
+"68, 75",Synergistic
+"33, 106",Antagonistic
+"74, 107, 65",Antagonistic
+"24, 105, 102",Antagonistic
+"62, 1, 92",Synergistic
+"33, 90, 106",Antagonistic
+"97, 88",Antagonistic
+"52, 63",Antagonistic
+"2, 72, 45",Antagonistic
+"31, 33",Antagonistic
+"73, 65",Synergistic
+"45, 88, 53",Antagonistic
+"27, 44, 1",Antagonistic
+"107, 76, 69",Antagonistic
+"69, 62, 73",Antagonistic
+"88, 24",Antagonistic
+"34, 76",Antagonistic
+"103, 88",Antagonistic
+"44, 69",Antagonistic
+"68, 87",Synergistic
+"75, 24",Antagonistic
+"103, 102",Antagonistic
+"45, 72, 92",Antagonistic
+"45, 31, 1",Antagonistic
+"75, 53",Antagonistic
+"63, 88",Antagonistic
+"106, 36",Antagonistic
+"92, 76, 1",Antagonistic
+"31, 11, 45",Antagonistic
+"68, 88, 33",Antagonistic
+"69, 75",Antagonistic
+"103, 88, 24",Antagonistic
+"14, 1, 92",Antagonistic
+"332, 45",Antagonistic
+"36, 2, 53",Antagonistic
+"45, 332, 88",Antagonistic
+"2, 103, 53",Antagonistic
+"63, 1, 102",Antagonistic
+"53, 102",Antagonistic
+"44, 45, 11",Antagonistic
+"1, 62",Synergistic
+"11, 332, 1",Antagonistic
+"68, 76, 102",Antagonistic
+"14, 52, 1",Synergistic
+"107, 76, 1",Antagonistic
+"72, 33, 92",Antagonistic
+"107, 33, 1",Antagonistic
+"75, 73, 69",Antagonistic
+"103, 24",Antagonistic
+"63, 1, 53",Antagonistic
+"74, 53",Synergistic
+"105, 2, 53",Antagonistic
+"65, 34, 2",Antagonistic
+"90, 34, 36",Antagonistic
+"65, 68",Antagonistic
+"332, 97",Antagonistic
+"63, 1",Antagonistic
