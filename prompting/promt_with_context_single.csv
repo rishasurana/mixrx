@@ -1,0 +1,6 @@
+Prompt,Context
+Given the following set of drugs, decide in a single word if the synergy of the drug combination is synergistic or antagonistic: 
+
+Drug A and Drug B have a Loewe score of:
+Drug A and C have a Loewe score of:...
+
