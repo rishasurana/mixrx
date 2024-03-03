@@ -67,7 +67,7 @@ for prediction in model_predictions:
     if actual_response.lower() == model_prediction.lower():
         true_positives += 1
     else:
-        if actual_response.lower() == "synergistic":
+        if actual_response.lower() == "antagonistic":
             false_negatives += 1
         if model_prediction.lower() == "synergistic":
             false_positives += 1
