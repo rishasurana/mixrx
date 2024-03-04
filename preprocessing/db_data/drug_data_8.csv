@@ -1,0 +1,1819 @@
+drugNameA,drugNameB,idDrugA,idDrugB,comboId,bliss,loewe,hsa,zip
+RS-127445,Temozolomide,1603,92,590904,-0.1937,0.007,0.007,-0.1933
+2-Methoxyestradiol,Temozolomide,378,92,591432,-0.2303,0.044,0.044,-0.2299
+Abt-737,Temozolomide,397,92,591453,-0.2384,0.022,0.022,-0.238
+Mitoxantrone hydrochloride,Temozolomide,1319,92,590614,-0.2859,0.33,0.33,-0.2858
+Rosuvastatin calcium,Temozolomide,1650,92,590954,-0.3295,0.075,0.075,-0.3292
+Livalo,Temozolomide,1541,92,590842,-0.3722,0.074,0.074,-0.372
+Jtc-801,Temozolomide,1151,92,590433,-0.3892,-0.097,-0.097,-0.3888
+GDC-0879,Temozolomide,1011,92,590284,-0.3984,0.011,0.011,-0.3982
+PluriSln 1,Temozolomide,1543,92,590844,-0.4334,-0.016,-0.016,-0.4331
+Gentian violet,Temozolomide,779,92,591861,-0.4403,-0.008,-0.008,-0.4401
+Temozolomide,Temozolomide,92,92,592016,-0.4444,0.132,0.132,-0.4443
+beta-Lapachone,Temozolomide,612,92,591684,-0.4536,0.162,0.162,-0.4536
+Fluvastatin sodium,Temozolomide,997,92,592088,-0.4591,0.001,0.001,-0.4589
+Ruxolitinib,Temozolomide,343,92,591407,-0.4868,0.029,0.029,-0.4866
+Flupirtine maleate,Temozolomide,993,92,592084,-0.4917,0.045,0.045,-0.4915
+Pirarubicin,Temozolomide,1537,92,590838,-0.4964,-0.248,-0.248,-0.4961
+2-Methyladenine,Temozolomide,383,92,591438,-0.5024,0.07,0.07,-0.5023
+Gestodene,Temozolomide,1046,92,590321,-0.5081,0.108,0.108,-0.508
+Rifampicin,Temozolomide,1628,92,590929,-0.5131,0.103,0.103,-0.5131
+TG-100115,Temozolomide,1795,92,591106,-0.5134,0.058,0.058,-0.5133
+Doxofylline,Temozolomide,872,92,591956,-0.5154,0.062,0.062,-0.5153
+Doripenem hydrate,Temozolomide,865,92,591949,-0.5191,0.097,0.097,-0.519
+8-Azaguanine,Temozolomide,390,92,591446,-0.5209,-0.024,-0.024,-0.5207
+CYC-116,Temozolomide,678,92,591754,-0.521,-0.207,-0.207,-0.5207
+Ifosfamide,Temozolomide,47,92,591542,-0.5232,0.084,0.084,-0.5231
+Meclizine hydrochloride,Temozolomide,1272,92,590562,-0.5245,0.044,0.044,-0.5243
+Glycyrrhizic acid,Temozolomide,1057,92,590333,-0.529,0.087,0.087,-0.5289
+PD-184352,Temozolomide,1458,92,590759,-0.5334,0.0819,0.082,-0.5335
+Calcifediol,Temozolomide,683,92,591759,-0.5346,0.081,0.081,-0.5346
+Cefoselis sulfate,Temozolomide,709,92,591788,-0.5372,0.077,0.077,-0.5371
+NVP-TAE226,Temozolomide,1782,92,591093,-0.5382,-0.251,-0.251,-0.5378
+Moexipril hydrochloride,Temozolomide,1323,92,590618,-0.539,0.077,0.077,-0.539
+Doxercalciferol,Temozolomide,870,92,591954,-0.5406,0.075,0.075,-0.5406
+"Autophagy Inducer, STF-62247",Temozolomide,1695,92,591001,-0.5442,0.0709,0.071,-0.5443
+Varespladib,Temozolomide,1941,92,591261,-0.5473,0.046,0.046,-0.5472
+Diosmetin,Temozolomide,852,92,591936,-0.5479,0.068,0.068,-0.5478
+Hesperidin,Temozolomide,1081,92,590358,-0.5503,0.045,0.045,-0.5502
+Fludarabine phosphate,Temozolomide,982,92,592072,-0.5504,0.028,0.028,-0.5503
+Matrine,Temozolomide,365,92,591418,-0.5512,0.062,0.062,-0.5511
+Raltitrexed,Temozolomide,1608,92,590909,-0.5541,-0.409,-0.409,-0.5536
+Raloxifene hydrochloride,Temozolomide,1606,92,590907,-0.5555,0.01,0.01,-0.5553
+Almotriptan malate,Temozolomide,471,92,591534,-0.5563,0.041,0.041,-0.5562
+Norethindrone,Temozolomide,1404,92,590705,-0.5569,0.059,0.059,-0.5569
+Bendamustine hydrochloride,Temozolomide,595,92,591667,-0.5572,0.053,0.053,-0.5571
+Dexrazoxane hydrochloride,Temozolomide,828,92,591911,-0.5573,0.028,0.028,-0.5572
+Foscarnet sodium,Temozolomide,1004,92,590277,-0.5586,-0.012,-0.012,-0.5584
+Clofarabine,Temozolomide,19,92,591314,-0.5609,-0.38,-0.38,-0.5604
+S-Ruxolitinib,Temozolomide,1660,92,590964,-0.5613,0.028,0.028,-0.5612
+Ammonium glycyrrhizate,Temozolomide,492,92,591557,-0.5651,0.051,0.051,-0.565
+Pyridostigmine bromide,Temozolomide,1584,92,590885,-0.5664,0.016,0.016,-0.5663
+PIK-75 Hydrochloride,Temozolomide,1481,92,590781,-0.5674,-0.476,-0.476,-0.5669
+Flucytosine,Temozolomide,981,92,592071,-0.5676,-0.015,-0.015,-0.5674
+Tofacitinib citrate,Temozolomide,1861,92,591174,-0.5682,0.035,0.035,-0.5681
+Zafirlukast,Temozolomide,1992,92,591313,-0.5684,0.005,0.005,-0.5683
+Malotilate,Temozolomide,1263,92,590553,-0.5691,0.047,0.047,-0.5691
+Dacarbazine,Temozolomide,22,92,591342,-0.5692,0.041,0.041,-0.5691
+Roxadustat,Temozolomide,954,92,592044,-0.5693,0.025,0.025,-0.5692
+Epirubicin hydrochloride,Temozolomide,921,92,592008,-0.5705,-0.173,-0.173,-0.5703
+Ivermectin,Temozolomide,1143,92,590425,-0.5709,0.045,0.045,-0.5708
+Tegafur,Temozolomide,955,92,592045,-0.5711,0.045,0.045,-0.5711
+Tofacitinib,Temozolomide,305,92,591385,-0.5714,0.004,0.004,-0.5713
+Repaglinide,Temozolomide,1619,92,590920,-0.5723,0.019,0.019,-0.5722
+MK-801,Temozolomide,371,92,591425,-0.5723,0.024,0.024,-0.5722
+LY-2608204,Temozolomide,1184,92,590468,-0.5723,0.0429,0.043,-0.5723
+Meglumine,Temozolomide,1276,92,590566,-0.5733,0.019,0.019,-0.5732
+Clomiphene citrate,Temozolomide,761,92,591842,-0.5738,0.042,0.042,-0.5738
+Pinometostat,Temozolomide,893,92,591979,-0.5742,0.027,0.027,-0.5742
+Amonafide,Temozolomide,493,92,591559,-0.5753,-0.139,-0.139,-0.575
+Amorolfine hydrochloride,Temozolomide,494,92,591560,-0.576,0.04,0.04,-0.5759
+Nafcillin sodium,Temozolomide,1359,92,590656,-0.5771,0.039,0.039,-0.577
+Naftopidil dihydrochloride,Temozolomide,1361,92,590658,-0.5771,0.039,0.039,-0.577
+Adl-5859,Temozolomide,400,92,591457,-0.577,0.039,0.039,-0.577
+TAK-700,Temozolomide,1786,92,591097,-0.5773,0.009,0.009,-0.5772
+Gatifloxacin,Temozolomide,1040,92,590315,-0.578,0.038,0.038,-0.578
+Amisulpride,Temozolomide,489,92,591554,-0.5781,0.038,0.038,-0.578
+Vistusertib,Temozolomide,117,92,590462,-0.5782,0.0369,0.037,-0.5783
+Biochanin A,Temozolomide,625,92,591698,-0.579,0.037,0.037,-0.5789
+Pha-793887,Temozolomide,1476,92,590776,-0.5792,-0.129,-0.129,-0.579
+Nafamostat mesylate,Temozolomide,1358,92,590654,-0.5793,0.021,0.021,-0.5792
+A-205804,Temozolomide,391,92,591447,-0.5792,0.023,0.023,-0.5792
+Y-27632 dihydrochloride,Temozolomide,1981,92,591301,-0.5802,0.025,0.025,-0.5801
+Haematoxylin,Temozolomide,1078,92,590355,-0.581,0.035,0.035,-0.5809
+Zolmitriptan,Temozolomide,2001,92,591324,-0.581,0.035,0.035,-0.5809
+Entecavir hydrate,Temozolomide,914,92,592001,-0.581,0.035,0.035,-0.5809
+Caspofungin acetate,Temozolomide,703,92,591781,-0.5812,0.03,0.03,-0.5811
+Meropenem,Temozolomide,1287,92,590578,-0.5822,0.032,0.032,-0.5821
+Alfacalcidol,Temozolomide,463,92,591525,-0.5832,0.0319,0.032,-0.5833
+Vismodegib,Temozolomide,254,92,591355,-0.5838,0.032,0.032,-0.5837
+Olsalazine sodium,Temozolomide,1420,92,590722,-0.5839,0.032,0.032,-0.5838
+Levetiracetam,Temozolomide,1203,92,590490,-0.585,0.031,0.031,-0.5849
+Rizatriptan benzoate,Temozolomide,1640,92,590943,-0.5851,0.031,0.031,-0.585
+Nepafenac,Temozolomide,1379,92,590677,-0.5852,0.022,0.022,-0.5851
+Maprotiline hydrochloride,Temozolomide,1266,92,590556,-0.5858,0.03,0.03,-0.5858
+Zingerone,Temozolomide,1938,92,591257,-0.5858,0.03,0.03,-0.5858
+Sanctura,Temozolomide,1898,92,591214,-0.5861,0.03,0.03,-0.586
+Ropivacaine hydrochloride,Temozolomide,1648,92,590951,-0.5868,0.029,0.029,-0.5868
+Navitoclax,Temozolomide,128,92,590580,-0.5887,-0.376,-0.376,-0.5882
+Cysteamine hydrochloride,Temozolomide,790,92,591872,-0.5886,0.027,0.027,-0.5886
+Doxorubicin,Temozolomide,33,92,591404,-0.5891,-0.123,-0.123,-0.5889
+Tilmicosin,Temozolomide,1851,92,591164,-0.5892,0.021,0.021,-0.5891
+Edaravone,Temozolomide,898,92,591984,-0.5892,0.023,0.023,-0.5891
+Darifenacin hydrobromide,Temozolomide,813,92,591895,-0.591,0.025,0.025,-0.5909
+Rocuronium bromide,Temozolomide,1642,92,590945,-0.5919,0.024,0.024,-0.5918
+Nalfon,Temozolomide,964,92,592054,-0.592,0.024,0.024,-0.5919
+PCI-34051,Temozolomide,1454,92,590755,-0.5927,0.023,0.023,-0.5927
+Hordenine,Temozolomide,1086,92,590363,-0.5929,0.023,0.023,-0.5928
+Zonisamide,Temozolomide,2002,92,591325,-0.593,0.023,0.023,-0.593
+Daptomycin,Temozolomide,812,92,591894,-0.5934,-0.011,-0.011,-0.5933
+Cytisine,Temozolomide,792,92,591874,-0.5939,0.022,0.022,-0.5938
+Rufinamide,Temozolomide,1655,92,590959,-0.5941,0.022,0.022,-0.594
+Hydroxyzine hydrochloride,Temozolomide,1090,92,590368,-0.5942,0.021,0.021,-0.5941
+Dizocilpine,Temozolomide,1248,92,590537,-0.5943,0,0,-0.5942
+UNII-0JAU3P8OBM,Temozolomide,1659,92,590963,-0.5949,0.021,0.021,-0.5948
+BTZ043 Racemate,Temozolomide,580,92,591651,-0.5948,0.021,0.021,-0.5948
+SB-203580,Temozolomide,1666,92,590970,-0.5953,-0.004,-0.004,-0.5952
+Mirabegron,Temozolomide,1317,92,590611,-0.5961,0.02,0.02,-0.596
+Dienogest,Temozolomide,841,92,591924,-0.596,0.02,0.02,-0.596
+Tetrahydrozoline hydrochloride,Temozolomide,1838,92,591150,-0.5967,0.019,0.019,-0.5966
+Ethionamide,Temozolomide,945,92,592034,-0.597,0.019,0.019,-0.5969
+Tetramisole,Temozolomide,373,92,591427,-0.5972,0.009,0.009,-0.5971
+Pacritinib,Temozolomide,1495,92,590796,-0.5977,-0.555,-0.555,-0.5972
+Cyclocytidine hydrochloride,Temozolomide,784,92,591866,-0.5979,-0.259,-0.259,-0.5976
+Oxcarbazepine,Temozolomide,1436,92,590737,-0.5981,0.018,0.018,-0.598
+Naphazoline hydrochloride,Temozolomide,1366,92,590663,-0.5988,0.017,0.017,-0.5987
+GSK-2636771,Temozolomide,1022,92,590295,-0.5991,0.017,0.017,-0.5991
+Genipin,Temozolomide,1042,92,590317,-0.5994,-0.018,-0.018,-0.5993
+Melatonin,Temozolomide,1277,92,590567,-0.6,0.016,0.016,-0.5999
+Spectracef,Temozolomide,707,92,591785,-0.6,0.016,0.016,-0.6
+Metolazone,Temozolomide,1303,92,590596,-0.6001,0.016,0.016,-0.6001
+Calcitriol,Temozolomide,684,92,591760,-0.6002,0.0149,0.015,-0.6002
+Geodon,Temozolomide,2000,92,591323,-0.6012,0.015,0.015,-0.6011
+Xolegel,Temozolomide,1163,92,590445,-0.6014,-0.024,-0.024,-0.6013
+Balofloxacin,Temozolomide,586,92,591657,-0.6019,0.014,0.014,-0.6019
+BIBR-1532,Temozolomide,561,92,591631,-0.6021,0.014,0.014,-0.602
+Laquinimod,Temozolomide,1201,92,590488,-0.6023,-0.017,-0.017,-0.6022
+Sant-1,Temozolomide,1662,92,590966,-0.6025,0.0129,0.013,-0.6025
+Drospirenone,Temozolomide,880,92,591964,-0.6026,0.013,0.013,-0.6026
+Sorbitol,Temozolomide,1743,92,591051,-0.6029,0.013,0.013,-0.6028
+Amlodipine,Temozolomide,491,92,591556,-0.6028,0.013,0.013,-0.6028
+Tianeptine sodium,Temozolomide,1846,92,591158,-0.6031,0.013,0.013,-0.603
+AZD-7762,Temozolomide,119,92,590485,-0.6038,-0.568,-0.568,-0.6032
+Alizapride hydrochloride,Temozolomide,467,92,591529,-0.6039,0.012,0.012,-0.6039
+Fasudil hydrochloride,Temozolomide,959,92,592049,-0.604,0.012,0.012,-0.6039
+Luliconazole,Temozolomide,1235,92,590523,-0.6043,-0.013,-0.013,-0.6042
+Honokiol,Temozolomide,1085,92,590362,-0.6049,0.011,0.011,-0.6048
+Carboplatin,Temozolomide,14,92,590793,-0.6051,0.011,0.011,-0.6051
+Bms-707035,Temozolomide,572,92,591643,-0.606,0.01,0.01,-0.6059
+Spectinomycin hydrochloride,Temozolomide,1747,92,591055,-0.6061,0.01,0.01,-0.606
+Adapalene,Temozolomide,454,92,591515,-0.6064,-0.345,-0.345,-0.606
+Felbamate,Temozolomide,960,92,592050,-0.6069,0.009,0.009,-0.6068
+Camptosar,Temozolomide,1130,92,590411,-0.6075,-0.366,-0.366,-0.6071
+Methazolamide,Temozolomide,1292,92,590584,-0.6077,0.008,0.008,-0.6077
+Camptothecin,Temozolomide,687,92,591763,-0.6082,-0.477,-0.477,-0.6077
+3-Aminobenzamide,Temozolomide,1101,92,590379,-0.6079,0.008,0.008,-0.6079
+Ethinyl estradiol,Temozolomide,272,92,591366,-0.608,0.008,0.008,-0.608
+Dexmedetomidine,Temozolomide,827,92,591910,-0.6085,-0.04,-0.04,-0.6083
+TCS PIM-1 4a,Temozolomide,1688,92,590992,-0.6088,0.007,0.007,-0.6088
+Tempol,Temozolomide,1825,92,591136,-0.6092,-0.004,-0.004,-0.6091
+Bazedoxifene hydrochloride,Temozolomide,590,92,591662,-0.6092,0.0059,0.006,-0.6092
+Mestranol,Temozolomide,1290,92,590582,-0.6098,0.006,0.006,-0.6097
+S3I-201,Temozolomide,1661,92,590965,-0.61,0.006,0.006,-0.61
+Bleomycin sulfate,Temozolomide,631,92,591704,-0.6105,-0.363,-0.363,-0.6101
+Ritonavir,Temozolomide,235,92,591344,-0.6104,0.0049,0.005,-0.6104
+Ritodrine hydrochloride,Temozolomide,1637,92,590939,-0.6109,0.005,0.005,-0.6108
+Volasertib,Temozolomide,1957,92,591276,-0.6113,-0.337,-0.337,-0.6109
+Acetylcysteine,Temozolomide,449,92,591510,-0.611,0.005,0.005,-0.6109
+Chlorpropamide,Temozolomide,726,92,591806,-0.611,0.005,0.005,-0.6109
+Naproxen,Temozolomide,1367,92,590664,-0.6118,0.004,0.004,-0.6118
+PIK-293,Temozolomide,1479,92,590779,-0.612,0.004,0.004,-0.6119
+Silodosin,Temozolomide,1723,92,591031,-0.612,0.004,0.004,-0.6119
+Tizanidine hydrochloride,Temozolomide,1860,92,591173,-0.612,0.004,0.004,-0.612
+Dichlorphenamide,Temozolomide,833,92,591916,-0.6124,-0.033,-0.033,-0.6123
+Gemcitabine,Temozolomide,45,92,591520,-0.6128,-0.424,-0.424,-0.6124
+Doryx,Temozolomide,875,92,591958,-0.6128,0.003,0.003,-0.6128
+Fluvoxamine maleate,Temozolomide,998,92,592089,-0.6128,0.003,0.003,-0.6128
+Methimazole,Temozolomide,1294,92,590587,-0.6131,0.003,0.003,-0.613
+Piracetam,Temozolomide,1536,92,590837,-0.613,0.003,0.003,-0.613
+Kytril,Temozolomide,1062,92,590338,-0.6134,-0.043,-0.043,-0.6133
+Histamine dihydrochloride,Temozolomide,1083,92,590360,-0.6139,0.002,0.002,-0.6138
+Otilonium Bromide,Temozolomide,1432,92,590734,-0.614,0.002,0.002,-0.614
+SB-216763,Temozolomide,1667,92,590971,-0.6142,-0.01,-0.01,-0.6141
+Prasugrel,Temozolomide,1556,92,590857,-0.615,0.001,0.001,-0.6149
+Varenicline tartrate,Temozolomide,1940,92,591260,-0.615,0.001,0.001,-0.615
+Talc,Temozolomide,1808,92,591119,-0.6156,0,0,-0.6156
+Capecitabine,Temozolomide,13,92,590692,-0.616,0,0,-0.6159
+Enalaprilat dihydrate,Temozolomide,909,92,591996,-0.616,0,0,-0.6159
+Caffeic acid,Temozolomide,681,92,591757,-0.6168,-0.001,-0.001,-0.6168
+Levofloxacin,Temozolomide,1206,92,590493,-0.617,-0.001,-0.001,-0.6169
+Probucol,Temozolomide,1569,92,590870,-0.6169,-0.001,-0.001,-0.6169
+Buparlisib,Temozolomide,118,92,590473,-0.6178,-0.433,-0.433,-0.6174
+Pyrazolanthrone,Temozolomide,214,92,591332,-0.618,-0.615,-0.615,-0.6174
+Vonoprazan Fumarate,Temozolomide,1784,92,591095,-0.6183,-0.021,-0.021,-0.6182
+Ciclopirox olamine,Temozolomide,734,92,591814,-0.6189,-0.285,-0.285,-0.6186
+Brivanib alaninate,Temozolomide,636,92,591709,-0.6187,-0.003,-0.003,-0.6187
+Bumetanide,Temozolomide,645,92,591719,-0.6189,-0.003,-0.003,-0.6189
+Pyrithione ZINC,Temozolomide,1999,92,591322,-0.62,-0.62,-0.62,-0.6194
+BGT-226 maleate,Temozolomide,560,92,591630,-0.62,-0.62,-0.62,-0.6194
+Fimepinostat,Temozolomide,677,92,591753,-0.62,-0.62,-0.62,-0.6194
+SB-408124,Temozolomide,1670,92,590974,-0.6196,-0.004,-0.004,-0.6196
+Mevastatin,Temozolomide,1306,92,590599,-0.6197,-0.004,-0.004,-0.6197
+Phenylbutazone,Temozolomide,1519,92,590820,-0.6198,-0.004,-0.004,-0.6198
+Flumazenil,Temozolomide,984,92,592074,-0.6202,-0.013,-0.013,-0.6201
+Ixazomib,Temozolomide,1254,92,590544,-0.621,-0.62,-0.62,-0.6204
+Elaiophylin,Temozolomide,901,92,591988,-0.621,-0.62,-0.62,-0.6204
+Nicaraven,Temozolomide,1383,92,590681,-0.6208,-0.005,-0.005,-0.6207
+Pravastatin sodium,Temozolomide,1557,92,590858,-0.6209,-0.005,-0.005,-0.6209
+Triclabendazole,Temozolomide,1889,92,591204,-0.6214,-0.046,-0.046,-0.6213
+Bortezomib,Temozolomide,11,92,590478,-0.622,-0.617,-0.617,-0.6214
+Z-Leu-leu-leu-al,Temozolomide,1241,92,590530,-0.622,-0.618,-0.618,-0.6214
+Oprozomib,Temozolomide,1424,92,590726,-0.622,-0.62,-0.62,-0.6214
+Clomipramine hydrochloride,Temozolomide,762,92,591843,-0.6215,-0.0061,-0.006,-0.6215
+Argatroban,Temozolomide,521,92,591588,-0.6217,-0.006,-0.006,-0.6217
+Reboxetine mesylate,Temozolomide,1616,92,590917,-0.6218,-0.006,-0.006,-0.6218
+Omnicef,Temozolomide,706,92,591784,-0.6219,-0.006,-0.006,-0.6218
+Nelarabine,Temozolomide,70,92,591787,-0.622,-0.006,-0.006,-0.6219
+Sulbactam,Temozolomide,1756,92,591065,-0.6222,-0.008,-0.008,-0.6221
+Carfilzomib,Temozolomide,110,92,590387,-0.623,-0.618,-0.618,-0.6224
+Terazosin hydrochloride dihydrate,Temozolomide,1830,92,591142,-0.6228,-0.007,-0.007,-0.6227
+Benazepril hydrochloride,Temozolomide,594,92,591666,-0.6227,-0.007,-0.007,-0.6227
+Thalidomide,Temozolomide,94,92,592038,-0.6229,-0.007,-0.007,-0.6229
+Tripelennamine hydrochloride,Temozolomide,1894,92,591210,-0.6231,-0.007,-0.007,-0.623
+Tanshinone IIA,Temozolomide,1814,92,591125,-0.6237,-0.0092,-0.009,-0.6238
+Cinepazide maleate,Temozolomide,744,92,591824,-0.6239,-0.008,-0.008,-0.6239
+Voxtalisib,Temozolomide,1664,92,590968,-0.6241,-0.008,-0.008,-0.6241
+Quisinostat,Temozolomide,1593,92,590894,-0.625,-0.62,-0.62,-0.6244
+Ciclopirox,Temozolomide,733,92,591813,-0.6248,-0.265,-0.265,-0.6245
+Asiatic acid,Temozolomide,529,92,591596,-0.6246,-0.009,-0.009,-0.6246
+Ramelteon,Temozolomide,1609,92,590910,-0.6249,-0.009,-0.009,-0.6249
+Tenofovir disoproxil fumarate,Temozolomide,1827,92,591138,-0.6249,-0.009,-0.009,-0.6249
+Prilocaine,Temozolomide,1564,92,590865,-0.625,-0.009,-0.009,-0.625
+Mosapride citrate,Temozolomide,1330,92,590625,-0.6251,-0.009,-0.009,-0.6251
+Delanzomib,Temozolomide,658,92,591733,-0.626,-0.618,-0.618,-0.6254
+SB-415286,Temozolomide,1671,92,590975,-0.6257,-0.01,-0.01,-0.6257
+Enrofloxacin,Temozolomide,912,92,591999,-0.6257,-0.01,-0.01,-0.6257
+Nattokinase,Temozolomide,1256,92,590546,-0.627,-0.619,-0.619,-0.6264
+Onx-0914,Temozolomide,1410,92,590712,-0.627,-0.62,-0.62,-0.6264
+SN 38 Lactone,Temozolomide,87,92,591962,-0.6271,-0.481,-0.481,-0.6266
+Sotalol,Temozolomide,1744,92,591052,-0.6268,-0.011,-0.011,-0.6267
+Diamminedichloroplatinum,Temozolomide,29,92,591381,-0.6268,-0.011,-0.011,-0.6268
+Andarine,Temozolomide,506,92,591573,-0.6269,-0.011,-0.011,-0.6269
+Etodolac,Temozolomide,947,92,592036,-0.627,-0.011,-0.011,-0.627
+Detrol,Temozolomide,1869,92,591182,-0.6279,-0.012,-0.012,-0.6279
+Avagacestat,Temozolomide,541,92,591609,-0.6279,-0.012,-0.012,-0.6279
+Detomidine hydrochloride,Temozolomide,825,92,591908,-0.6281,-0.012,-0.012,-0.628
+STF-118804,Temozolomide,1694,92,591000,-0.6289,-0.618,-0.618,-0.6283
+Synephrine hydrochloride,Temozolomide,1780,92,591091,-0.6286,-0.013,-0.013,-0.6286
+2-Thiouracil,Temozolomide,379,92,591434,-0.6289,-0.013,-0.013,-0.6288
+Spironolactone,Temozolomide,1749,92,591058,-0.6291,-0.013,-0.013,-0.6291
+Allapinine,Temozolomide,1200,92,590487,-0.6298,-0.014,-0.014,-0.6298
+Amfenac sodium hydrate,Temozolomide,482,92,591546,-0.63,-0.014,-0.014,-0.6299
+Diacerein,Temozolomide,830,92,591913,-0.6299,-0.014,-0.014,-0.6299
+Alphagan,Temozolomide,634,92,591707,-0.63,-0.014,-0.014,-0.63
+LY-294002,Temozolomide,1189,92,590474,-0.6306,-0.015,-0.015,-0.6306
+Scopolamine hydrobromide,Temozolomide,1711,92,591018,-0.6308,-0.015,-0.015,-0.6308
+Rociletinib,Temozolomide,670,92,591746,-0.6314,-0.056,-0.056,-0.6313
+Pramipexole,Temozolomide,1551,92,590852,-0.6316,-0.016,-0.016,-0.6316
+Oxeladin citrate,Temozolomide,1437,92,590738,-0.6317,-0.016,-0.016,-0.6317
+Azilsartan medoxomil,Temozolomide,553,92,591622,-0.6318,-0.016,-0.016,-0.6318
+Hmn-214,Temozolomide,1074,92,590351,-0.6328,-0.437,-0.437,-0.6323
+Dacinostat,Temozolomide,1176,92,590459,-0.6329,-0.619,-0.619,-0.6323
+TG-003,Temozolomide,1794,92,591105,-0.6324,-0.062,-0.062,-0.6323
+Tenovin-1,Temozolomide,1828,92,591139,-0.6325,-0.076,-0.076,-0.6324
+Lidocaine,Temozolomide,1211,92,590499,-0.6329,-0.017,-0.017,-0.6328
+Selumetinib,Temozolomide,137,92,590676,-0.6334,-0.0181,-0.018,-0.6334
+Priftin,Temozolomide,1629,92,590931,-0.6337,-0.018,-0.018,-0.6337
+Tubastatin A hydrochloride,Temozolomide,1901,92,591217,-0.6338,-0.018,-0.018,-0.6338
+Org27569,Temozolomide,1425,92,590727,-0.634,-0.018,-0.018,-0.634
+Crizotinib,Temozolomide,168,92,590993,-0.6344,-0.212,-0.212,-0.6341
+MEK1/2 Inhibitor,Temozolomide,1687,92,590991,-0.6346,-0.019,-0.019,-0.6346
+Neohesperidin,Temozolomide,1378,92,590675,-0.6348,-0.019,-0.019,-0.6347
+Sorafenib tosylate,Temozolomide,1742,92,591050,-0.6347,-0.019,-0.019,-0.6347
+Cytarabine,Temozolomide,21,92,591335,-0.6352,-0.342,-0.342,-0.6348
+Itraconazole,Temozolomide,277,92,591370,-0.6359,-0.612,-0.612,-0.6353
+Penicillin G sodium,Temozolomide,1509,92,590810,-0.6355,-0.0201,-0.02,-0.6355
+Diclofenac sodium,Temozolomide,837,92,591920,-0.6356,-0.02,-0.02,-0.6356
+Lornoxicam,Temozolomide,1229,92,590517,-0.6359,-0.02,-0.02,-0.6358
+Nefopam hydrochloride,Temozolomide,1377,92,590674,-0.6358,-0.02,-0.02,-0.6358
+Ondansetron hydrochloride,Temozolomide,1423,92,590725,-0.6359,-0.02,-0.02,-0.6358
+Topiramate,Temozolomide,294,92,591379,-0.6358,-0.02,-0.02,-0.6358
+Mizoribine,Temozolomide,1320,92,590615,-0.6359,-0.02,-0.02,-0.6359
+AS-252424,Temozolomide,298,92,591380,-0.6359,-0.02,-0.02,-0.6359
+Prucalopride,Temozolomide,1579,92,590880,-0.6361,-0.02,-0.02,-0.636
+Tropisetron,Temozolomide,1897,92,591213,-0.6361,-0.02,-0.02,-0.636
+Agomelatine,Temozolomide,461,92,591523,-0.6361,-0.02,-0.02,-0.636
+Gossypol,Temozolomide,2005,92,591328,-0.636,-0.0211,-0.021,-0.6361
+Trichostatin A,Temozolomide,1887,92,591201,-0.6369,-0.618,-0.618,-0.6363
+Methotrexate,Temozolomide,63,92,591712,-0.6369,-0.457,-0.457,-0.6364
+Rosiglitazone,Temozolomide,237,92,591345,-0.6365,-0.0211,-0.021,-0.6365
+Naringenin,Temozolomide,1369,92,590666,-0.6366,-0.021,-0.021,-0.6366
+Bimatoprost,Temozolomide,623,92,591696,-0.6367,-0.021,-0.021,-0.6367
+Methenamine,Temozolomide,1293,92,590586,-0.6368,-0.021,-0.021,-0.6368
+Bromhexine hydrochloride,Temozolomide,638,92,591711,-0.6369,-0.021,-0.021,-0.6369
+Alogliptin,Temozolomide,473,92,591536,-0.6371,-0.021,-0.021,-0.637
+Altretamine,Temozolomide,4,92,591558,-0.6373,-0.048,-0.048,-0.6372
+Formoterol hemifumarate,Temozolomide,1001,92,590274,-0.6376,-0.022,-0.022,-0.6376
+Guaifenesin,Temozolomide,1064,92,590340,-0.6377,-0.022,-0.022,-0.6377
+Leflunomide,Temozolomide,278,92,591371,-0.6378,-0.022,-0.022,-0.6378
+Trilostane,Temozolomide,1892,92,591207,-0.638,-0.022,-0.022,-0.6379
+Trifluoperazine dihydrochloride,Temozolomide,1890,92,591205,-0.638,-0.022,-0.022,-0.638
+AM251,Temozolomide,410,92,591467,-0.6383,-0.045,-0.045,-0.6382
+Birinapant,Temozolomide,628,92,591701,-0.6385,-0.071,-0.071,-0.6383
+MK-0752,Temozolomide,1243,92,590532,-0.6387,-0.023,-0.023,-0.6386
+Uridine,Temozolomide,1916,92,591233,-0.6388,-0.023,-0.023,-0.6387
+Cimetidine,Temozolomide,740,92,591820,-0.6387,-0.023,-0.023,-0.6387
+Ebastine,Temozolomide,896,92,591982,-0.639,-0.0241,-0.024,-0.6391
+Meloxicam,Temozolomide,1278,92,590568,-0.6397,-0.024,-0.024,-0.6397
+Celecoxib,Temozolomide,16,92,590998,-0.6397,-0.024,-0.024,-0.6397
+Triciribine,Temozolomide,1888,92,591202,-0.6399,-0.145,-0.145,-0.6397
+Irbesartan,Temozolomide,1129,92,590410,-0.6398,-0.024,-0.024,-0.6398
+Tioconazole,Temozolomide,1854,92,591167,-0.6399,-0.024,-0.024,-0.6398
+Voriconazole,Temozolomide,1958,92,591277,-0.6398,-0.024,-0.024,-0.6398
+Phenazopyridine hydrochloride,Temozolomide,1512,92,590813,-0.6399,-0.024,-0.024,-0.6399
+Estrone,Temozolomide,941,92,592030,-0.64,-0.024,-0.024,-0.6399
+Chlorothiazide,Temozolomide,722,92,591802,-0.6402,-0.025,-0.025,-0.6401
+Clobetasol propionate,Temozolomide,758,92,591838,-0.6402,-0.0263,-0.026,-0.6404
+Phlorizin,Temozolomide,1524,92,590825,-0.6407,-0.025,-0.025,-0.6406
+Ronidazole,Temozolomide,1646,92,590949,-0.6407,-0.025,-0.025,-0.6406
+Dimesna,Temozolomide,848,92,591931,-0.6407,-0.025,-0.025,-0.6406
+Chloramphenicol,Temozolomide,718,92,591797,-0.6407,-0.025,-0.025,-0.6407
+Sulfapyridine,Temozolomide,1769,92,591079,-0.6408,-0.025,-0.025,-0.6408
+Pazopanib hydrochloride,Temozolomide,1504,92,590805,-0.6413,-0.37,-0.37,-0.6409
+Phenothiazine,Temozolomide,1516,92,590817,-0.6409,-0.025,-0.025,-0.6409
+Rulide,Temozolomide,1653,92,590957,-0.6409,-0.025,-0.025,-0.6409
+Mepivacaine hydrochloride,Temozolomide,1283,92,590574,-0.6411,-0.025,-0.025,-0.641
+Pralatrexate,Temozolomide,81,92,591901,-0.6415,-0.408,-0.408,-0.6411
+Emtricitabine,Temozolomide,907,92,591994,-0.6416,-0.026,-0.026,-0.6416
+Xanthone,Temozolomide,1977,92,591296,-0.6419,-0.026,-0.026,-0.6418
+Methocarbamol,Temozolomide,1295,92,590588,-0.642,-0.026,-0.026,-0.6419
+Exemestane,Temozolomide,38,92,591444,-0.642,-0.026,-0.026,-0.6419
+Dioscin,Temozolomide,851,92,591935,-0.6428,-0.61,-0.61,-0.6422
+AZ-3146,Temozolomide,426,92,591484,-0.6425,-0.247,-0.247,-0.6423
+Sclareolide,Temozolomide,1708,92,591015,-0.6427,-0.027,-0.027,-0.6426
+Enoxolone,Temozolomide,911,92,591998,-0.6426,-0.027,-0.027,-0.6426
+Aminoglutethimide,Temozolomide,485,92,591549,-0.6428,-0.027,-0.027,-0.6427
+Vecuronium bromide,Temozolomide,1944,92,591264,-0.6429,-0.027,-0.027,-0.6428
+Floxuridine,Temozolomide,39,92,591455,-0.6432,-0.359,-0.359,-0.6429
+Erythromycin,Temozolomide,933,92,592021,-0.6431,-0.027,-0.027,-0.6431
+Praziquantel,Temozolomide,1558,92,590859,-0.6437,-0.028,-0.028,-0.6436
+Daclatasvir,Temozolomide,803,92,591885,-0.6436,-0.028,-0.028,-0.6436
+Sulfameter,Temozolomide,1763,92,591073,-0.6437,-0.028,-0.028,-0.6437
+Lomibuvir,Temozolomide,1926,92,591244,-0.6437,-0.028,-0.028,-0.6437
+Lenalidomide,Temozolomide,54,92,591617,-0.6437,-0.028,-0.028,-0.6437
+Chlorquinaldol,Temozolomide,728,92,591808,-0.6437,-0.028,-0.028,-0.6437
+Iniparib,Temozolomide,1125,92,590405,-0.6439,-0.028,-0.028,-0.6438
+Ascorbyl palmitate,Temozolomide,1173,92,590456,-0.6439,-0.028,-0.028,-0.6439
+Telbivudine,Temozolomide,1822,92,591133,-0.644,-0.028,-0.028,-0.644
+BI-D1870,Temozolomide,191,92,591236,-0.644,-0.028,-0.028,-0.644
+Adavosertib,Temozolomide,2,92,591378,-0.6445,-0.403,-0.403,-0.6441
+Cilostazol,Temozolomide,739,92,591819,-0.6444,-0.0291,-0.029,-0.6444
+Sarafloxacin hydrochloride,Temozolomide,1703,92,591010,-0.6446,-0.029,-0.029,-0.6446
+Embelin,Temozolomide,203,92,591329,-0.6446,-0.029,-0.029,-0.6446
+Prazosin hydrochloride,Temozolomide,1559,92,590860,-0.6449,-0.029,-0.029,-0.6448
+Cinacalcet hydrochloride,Temozolomide,741,92,591821,-0.6448,-0.029,-0.029,-0.6448
+Bms-265246,Temozolomide,569,92,591640,-0.6452,-0.0301,-0.03,-0.6453
+AZD-1981,Temozolomide,432,92,591491,-0.6456,-0.03,-0.03,-0.6456
+Ki16198,Temozolomide,1167,92,590449,-0.6457,-0.03,-0.03,-0.6457
+Odanacatib,Temozolomide,1414,92,590716,-0.6459,-0.03,-0.03,-0.6458
+Sulfasalazine,Temozolomide,1770,92,591080,-0.6458,-0.03,-0.03,-0.6458
+Arbidol Hydrochloride,Temozolomide,518,92,591585,-0.6458,-0.03,-0.03,-0.6458
+Zocor,Temozolomide,182,92,591140,-0.6459,-0.03,-0.03,-0.6459
+Megestrol Acetate,Temozolomide,58,92,591660,-0.6462,-0.0311,-0.031,-0.6463
+Kinetin,Temozolomide,1170,92,590453,-0.6464,-0.0311,-0.031,-0.6464
+DL-Carnitine hydrochloride,Temozolomide,798,92,591881,-0.6468,-0.031,-0.031,-0.6467
+Dibucaine hydrochloride,Temozolomide,832,92,591915,-0.6467,-0.031,-0.031,-0.6467
+Clorprenaline hydrochloride,Temozolomide,765,92,591846,-0.6474,-0.0321,-0.032,-0.6474
+Betaxolol,Temozolomide,616,92,591688,-0.6475,-0.0321,-0.032,-0.6475
+Dropropizine,Temozolomide,879,92,591963,-0.6477,-0.032,-0.032,-0.6476
+Methscopolamine,Temozolomide,1296,92,590589,-0.6477,-0.032,-0.032,-0.6477
+Olmesartan medoxomil,Temozolomide,1418,92,590720,-0.6478,-0.032,-0.032,-0.6477
+Atropine,Temozolomide,539,92,591607,-0.6477,-0.032,-0.032,-0.6477
+Vanillin,Temozolomide,1937,92,591256,-0.6478,-0.032,-0.032,-0.6478
+Scopolamine butylbromide,Temozolomide,651,92,591726,-0.6478,-0.032,-0.032,-0.6478
+Triamcinolone acetonide,Temozolomide,1884,92,591198,-0.6478,-0.0332,-0.033,-0.6479
+NSC-405020,Temozolomide,1347,92,590643,-0.6484,-0.0331,-0.033,-0.6484
+Benzydamine hydrochloride,Temozolomide,605,92,591677,-0.6483,-0.0331,-0.033,-0.6484
+Prucalopride succinate,Temozolomide,1580,92,590881,-0.6485,-0.0331,-0.033,-0.6485
+Nizatidine,Temozolomide,1400,92,590701,-0.6486,-0.033,-0.033,-0.6486
+Tranilast,Temozolomide,1880,92,591194,-0.6487,-0.033,-0.033,-0.6487
+Oxybutynin chloride,Temozolomide,1442,92,590743,-0.6491,-0.033,-0.033,-0.649
+Acemetacin,Temozolomide,444,92,591504,-0.6491,-0.033,-0.033,-0.649
+Brefeldin A,Temozolomide,633,92,591706,-0.6495,-0.575,-0.575,-0.649
+Glipizide,Temozolomide,1054,92,590330,-0.6497,-0.034,-0.034,-0.6497
+Safinamide mesylate,Temozolomide,1696,92,591002,-0.6497,-0.034,-0.034,-0.6497
+Aminocaproic acid,Temozolomide,374,92,591428,-0.6497,-0.034,-0.034,-0.6497
+Ampicillin trihydrate,Temozolomide,498,92,591564,-0.65,-0.034,-0.034,-0.6499
+Bisoprolol fumarate,Temozolomide,630,92,591703,-0.65,-0.034,-0.034,-0.6499
+Bosentan hydrate,Temozolomide,632,92,591705,-0.65,-0.034,-0.034,-0.65
+Sclareol,Temozolomide,1707,92,591014,-0.6504,-0.0351,-0.035,-0.6505
+Primaquine phosphate,Temozolomide,1565,92,590866,-0.6506,-0.035,-0.035,-0.6506
+Apitolisib,Temozolomide,1012,92,590285,-0.6508,-0.035,-0.035,-0.6507
+Naftopidil,Temozolomide,1360,92,590657,-0.6507,-0.035,-0.035,-0.6507
+GW-5074,Temozolomide,1028,92,590301,-0.6509,-0.035,-0.035,-0.6509
+Levosimendan,Temozolomide,1208,92,590495,-0.6515,-0.0361,-0.036,-0.6515
+Phenylephrine hydrochloride,Temozolomide,1520,92,590821,-0.6515,-0.0361,-0.036,-0.6515
+Levonorgestrel,Temozolomide,1207,92,590494,-0.6517,-0.036,-0.036,-0.6517
+Oxaprozin,Temozolomide,1435,92,590736,-0.6517,-0.036,-0.036,-0.6517
+Phenylmethylsulfonyl fluoride,Temozolomide,1484,92,590784,-0.6518,-0.036,-0.036,-0.6517
+Sulfamethoxypyridazine,Temozolomide,1767,92,591077,-0.6517,-0.036,-0.036,-0.6517
+Procaine hydrochloride,Temozolomide,1570,92,590871,-0.6518,-0.036,-0.036,-0.6518
+Racecadotril,Temozolomide,1604,92,590905,-0.6518,-0.036,-0.036,-0.6518
+UPF-1069,Temozolomide,1911,92,591228,-0.6518,-0.036,-0.036,-0.6518
+Sodium valproate,Temozolomide,1935,92,591254,-0.6518,-0.036,-0.036,-0.6518
+Vinflunine Tartrate,Temozolomide,1951,92,591270,-0.6523,-0.385,-0.385,-0.652
+Octopamine hydrochloride,Temozolomide,367,92,591420,-0.652,-0.036,-0.036,-0.652
+4-Chloro-3-methylphenol,Temozolomide,720,92,591800,-0.6522,-0.0371,-0.037,-0.6523
+Malonoben,Temozolomide,1903,92,591219,-0.6523,-0.0382,-0.038,-0.6524
+Naringin,Temozolomide,1370,92,590667,-0.6525,-0.0371,-0.037,-0.6525
+Astragaloside A,Temozolomide,532,92,591599,-0.6526,-0.037,-0.037,-0.6526
+Doxapram hydrochloride monohydrate,Temozolomide,868,92,591951,-0.6535,-0.0381,-0.038,-0.6535
+Epinephrine bitartrate,Temozolomide,919,92,592006,-0.6536,-0.038,-0.038,-0.6536
+Unii-84F6U3J2R6,Temozolomide,1034,92,590308,-0.6538,-0.038,-0.038,-0.6538
+JNJ-7777120,Temozolomide,1149,92,590431,-0.6538,-0.038,-0.038,-0.6538
+Geniposidic acid,Temozolomide,1044,92,590319,-0.6539,-0.038,-0.038,-0.6539
+Dofetilide,Temozolomide,860,92,591944,-0.6539,-0.038,-0.038,-0.6539
+Fenticonazole nitrate,Temozolomide,966,92,592056,-0.6544,-0.0391,-0.039,-0.6544
+Linezolid,Temozolomide,1215,92,590503,-0.6546,-0.039,-0.039,-0.6546
+Bacitracin ZINC,Temozolomide,583,92,591654,-0.6548,-0.039,-0.039,-0.6548
+Carbidopa,Temozolomide,698,92,591775,-0.6549,-0.039,-0.039,-0.6548
+Finasteride,Temozolomide,972,92,592062,-0.6549,-0.039,-0.039,-0.6549
+Hdac-IN-1,Temozolomide,1239,92,590528,-0.655,-0.039,-0.039,-0.655
+Alvespimycin,Temozolomide,162,92,590930,-0.6554,-0.397,-0.397,-0.655
+Ganetespib,Temozolomide,1038,92,590312,-0.6556,-0.424,-0.424,-0.6551
+Nocodazole,Temozolomide,1402,92,590703,-0.6556,-0.425,-0.425,-0.6552
+Chlormezanone,Temozolomide,719,92,591799,-0.6552,-0.053,-0.053,-0.6552
+Desmethyl Erlotinib,Temozolomide,1412,92,590714,-0.6554,-0.0401,-0.04,-0.6554
+Kaempferol,Temozolomide,1161,92,590443,-0.6556,-0.04,-0.04,-0.6556
+Phloretin,Temozolomide,1523,92,590824,-0.6556,-0.04,-0.04,-0.6556
+Silibinin,Temozolomide,1722,92,591030,-0.6556,-0.04,-0.04,-0.6556
+Proparacaine hydrochloride,Temozolomide,1575,92,590876,-0.6557,-0.04,-0.04,-0.6557
+Ginkgolide-B,Temozolomide,1049,92,590325,-0.6558,-0.04,-0.04,-0.6558
+Sodium picosulfate,Temozolomide,1737,92,591045,-0.6562,-0.045,-0.045,-0.6561
+Galunisertib,Temozolomide,1181,92,590465,-0.6564,-0.0411,-0.041,-0.6564
+Levothyroxine,Temozolomide,1174,92,590457,-0.6566,-0.041,-0.041,-0.6566
+Cinchonidine,Temozolomide,742,92,591822,-0.6568,-0.041,-0.041,-0.6567
+Glimepiride,Temozolomide,1053,92,590329,-0.6568,-0.041,-0.041,-0.6568
+Sulfisoxazole,Temozolomide,1772,92,591082,-0.6568,-0.041,-0.041,-0.6568
+SRT1720 HCl,Temozolomide,1692,92,590997,-0.6569,-0.041,-0.041,-0.6569
+Hymecromone,Temozolomide,385,92,591440,-0.657,-0.041,-0.041,-0.657
+PF-04691502,Temozolomide,1462,92,590763,-0.6577,-0.611,-0.611,-0.6571
+Galeterone,Temozolomide,1035,92,590309,-0.6572,-0.0421,-0.042,-0.6573
+Halobetasol propionate,Temozolomide,1076,92,590353,-0.6571,-0.0433,-0.043,-0.6573
+Benzoic acid,Temozolomide,603,92,591675,-0.6575,-0.0421,-0.042,-0.6575
+Paeonol,Temozolomide,1497,92,590798,-0.6577,-0.042,-0.042,-0.6576
+Phenytoin,Temozolomide,1521,92,590822,-0.6576,-0.042,-0.042,-0.6576
+Fluoxetine hydrochloride,Temozolomide,992,92,592083,-0.6576,-0.042,-0.042,-0.6576
+Lamotrigine,Temozolomide,1197,92,590483,-0.658,-0.042,-0.042,-0.6579
+Nilstat,Temozolomide,1407,92,590708,-0.6584,-0.0431,-0.043,-0.6584
+Nadifloxacin,Temozolomide,1357,92,590653,-0.6586,-0.043,-0.043,-0.6586
+Tropicamide,Temozolomide,1896,92,591212,-0.6588,-0.043,-0.043,-0.6587
+Zibotentan,Temozolomide,258,92,591359,-0.6588,-0.043,-0.043,-0.6588
+Tirbanibulin,Temozolomide,1159,92,590441,-0.6593,-0.388,-0.388,-0.6589
+Dexamethasone,Temozolomide,27,92,591372,-0.6588,-0.0442,-0.044,-0.6589
+Isradipine,Temozolomide,1139,92,590421,-0.659,-0.043,-0.043,-0.659
+Indole-3-carbinol,Temozolomide,320,92,591394,-0.6595,-0.0441,-0.044,-0.6595
+Nifenazone,Temozolomide,1390,92,590689,-0.6597,-0.044,-0.044,-0.6596
+Sophocarpine,Temozolomide,1741,92,591049,-0.6596,-0.044,-0.044,-0.6596
+IOX2,Temozolomide,1103,92,590381,-0.6599,-0.044,-0.044,-0.6598
+Pirfenidone,Temozolomide,1538,92,590839,-0.6598,-0.044,-0.044,-0.6598
+Dexlansoprazole,Temozolomide,826,92,591909,-0.6604,-0.0451,-0.045,-0.6604
+Potassium iodide,Temozolomide,1549,92,590850,-0.6606,-0.045,-0.045,-0.6606
+Hyodeoxycholic acid,Temozolomide,1091,92,590369,-0.6607,-0.045,-0.045,-0.6607
+Camostat mesylate,Temozolomide,686,92,591762,-0.6607,-0.045,-0.045,-0.6607
+Metoprolol tartrate,Temozolomide,1304,92,590597,-0.6609,-0.045,-0.045,-0.6608
+Carbenoxolone sodium,Temozolomide,697,92,591774,-0.6612,-0.0461,-0.046,-0.6612
+Levodropropizine,Temozolomide,1205,92,590492,-0.6614,-0.0461,-0.046,-0.6615
+Eprazinone dihydrochloride,Temozolomide,925,92,592012,-0.6615,-0.0461,-0.046,-0.6615
+Orotic acid,Temozolomide,1428,92,590730,-0.6616,-0.046,-0.046,-0.6616
+Rolipram,Temozolomide,1645,92,590948,-0.6617,-0.046,-0.046,-0.6617
+Imiquimod,Temozolomide,49,92,591565,-0.6617,-0.046,-0.046,-0.6617
+Clopidogrel,Temozolomide,764,92,591845,-0.6617,-0.046,-0.046,-0.6617
+PRX-08066 maleic acid,Temozolomide,1493,92,590794,-0.6623,-0.0471,-0.047,-0.6624
+BRL-15572,Temozolomide,577,92,591648,-0.6623,-0.0471,-0.047,-0.6624
+Lithocholic acid,Temozolomide,1219,92,590507,-0.6624,-0.0471,-0.047,-0.6625
+CHEMBL272357,Temozolomide,386,92,591441,-0.6627,-0.133,-0.133,-0.6625
+Pancuronium bromide,Temozolomide,1501,92,590802,-0.6627,-0.047,-0.047,-0.6626
+Piroxicam,Temozolomide,1540,92,590841,-0.6626,-0.047,-0.047,-0.6626
+Iloperidone,Temozolomide,1117,92,590396,-0.6628,-0.047,-0.047,-0.6627
+Indacaterol maleate,Temozolomide,1121,92,590401,-0.6627,-0.047,-0.047,-0.6627
+Adenine hydrochloride,Temozolomide,456,92,591517,-0.6627,-0.047,-0.047,-0.6627
+Pizotifen malate,Temozolomide,1542,92,590843,-0.6629,-0.047,-0.047,-0.6628
+Tanespimycin,Temozolomide,351,92,591410,-0.6636,-0.435,-0.435,-0.6632
+SB-271046,Temozolomide,1669,92,590973,-0.6634,-0.0481,-0.048,-0.6634
+Noscapine hydrochloride,Temozolomide,1405,92,590706,-0.6635,-0.0481,-0.048,-0.6635
+Eprosartan mesylate,Temozolomide,926,92,592013,-0.6635,-0.0481,-0.048,-0.6635
+Salidroside,Temozolomide,1699,92,591006,-0.6636,-0.048,-0.048,-0.6636
+Dronedarone hydrochloride,Temozolomide,877,92,591960,-0.6636,-0.048,-0.048,-0.6636
+beta-Carotene,Temozolomide,611,92,591683,-0.6637,-0.048,-0.048,-0.6637
+Furosemide,Temozolomide,1007,92,590280,-0.6638,-0.048,-0.048,-0.6638
+Bepotastine besilate,Temozolomide,607,92,591679,-0.6638,-0.048,-0.048,-0.6638
+Pranoprofen,Temozolomide,1555,92,590856,-0.6643,-0.071,-0.071,-0.6642
+Domperidone,Temozolomide,863,92,591947,-0.6644,-0.0491,-0.049,-0.6644
+Aclidinium bromide,Temozolomide,453,92,591514,-0.6646,-0.049,-0.049,-0.6646
+Clozapine,Temozolomide,771,92,591853,-0.6646,-0.049,-0.049,-0.6646
+Mannitol,Temozolomide,793,92,591876,-0.6646,-0.049,-0.049,-0.6646
+Nilvadipine,Temozolomide,1393,92,590693,-0.6648,-0.049,-0.049,-0.6647
+Canagliflozin,Temozolomide,688,92,591764,-0.6647,-0.049,-0.049,-0.6647
+Mesalamine,Temozolomide,1288,92,590579,-0.6648,-0.049,-0.049,-0.6648
+Milnacipran hydrochloride,Temozolomide,1315,92,590609,-0.6648,-0.049,-0.049,-0.6648
+TAK-715,Temozolomide,1787,92,591098,-0.6648,-0.049,-0.049,-0.6648
+Cilazapril monohydrate,Temozolomide,735,92,591815,-0.6648,-0.049,-0.049,-0.6648
+Chromocarb,Temozolomide,730,92,591810,-0.6654,-0.0501,-0.05,-0.6654
+Pramoxine hydrochloride,Temozolomide,1553,92,590854,-0.6654,-0.0501,-0.05,-0.6655
+Doxifluridine,Temozolomide,871,92,591955,-0.6656,-0.05,-0.05,-0.6656
+Indole-3-butyric acid,Temozolomide,382,92,591437,-0.6658,-0.05,-0.05,-0.6657
+Aliskiren hemifumarate,Temozolomide,466,92,591528,-0.6657,-0.05,-0.05,-0.6657
+SSR128129E,Temozolomide,1693,92,590999,-0.6666,-0.051,-0.051,-0.6666
+Doramapimod,Temozolomide,564,92,591634,-0.6666,-0.051,-0.051,-0.6666
+Enobosarm,Temozolomide,1247,92,590536,-0.6667,-0.051,-0.051,-0.6667
+Phentolamine mesylate,Temozolomide,1518,92,590819,-0.6667,-0.051,-0.051,-0.6667
+TGF-beta RI Inhibitor III,Temozolomide,1673,92,590977,-0.6669,-0.165,-0.165,-0.6667
+Ergocalciferol,Temozolomide,1954,92,591273,-0.6667,-0.051,-0.051,-0.6667
+Anastrozole,Temozolomide,7,92,591875,-0.6669,-0.051,-0.051,-0.6668
+Dutasteride,Temozolomide,883,92,591967,-0.6669,-0.051,-0.051,-0.6668
+Homatropine hydrobromide,Temozolomide,1084,92,590361,-0.667,-0.051,-0.051,-0.6669
+Epinephrine hydrochloride,Temozolomide,920,92,592007,-0.6669,-0.051,-0.051,-0.6669
+PHA-767491,Temozolomide,1475,92,590775,-0.667,-0.051,-0.051,-0.667
+Acetanilide,Temozolomide,446,92,591506,-0.6674,-0.0521,-0.052,-0.6674
+Hyoscyamine,Temozolomide,1092,92,590370,-0.6674,-0.0521,-0.052,-0.6675
+Carprofen,Temozolomide,701,92,591779,-0.6675,-0.0521,-0.052,-0.6675
+Ferrostatin-1,Temozolomide,967,92,592057,-0.6676,-0.052,-0.052,-0.6676
+Resveratrol,Temozolomide,1622,92,590923,-0.6677,-0.052,-0.052,-0.6677
+Prednisone,Temozolomide,1561,92,590862,-0.6679,-0.052,-0.052,-0.6679
+Ursodeoxycholic acid,Temozolomide,1917,92,591234,-0.6683,-0.078,-0.078,-0.6682
+Fulvestrant,Temozolomide,42,92,591487,-0.6684,-0.0531,-0.053,-0.6684
+Benserazide hydrochloride,Temozolomide,599,92,591671,-0.6686,-0.053,-0.053,-0.6686
+Danoprevir,Temozolomide,807,92,591889,-0.6687,-0.053,-0.053,-0.6687
+Diphenhydramine hydrochloride,Temozolomide,856,92,591940,-0.6687,-0.053,-0.053,-0.6687
+Moxonidine,Temozolomide,1334,92,590629,-0.6689,-0.053,-0.053,-0.6688
+Pretomanid,Temozolomide,1452,92,590753,-0.6689,-0.053,-0.053,-0.6688
+Prednisolone,Temozolomide,1560,92,590861,-0.6693,-0.0541,-0.054,-0.6694
+Gramine,Temozolomide,1061,92,590337,-0.6695,-0.0541,-0.054,-0.6695
+Dehydroepiandrosterone,Temozolomide,819,92,591902,-0.6694,-0.0541,-0.054,-0.6695
+WZ-811,Temozolomide,1970,92,591289,-0.6696,-0.054,-0.054,-0.6696
+"2,4,5-Trimethoxybenzaldehyde",Temozolomide,527,92,591594,-0.6696,-0.054,-0.054,-0.6696
+Epinephrine,Temozolomide,1172,92,590455,-0.6697,-0.054,-0.054,-0.6697
+Venlafaxine,Temozolomide,1945,92,591265,-0.6697,-0.054,-0.054,-0.6697
+ZM 323881 hydrochloride,Temozolomide,1988,92,591308,-0.6697,-0.054,-0.054,-0.6697
+Rifabutin,Temozolomide,1627,92,590928,-0.6698,-0.054,-0.054,-0.6698
+Ursolic acid,Temozolomide,1918,92,591235,-0.6703,-0.0551,-0.055,-0.6703
+Hydralazine hydrochloride,Temozolomide,1087,92,590364,-0.6704,-0.0551,-0.055,-0.6705
+Phenoxybenzamine hydrochloride,Temozolomide,1517,92,590818,-0.6705,-0.0551,-0.055,-0.6705
+Vidarabine,Temozolomide,1947,92,591267,-0.6705,-0.0551,-0.055,-0.6705
+Naringin dihydrochalcone,Temozolomide,1371,92,590668,-0.6706,-0.055,-0.055,-0.6706
+Tolfenamic acid,Temozolomide,1865,92,591178,-0.6707,-0.055,-0.055,-0.6707
+ML133 hydrochloride,Temozolomide,1252,92,590542,-0.6708,-0.055,-0.055,-0.6708
+SB-269970 hydrochloride,Temozolomide,1668,92,590972,-0.6708,-0.055,-0.055,-0.6708
+Tanshinone I,Temozolomide,1813,92,591124,-0.671,-0.055,-0.055,-0.6709
+Nalidixic acid,Temozolomide,1362,92,590659,-0.6716,-0.056,-0.056,-0.6716
+Natamycin,Temozolomide,1372,92,590669,-0.6716,-0.056,-0.056,-0.6716
+Omipalisib,Temozolomide,1020,92,590293,-0.6722,-0.548,-0.548,-0.6717
+Genistein,Temozolomide,1045,92,590320,-0.6719,-0.056,-0.056,-0.6718
+Sulfamethazine,Temozolomide,1764,92,591074,-0.6718,-0.056,-0.056,-0.6718
+Temocapril hydrochloride,Temozolomide,1824,92,591135,-0.6718,-0.056,-0.056,-0.6718
+PI3K inhibitor X,Temozolomide,361,92,591414,-0.6719,-0.056,-0.056,-0.6718
+Medetomidine hydrochloride,Temozolomide,1273,92,590563,-0.6719,-0.056,-0.056,-0.6719
+Sepantronium Bromide,Temozolomide,184,92,591161,-0.6725,-0.586,-0.586,-0.6719
+Cryptotanshinone,Temozolomide,778,92,591860,-0.6718,-0.0572,-0.057,-0.6719
+Anisotropine methylbromide,Temozolomide,509,92,591576,-0.6722,-0.0571,-0.057,-0.6722
+KW-2478,Temozolomide,1158,92,590440,-0.6727,-0.306,-0.306,-0.6724
+Atorvastatin calcium,Temozolomide,536,92,591603,-0.6723,-0.0571,-0.057,-0.6724
+Prochlorperazine maleate,Temozolomide,1571,92,590872,-0.6725,-0.0571,-0.057,-0.6725
+Azelnidipine,Temozolomide,551,92,591620,-0.6725,-0.0571,-0.057,-0.6725
+Neflamapimod,Temozolomide,1928,92,591246,-0.6726,-0.057,-0.057,-0.6726
+Voglibose,Temozolomide,1956,92,591275,-0.6726,-0.057,-0.057,-0.6726
+Naloxone hydrochloride,Temozolomide,1363,92,590660,-0.6727,-0.057,-0.057,-0.6727
+Zoledronic Acid,Temozolomide,108,92,590366,-0.6728,-0.057,-0.057,-0.6728
+Indapamide,Temozolomide,1122,92,590402,-0.6728,-0.057,-0.057,-0.6728
+Lansoprazole,Temozolomide,1198,92,590484,-0.6728,-0.057,-0.057,-0.6728
+Cabazitaxel,Temozolomide,680,92,591756,-0.6739,-0.491,-0.491,-0.6734
+Isovaleramide,Temozolomide,1137,92,590418,-0.6735,-0.0581,-0.058,-0.6735
+Mesna,Temozolomide,1289,92,590581,-0.6735,-0.0581,-0.058,-0.6735
+Priligy,Temozolomide,811,92,591893,-0.6735,-0.0581,-0.058,-0.6735
+Methyl-Hesperidin,Temozolomide,1298,92,590591,-0.6736,-0.058,-0.058,-0.6736
+Streptozocin,Temozolomide,89,92,591985,-0.6736,-0.058,-0.058,-0.6736
+Cetirizine hydrochloride,Temozolomide,714,92,591793,-0.6737,-0.058,-0.058,-0.6737
+Etomidate,Temozolomide,949,92,592039,-0.6737,-0.058,-0.058,-0.6737
+Ivacaftor,Temozolomide,1142,92,590424,-0.6738,-0.058,-0.058,-0.6738
+MPEP,Temozolomide,1259,92,590549,-0.6738,-0.058,-0.058,-0.6738
+Cyclophosphamide,Temozolomide,20,92,591331,-0.6738,-0.058,-0.058,-0.6738
+Pentamidine,Temozolomide,1510,92,590811,-0.6743,-0.0591,-0.059,-0.6743
+RKI-1447,Temozolomide,1602,92,590903,-0.6744,-0.0591,-0.059,-0.6744
+GW-9662,Temozolomide,318,92,591392,-0.6745,-0.0591,-0.059,-0.6745
+Tetrahydropalmatine,Temozolomide,1651,92,590955,-0.6747,-0.059,-0.059,-0.6747
+Tadalafil,Temozolomide,1807,92,591118,-0.6748,-0.059,-0.059,-0.6747
+Albendazole oxide,Temozolomide,462,92,591524,-0.6749,-0.059,-0.059,-0.6748
+Lomustine,Temozolomide,56,92,591639,-0.6749,-0.059,-0.059,-0.6748
+Flavoxate hydrochloride,Temozolomide,976,92,592066,-0.6748,-0.059,-0.059,-0.6748
+Flubendazole,Temozolomide,979,92,592069,-0.6754,-0.423,-0.423,-0.675
+CGS 21680 hydrochloride,Temozolomide,663,92,591738,-0.6754,-0.0601,-0.06,-0.6754
+Fenspiride hydrochloride,Temozolomide,965,92,592055,-0.6754,-0.0601,-0.06,-0.6754
+PD128907 Hydrochloride,Temozolomide,1456,92,590757,-0.6756,-0.06,-0.06,-0.6756
+Gemfibrozil,Temozolomide,1041,92,590316,-0.6757,-0.06,-0.06,-0.6757
+Flunixin meglumine,Temozolomide,988,92,592078,-0.6759,-0.06,-0.06,-0.6758
+Ilomastat,Temozolomide,1116,92,590395,-0.6764,-0.0611,-0.061,-0.6765
+Myricetin,Temozolomide,1338,92,590633,-0.6766,-0.061,-0.061,-0.6766
+Benzethonium chloride,Temozolomide,601,92,591673,-0.6765,-0.0622,-0.062,-0.6766
+Venetoclax,Temozolomide,163,92,590941,-0.677,-0.193,-0.193,-0.6768
+Teniposide,Temozolomide,93,92,592027,-0.6773,-0.567,-0.567,-0.6768
+Lumiracoxib,Temozolomide,1236,92,590524,-0.6769,-0.061,-0.061,-0.6769
+BIIB-021,Temozolomide,562,92,591632,-0.6774,-0.413,-0.413,-0.677
+Phenformin hydrochloride,Temozolomide,1513,92,590814,-0.6773,-0.0621,-0.062,-0.6773
+Loratadine,Temozolomide,1227,92,590515,-0.6774,-0.0621,-0.062,-0.6774
+Bromfenac sodium,Temozolomide,637,92,591710,-0.6776,-0.062,-0.062,-0.6776
+Methyclothiazide,Temozolomide,1297,92,590590,-0.6784,-0.0631,-0.063,-0.6784
+Reserpine,Temozolomide,1620,92,590921,-0.6785,-0.0631,-0.063,-0.6785
+Timolol maleate,Temozolomide,1852,92,591165,-0.6785,-0.0631,-0.063,-0.6785
+Guanosine,Temozolomide,1068,92,590344,-0.6786,-0.063,-0.063,-0.6786
+Mirtazapine,Temozolomide,1318,92,590612,-0.6785,-0.063,-0.063,-0.6786
+Succinylcholine chloride dihydrate,Temozolomide,1754,92,591063,-0.6786,-0.063,-0.063,-0.6786
+Sildenafil citrate,Temozolomide,1721,92,591029,-0.6787,-0.063,-0.063,-0.6787
+5-Hydroxytryptophan,Temozolomide,388,92,591443,-0.6793,-0.0641,-0.064,-0.6793
+Amiodarone hydrochloride,Temozolomide,488,92,591552,-0.6793,-0.0641,-0.064,-0.6793
+Trichlormethiazide,Temozolomide,1886,92,591200,-0.6794,-0.0641,-0.064,-0.6794
+Selisistat,Temozolomide,310,92,591388,-0.6794,-0.0641,-0.064,-0.6794
+Piperine,Temozolomide,1535,92,590836,-0.6795,-0.0641,-0.064,-0.6795
+Pranlukast,Temozolomide,1554,92,590855,-0.6795,-0.0641,-0.064,-0.6795
+Ractopamine hydrochloride,Temozolomide,1605,92,590906,-0.6795,-0.0641,-0.064,-0.6795
+Serotonin hydrochloride,Temozolomide,1716,92,591023,-0.6795,-0.0641,-0.064,-0.6795
+Suvorexant,Temozolomide,1778,92,591088,-0.6795,-0.0641,-0.064,-0.6795
+VU-0357121,Temozolomide,1921,92,591239,-0.6795,-0.0641,-0.064,-0.6795
+7-Aminocephalosporanic acid,Temozolomide,389,92,591445,-0.6795,-0.0641,-0.064,-0.6795
+Acarbose,Temozolomide,441,92,591501,-0.6795,-0.0641,-0.064,-0.6795
+Tigecycline,Temozolomide,1850,92,591163,-0.6797,-0.064,-0.064,-0.6797
+Jnj-38877605,Temozolomide,1147,92,590429,-0.6799,-0.064,-0.064,-0.6799
+Tyrphostin A23,Temozolomide,406,92,591463,-0.6799,-0.064,-0.064,-0.6799
+Evacetrapib,Temozolomide,951,92,592041,-0.6803,-0.0651,-0.065,-0.6803
+Doxazosin mesylate,Temozolomide,869,92,591953,-0.6804,-0.0651,-0.065,-0.6804
+LY-2811376,Temozolomide,1186,92,590470,-0.6805,-0.0651,-0.065,-0.6805
+Aprepitant,Temozolomide,260,92,591361,-0.6805,-0.0651,-0.065,-0.6805
+Asenapine,Temozolomide,528,92,591595,-0.6805,-0.0651,-0.065,-0.6805
+Nimodipine,Temozolomide,1395,92,590695,-0.6806,-0.065,-0.065,-0.6806
+20-Hydroxyecdysone,Temozolomide,380,92,591435,-0.6807,-0.065,-0.065,-0.6807
+Captopril,Temozolomide,692,92,591768,-0.6807,-0.065,-0.065,-0.6807
+Torin 2,Temozolomide,1876,92,591189,-0.6813,-0.576,-0.576,-0.6808
+Sulconazole nitrate,Temozolomide,1758,92,591067,-0.6816,-0.066,-0.066,-0.6816
+Flunarizine hydrochloride,Temozolomide,987,92,592077,-0.6815,-0.066,-0.066,-0.6816
+Mocetinostat,Temozolomide,1321,92,590616,-0.6824,-0.592,-0.592,-0.6819
+Levosulpiride,Temozolomide,1209,92,590497,-0.6825,-0.0671,-0.067,-0.6825
+Plantomycin,Temozolomide,1753,92,591062,-0.6826,-0.067,-0.067,-0.6826
+Cilomilast,Temozolomide,738,92,591818,-0.6826,-0.067,-0.067,-0.6826
+U0126-EtOH,Temozolomide,1907,92,591223,-0.6827,-0.067,-0.067,-0.6827
+Amg-517,Temozolomide,412,92,591469,-0.6827,-0.067,-0.067,-0.6827
+Gefitinib,Temozolomide,43,92,591498,-0.6828,-0.067,-0.067,-0.6828
+Tak-901,Temozolomide,1790,92,591101,-0.6835,-0.609,-0.609,-0.683
+Luminespib,Temozolomide,424,92,591482,-0.6834,-0.428,-0.428,-0.683
+Guanethidine monosulfate,Temozolomide,1066,92,590342,-0.6832,-0.0681,-0.068,-0.6833
+Motesanib diphosphate,Temozolomide,1331,92,590626,-0.6835,-0.118,-0.118,-0.6833
+Guanidine hydrochloride,Temozolomide,1067,92,590343,-0.6835,-0.0681,-0.068,-0.6835
+Mercaptopurine,Temozolomide,61,92,591691,-0.6835,-0.0681,-0.068,-0.6835
+Cleocin,Temozolomide,755,92,591835,-0.6835,-0.0681,-0.068,-0.6835
+Scopine hydrochloride,Temozolomide,1710,92,591017,-0.6836,-0.068,-0.068,-0.6836
+Oxaliplatin,Temozolomide,75,92,591839,-0.6836,-0.068,-0.068,-0.6836
+Phthalylsulfacetamide,Temozolomide,1525,92,590826,-0.6843,-0.0691,-0.069,-0.6843
+Lomefloxacin hydrochloride,Temozolomide,1220,92,590508,-0.6843,-0.0691,-0.069,-0.6844
+Amprolium,Temozolomide,502,92,591569,-0.6845,-0.0691,-0.069,-0.6845
+Dydrogesterone,Temozolomide,885,92,591969,-0.6845,-0.0691,-0.069,-0.6845
+Ribavirin,Temozolomide,1625,92,590926,-0.6846,-0.069,-0.069,-0.6846
+Vilazodone hydrochloride,Temozolomide,1948,92,591268,-0.6846,-0.069,-0.069,-0.6846
+BRL-54443,Temozolomide,578,92,591649,-0.6846,-0.069,-0.069,-0.6846
+Sertaconazole nitrate,Temozolomide,1717,92,591024,-0.6847,-0.069,-0.069,-0.6847
+Cholecalciferol,Temozolomide,1955,92,591274,-0.685,-0.0701,-0.07,-0.6851
+Semagacestat,Temozolomide,1714,92,591021,-0.6855,-0.0701,-0.07,-0.6855
+Tolmetin sodium,Temozolomide,1866,92,591179,-0.6858,-0.07,-0.07,-0.6857
+Diethylstilbestrol,Temozolomide,842,92,591925,-0.6858,-0.07,-0.07,-0.6858
+Tosedostat,Temozolomide,1878,92,591191,-0.6862,-0.082,-0.082,-0.6861
+Tranylcypromine hydrochloride,Temozolomide,1881,92,591195,-0.6862,-0.0711,-0.071,-0.6863
+Tyrphostin AG 1024,Temozolomide,403,92,591460,-0.6862,-0.0711,-0.071,-0.6863
+Gynostemma Extract,Temozolomide,1069,92,590346,-0.6865,-0.0711,-0.071,-0.6865
+Curcumol,Temozolomide,780,92,591862,-0.6866,-0.071,-0.071,-0.6866
+Rasagiline mesylate,Temozolomide,1614,92,590915,-0.6868,-0.071,-0.071,-0.6868
+Mifepristone,Temozolomide,1312,92,590606,-0.6873,-0.0721,-0.072,-0.6873
+Stigmasterol,Temozolomide,1752,92,591061,-0.6873,-0.0721,-0.072,-0.6873
+Bupivacaine hydrochloride,Temozolomide,646,92,591720,-0.6875,-0.0721,-0.072,-0.6875
+Salinomycin,Temozolomide,1700,92,591007,-0.6877,-0.072,-0.072,-0.6877
+Tyrphostin B42,Temozolomide,407,92,591464,-0.688,-0.072,-0.072,-0.688
+Cct-129202,Temozolomide,656,92,591731,-0.6881,-0.072,-0.072,-0.688
+Abiraterone acetate,Temozolomide,439,92,591499,-0.6881,-0.0731,-0.073,-0.6882
+Lincomycin hydrochloride,Temozolomide,1214,92,590502,-0.6884,-0.0731,-0.073,-0.6884
+Gossypol acetic acid,Temozolomide,419,92,591477,-0.6884,-0.0742,-0.074,-0.6885
+Liothyronine sodium,Temozolomide,1217,92,590505,-0.6886,-0.073,-0.073,-0.6886
+Apigenin,Temozolomide,513,92,591580,-0.6886,-0.073,-0.073,-0.6886
+KPT-185,Temozolomide,1153,92,590435,-0.6888,-0.073,-0.073,-0.6887
+Bilobalide,Temozolomide,622,92,591695,-0.6887,-0.073,-0.073,-0.6887
+Canertinib,Temozolomide,691,92,591767,-0.689,-0.073,-0.073,-0.6889
+Dynasore,Temozolomide,886,92,591970,-0.6892,-0.086,-0.086,-0.6891
+Paclitaxel,Temozolomide,76,92,591850,-0.6898,-0.5,-0.5,-0.6894
+ID-8,Temozolomide,1096,92,590374,-0.6895,-0.0741,-0.074,-0.6895
+Rabusertib,Temozolomide,1183,92,590467,-0.6899,-0.517,-0.517,-0.6895
+Azacyclonol,Temozolomide,546,92,591614,-0.6894,-0.0741,-0.074,-0.6895
+Ranolazine,Temozolomide,1612,92,590913,-0.6897,-0.074,-0.074,-0.6896
+Sulfamethoxazole,Temozolomide,1766,92,591076,-0.6896,-0.074,-0.074,-0.6896
+WZ-4003,Temozolomide,1968,92,591287,-0.6896,-0.074,-0.074,-0.6896
+PIK-294,Temozolomide,1480,92,590780,-0.69,-0.074,-0.074,-0.69
+Nicorandil,Temozolomide,1385,92,590683,-0.6903,-0.0751,-0.075,-0.6903
+Dapt,Temozolomide,795,92,591878,-0.6904,-0.0751,-0.075,-0.6904
+Terbinafine hydrochloride,Temozolomide,1832,92,591144,-0.6905,-0.0751,-0.075,-0.6905
+Ampelopsin,Temozolomide,845,92,591928,-0.6904,-0.0751,-0.075,-0.6905
+Flopropione,Temozolomide,977,92,592067,-0.6904,-0.0751,-0.075,-0.6905
+Sulfathiazole,Temozolomide,1771,92,591081,-0.6906,-0.075,-0.075,-0.6906
+Chrysin,Temozolomide,731,92,591811,-0.6906,-0.075,-0.075,-0.6906
+Formestane,Temozolomide,999,92,592090,-0.6907,-0.075,-0.075,-0.6907
+Azaperone,Temozolomide,547,92,591615,-0.6912,-0.0761,-0.076,-0.6913
+Methylthiouracil,Temozolomide,1301,92,590594,-0.6914,-0.0761,-0.076,-0.6914
+PHT-427,Temozolomide,1477,92,590777,-0.6916,-0.076,-0.076,-0.6916
+Pimobendan,Temozolomide,1532,92,590833,-0.6916,-0.076,-0.076,-0.6916
+Saxagliptin,Temozolomide,1705,92,591012,-0.6916,-0.076,-0.076,-0.6916
+Azatadine maleate,Temozolomide,548,92,591616,-0.6916,-0.076,-0.076,-0.6916
+Lithium citrate,Temozolomide,1218,92,590506,-0.6917,-0.076,-0.076,-0.6917
+Varlitinib,Temozolomide,1942,92,591262,-0.692,-0.076,-0.076,-0.6919
+Sodium nitrite,Temozolomide,1734,92,591042,-0.6922,-0.0771,-0.077,-0.6923
+Nobiletin,Temozolomide,1401,92,590702,-0.6924,-0.0771,-0.077,-0.6924
+Zoxazolamine,Temozolomide,2004,92,591327,-0.6924,-0.0771,-0.077,-0.6924
+A-803467,Temozolomide,394,92,591450,-0.6924,-0.0771,-0.077,-0.6925
+Diosmin,Temozolomide,853,92,591937,-0.6925,-0.0771,-0.077,-0.6925
+Nicotinamide,Temozolomide,1386,92,590684,-0.6927,-0.077,-0.077,-0.6927
+JNJ-7706621,Temozolomide,1148,92,590430,-0.6929,-0.077,-0.077,-0.6928
+KU-55933,Temozolomide,325,92,591398,-0.6929,-0.077,-0.077,-0.6928
+Tetraethylenepentamine pentahydrochloride,Temozolomide,1836,92,591148,-0.6933,-0.0781,-0.078,-0.6933
+Docetaxel,Temozolomide,32,92,591399,-0.6937,-0.487,-0.487,-0.6933
+HMTase Inhibitor IX,Temozolomide,1257,92,590547,-0.6935,-0.0781,-0.078,-0.6935
+Ropinirole hydrochloride,Temozolomide,1647,92,590950,-0.6934,-0.0781,-0.078,-0.6935
+Uracil,Temozolomide,1914,92,591231,-0.6935,-0.0781,-0.078,-0.6935
+Brivanib,Temozolomide,300,92,591382,-0.6934,-0.0781,-0.078,-0.6935
+Alverine citrate,Temozolomide,477,92,591540,-0.6935,-0.0781,-0.078,-0.6935
+Cephalomannine,Temozolomide,712,92,591791,-0.694,-0.537,-0.537,-0.6935
+Etamsylate,Temozolomide,944,92,592033,-0.6935,-0.0781,-0.078,-0.6935
+Quinapril hydrochloride,Temozolomide,1591,92,590892,-0.6944,-0.0791,-0.079,-0.6944
+Morin hydrate,Temozolomide,1328,92,590623,-0.6945,-0.0791,-0.079,-0.6945
+Isoniazid,Temozolomide,276,92,591369,-0.6945,-0.0791,-0.079,-0.6945
+Geniposide,Temozolomide,1043,92,590318,-0.6946,-0.079,-0.079,-0.6946
+Estriol,Temozolomide,940,92,592029,-0.6946,-0.079,-0.079,-0.6946
+Cladribine,Temozolomide,18,92,591208,-0.6952,-0.403,-0.403,-0.6948
+Hesperadin,Temozolomide,1079,92,590356,-0.6954,-0.597,-0.597,-0.6949
+Ipriflavone,Temozolomide,1128,92,590408,-0.6951,-0.0801,-0.08,-0.6951
+Seliciclib,Temozolomide,1649,92,590953,-0.6952,-0.0801,-0.08,-0.6953
+Fasiglifam,Temozolomide,1789,92,591100,-0.6953,-0.0801,-0.08,-0.6953
+Phenytoin sodium,Temozolomide,1522,92,590823,-0.6955,-0.0801,-0.08,-0.6955
+Chlorogenic acid,Temozolomide,721,92,591801,-0.6955,-0.0801,-0.08,-0.6955
+Diclofenac potassium,Temozolomide,836,92,591919,-0.6957,-0.08,-0.08,-0.6956
+Fungizone,Temozolomide,497,92,591563,-0.6957,-0.08,-0.08,-0.6957
+Sorafenib,Temozolomide,88,92,591973,-0.6957,-0.08,-0.08,-0.6957
+Inosine,Temozolomide,1126,92,590406,-0.6964,-0.0811,-0.081,-0.6964
+Aloperine,Temozolomide,474,92,591537,-0.6964,-0.0811,-0.081,-0.6964
+Lubiprostone,Temozolomide,1234,92,590522,-0.6965,-0.0811,-0.081,-0.6965
+Mometasone furoate,Temozolomide,1325,92,590620,-0.6963,-0.0822,-0.082,-0.6965
+Lafutidine,Temozolomide,1195,92,590481,-0.6966,-0.081,-0.081,-0.6966
+Puerarin,Temozolomide,1581,92,590882,-0.6966,-0.081,-0.081,-0.6966
+Lopinavir,Temozolomide,1226,92,590514,-0.6971,-0.0821,-0.082,-0.6971
+Lovastatin,Temozolomide,1232,92,590520,-0.6972,-0.0821,-0.082,-0.6972
+Topotecan hydrochloride,Temozolomide,1872,92,591185,-0.6977,-0.489,-0.489,-0.6973
+Hydrochlorothiazide,Temozolomide,1088,92,590365,-0.6973,-0.0821,-0.082,-0.6974
+PD-123319,Temozolomide,1455,92,590756,-0.6974,-0.0821,-0.082,-0.6974
+Gabexate mesylate,Temozolomide,1033,92,590307,-0.6977,-0.082,-0.082,-0.6977
+Tenofovir,Temozolomide,1826,92,591137,-0.6977,-0.082,-0.082,-0.6977
+Biperiden hydrochloride,Temozolomide,627,92,591700,-0.6978,-0.082,-0.082,-0.6978
+Caffeic acid phenethyl ester,Temozolomide,682,92,591758,-0.6982,-0.092,-0.092,-0.6981
+Cyproheptadine hydrochloride,Temozolomide,787,92,591869,-0.6983,-0.0831,-0.083,-0.6983
+Lamivudine,Temozolomide,1196,92,590482,-0.6984,-0.0831,-0.083,-0.6984
+FT-0761318,Temozolomide,1071,92,590348,-0.6985,-0.0831,-0.083,-0.6985
+Selinexor,Temozolomide,1155,92,590437,-0.6988,-0.18,-0.18,-0.6986
+Amiloride hydrochloride,Temozolomide,484,92,591548,-0.6986,-0.083,-0.083,-0.6986
+BMY-7378,Temozolomide,576,92,591647,-0.6986,-0.083,-0.083,-0.6986
+Azithromycin,Temozolomide,554,92,591623,-0.6987,-0.083,-0.083,-0.6987
+BML-190,Temozolomide,568,92,591638,-0.6995,-0.0841,-0.084,-0.6995
+Palmatine chloride,Temozolomide,1499,92,590800,-0.6996,-0.084,-0.084,-0.6996
+Ranitidine,Temozolomide,1611,92,590912,-0.6996,-0.084,-0.084,-0.6996
+UCH-L3 Inhibitor,Temozolomide,1792,92,591103,-0.6995,-0.0852,-0.085,-0.6997
+Triflusal,Temozolomide,1891,92,591206,-0.6997,-0.084,-0.084,-0.6997
+Wye-354,Temozolomide,1966,92,591285,-0.6995,-0.0852,-0.085,-0.6997
+Cefoperazone,Temozolomide,708,92,591786,-0.6997,-0.084,-0.084,-0.6997
+PF-04217903,Temozolomide,336,92,591402,-0.6999,-0.084,-0.084,-0.6998
+Idebenone,Temozolomide,1113,92,590392,-0.7003,-0.0851,-0.085,-0.7003
+Cinchophen,Temozolomide,743,92,591823,-0.7002,-0.0851,-0.085,-0.7003
+Suprofen,Temozolomide,1777,92,591087,-0.7005,-0.0851,-0.085,-0.7005
+Zaltoprofen,Temozolomide,1994,92,591316,-0.7005,-0.0851,-0.085,-0.7005
+Ozagrel,Temozolomide,1447,92,590748,-0.7006,-0.085,-0.085,-0.7006
+Trazodone hydrochloride,Temozolomide,1882,92,591196,-0.7006,-0.085,-0.085,-0.7006
+Nifuroxazide,Temozolomide,1392,92,590691,-0.7007,-0.085,-0.085,-0.7007
+Sulindac,Temozolomide,1773,92,591083,-0.7007,-0.085,-0.085,-0.7007
+FT-0655530,Temozolomide,895,92,591981,-0.701,-0.085,-0.085,-0.7009
+ZM-336372,Temozolomide,362,92,591415,-0.7012,-0.093,-0.093,-0.7011
+Sgx-523,Temozolomide,1685,92,590989,-0.7012,-0.099,-0.099,-0.7012
+Tetracaine hydrochloride,Temozolomide,1834,92,591146,-0.7013,-0.0861,-0.086,-0.7013
+Ivemend,Temozolomide,1003,92,590276,-0.7014,-0.0861,-0.086,-0.7014
+Apoptosis Activator 2,Temozolomide,516,92,591583,-0.7014,-0.0861,-0.086,-0.7014
+Closantel,Temozolomide,767,92,591848,-0.7013,-0.0861,-0.086,-0.7014
+Fenofibrate,Temozolomide,963,92,592053,-0.7014,-0.0861,-0.086,-0.7014
+Ranolazine dihydrochloride,Temozolomide,1613,92,590914,-0.7015,-0.0861,-0.086,-0.7015
+Conivaptan hydrochloride,Temozolomide,773,92,591855,-0.7015,-0.0861,-0.086,-0.7015
+NU-7026,Temozolomide,1349,92,590645,-0.7016,-0.086,-0.086,-0.7016
+Esomeprazole Sodium,Temozolomide,937,92,592025,-0.7016,-0.086,-0.086,-0.7016
+Ethynodiol diacetate,Temozolomide,946,92,592035,-0.7016,-0.086,-0.086,-0.7016
+Bms-777607,Temozolomide,573,92,591644,-0.7021,-0.086,-0.086,-0.702
+MK-2048,Temozolomide,1244,92,590533,-0.7025,-0.0871,-0.087,-0.7025
+Oridonin,Temozolomide,1426,92,590728,-0.7026,-0.087,-0.087,-0.7026
+Tenoxicam,Temozolomide,1829,92,591141,-0.7026,-0.087,-0.087,-0.7026
+Naltrexone hydrochloride,Temozolomide,1364,92,590661,-0.7027,-0.087,-0.087,-0.7027
+EHop-016,Temozolomide,889,92,591974,-0.7028,-0.087,-0.087,-0.7028
+Sulfamethizole,Temozolomide,1765,92,591075,-0.7035,-0.0881,-0.088,-0.7035
+Tiotropium bromide hydrate,Temozolomide,1856,92,591169,-0.7034,-0.0881,-0.088,-0.7035
+Etofibrate,Temozolomide,948,92,592037,-0.7035,-0.0881,-0.088,-0.7035
+Miconazole nitrate,Temozolomide,1311,92,590605,-0.7037,-0.088,-0.088,-0.7036
+Ouabain,Temozolomide,1433,92,590735,-0.7037,-0.182,-0.182,-0.7036
+Tamoxifen citrate,Temozolomide,1810,92,591121,-0.7036,-0.088,-0.088,-0.7036
+Acadesine,Temozolomide,440,92,591500,-0.7036,-0.088,-0.088,-0.7036
+Potassium canrenoate,Temozolomide,1548,92,590849,-0.7042,-0.0891,-0.089,-0.7042
+Cyproterone acetate,Temozolomide,788,92,591870,-0.7043,-0.0891,-0.089,-0.7043
+Nithiamide,Temozolomide,1397,92,590697,-0.7044,-0.0891,-0.089,-0.7044
+BX-795,Temozolomide,581,92,591652,-0.7049,-0.531,-0.531,-0.7045
+Divalproex sodium,Temozolomide,859,92,591943,-0.7045,-0.0891,-0.089,-0.7045
+Nicardipine hydrochloride,Temozolomide,1384,92,590682,-0.7047,-0.089,-0.089,-0.7047
+Formononetin,Temozolomide,1000,92,590273,-0.7051,-0.0901,-0.09,-0.7051
+Irinotecan,Temozolomide,275,92,591368,-0.7053,-0.114,-0.114,-0.7052
+Azathioprine,Temozolomide,549,92,591618,-0.7054,-0.0901,-0.09,-0.7054
+Mezlocillin sodium,Temozolomide,1308,92,590601,-0.7055,-0.0901,-0.09,-0.7055
+Apixaban,Temozolomide,514,92,591581,-0.7055,-0.0901,-0.09,-0.7055
+Mubritinib,Temozolomide,1336,92,590631,-0.706,-0.0911,-0.091,-0.7061
+Sitafloxacin hydrate,Temozolomide,1727,92,591035,-0.7063,-0.0911,-0.091,-0.7064
+Curcumin,Temozolomide,197,92,591298,-0.7064,-0.0911,-0.091,-0.7064
+WZ4002,Temozolomide,255,92,591356,-0.7065,-0.0911,-0.091,-0.7065
+Acebutolol hydrochloride,Temozolomide,442,92,591502,-0.7066,-0.091,-0.091,-0.7066
+Telmisartan,Temozolomide,1823,92,591134,-0.7068,-0.091,-0.091,-0.7068
+Sulfaguanidine,Temozolomide,1761,92,591071,-0.7071,-0.0921,-0.092,-0.7072
+BAX Activator Molecule 7,Temozolomide,558,92,591627,-0.7072,-0.0921,-0.092,-0.7072
+Pioglitazone hydrochloride,Temozolomide,1533,92,590834,-0.7072,-0.0921,-0.092,-0.7073
+Eletriptan hydrobromide,Temozolomide,902,92,591989,-0.7073,-0.0921,-0.092,-0.7073
+Progesterone,Temozolomide,1573,92,590874,-0.7073,-0.0921,-0.092,-0.7074
+Tolazoline hydrochloride,Temozolomide,1862,92,591175,-0.7074,-0.0921,-0.092,-0.7074
+Mitotane,Temozolomide,66,92,591744,-0.7074,-0.0921,-0.092,-0.7074
+Ki8751,Temozolomide,1169,92,590452,-0.7077,-0.184,-0.184,-0.7076
+Probenecid,Temozolomide,1568,92,590869,-0.7076,-0.092,-0.092,-0.7076
+Dimethyl fumarate,Temozolomide,849,92,591933,-0.7076,-0.092,-0.092,-0.7076
+Levobetaxolol hydrochloride,Temozolomide,1204,92,590491,-0.7082,-0.093,-0.093,-0.7081
+T0070907,Temozolomide,1781,92,591092,-0.7084,-0.0931,-0.093,-0.7084
+Loteprednol etabonate,Temozolomide,1231,92,590519,-0.7084,-0.0942,-0.094,-0.7085
+Orphenadrine citrate,Temozolomide,1429,92,590731,-0.7085,-0.0931,-0.093,-0.7085
+Zidovudine,Temozolomide,1997,92,591319,-0.7085,-0.0931,-0.093,-0.7085
+Gedatolisib,Temozolomide,1465,92,590766,-0.709,-0.383,-0.383,-0.7086
+SB-202190,Temozolomide,1665,92,590969,-0.7086,-0.093,-0.093,-0.7086
+Torsemide,Temozolomide,1877,92,591190,-0.7086,-0.093,-0.093,-0.7086
+XAV-939,Temozolomide,256,92,591357,-0.7086,-0.093,-0.093,-0.7086
+Buflomedil hydrochloride,Temozolomide,644,92,591718,-0.7086,-0.093,-0.093,-0.7086
+Butenafine hydrochloride,Temozolomide,649,92,591724,-0.7085,-0.093,-0.093,-0.7086
+Cortisone acetate,Temozolomide,774,92,591856,-0.7086,-0.093,-0.093,-0.7086
+Gimeracil,Temozolomide,1047,92,590322,-0.7088,-0.093,-0.093,-0.7087
+NVP-BVU972,Temozolomide,1354,92,590650,-0.7088,-0.093,-0.093,-0.7087
+Letrozole,Temozolomide,55,92,591628,-0.7087,-0.093,-0.093,-0.7087
+Onalespib,Temozolomide,420,92,591478,-0.7094,-0.449,-0.449,-0.709
+2-Nitroimidazole,Temozolomide,556,92,591625,-0.7091,-0.0941,-0.094,-0.7091
+Buspirone hydrochloride,Temozolomide,647,92,591721,-0.7091,-0.0941,-0.094,-0.7092
+EPZ-005687,Temozolomide,892,92,591977,-0.7092,-0.0941,-0.094,-0.7092
+Pasiniazid,Temozolomide,1503,92,590804,-0.7093,-0.0941,-0.094,-0.7093
+Terbinafine,Temozolomide,1831,92,591143,-0.7096,-0.094,-0.094,-0.7096
+Troxipide,Temozolomide,1900,92,591216,-0.7095,-0.094,-0.094,-0.7096
+Fenbendazole,Temozolomide,962,92,592052,-0.7099,-0.373,-0.373,-0.7096
+Tolnaftate,Temozolomide,1867,92,591180,-0.7103,-0.0951,-0.095,-0.7103
+Climbazole,Temozolomide,753,92,591833,-0.7103,-0.0951,-0.095,-0.7103
+Tretinoin,Temozolomide,98,92,592079,-0.7105,-0.142,-0.142,-0.7103
+Candesartan,Temozolomide,689,92,591765,-0.7105,-0.0951,-0.095,-0.7105
+PD98059,Temozolomide,1460,92,590761,-0.7107,-0.095,-0.095,-0.7107
+Binimetinib,Temozolomide,1240,92,590529,-0.711,-0.0961,-0.096,-0.7111
+PLX-4720,Temozolomide,340,92,591406,-0.7114,-0.133,-0.133,-0.7113
+IEM 1754 dihydrobroMide,Temozolomide,1097,92,590375,-0.7113,-0.0961,-0.096,-0.7114
+Istradefylline,Temozolomide,1140,92,590422,-0.7114,-0.0961,-0.096,-0.7114
+Penciclovir,Temozolomide,1507,92,590808,-0.7113,-0.0961,-0.096,-0.7114
+Aspartame,Temozolomide,530,92,591597,-0.7114,-0.0961,-0.096,-0.7114
+Menadione,Temozolomide,1280,92,590571,-0.7115,-0.0961,-0.096,-0.7115
+Erlotinib hydrochloride,Temozolomide,931,92,592019,-0.7115,-0.0961,-0.096,-0.7115
+Mecarbinate,Temozolomide,1271,92,590561,-0.7117,-0.096,-0.096,-0.7116
+IKK-2 Inhibitor IV,Temozolomide,1801,92,591112,-0.7115,-0.0972,-0.097,-0.7116
+Guanabenz acetate,Temozolomide,1065,92,590341,-0.712,-0.096,-0.096,-0.7119
+AR-A014418,Temozolomide,188,92,591203,-0.7122,-0.103,-0.103,-0.7121
+CNX-774,Temozolomide,669,92,591745,-0.7121,-0.0971,-0.097,-0.7121
+Diclazuril,Temozolomide,834,92,591917,-0.712,-0.0971,-0.097,-0.7121
+Calcium glucoheptonate,Temozolomide,685,92,591761,-0.7121,-0.0971,-0.097,-0.7122
+Ibrutinib,Temozolomide,1108,92,590386,-0.7123,-0.0971,-0.097,-0.7123
+Sinomenine,Temozolomide,1725,92,591033,-0.7122,-0.0971,-0.097,-0.7123
+c-Myc Inhibitor,Temozolomide,377,92,591431,-0.7122,-0.0971,-0.097,-0.7123
+Vadimezan,Temozolomide,799,92,591882,-0.7123,-0.0971,-0.097,-0.7123
+Chlorpromazine hydrochloride,Temozolomide,725,92,591805,-0.7123,-0.0971,-0.097,-0.7124
+Dabigatran etexilate methanesulfonate,Temozolomide,800,92,591883,-0.7126,-0.097,-0.097,-0.7126
+mGluR5 inhibitor,Temozolomide,675,92,591751,-0.7127,-0.097,-0.097,-0.7127
+Isoconazole nitrate,Temozolomide,1132,92,590413,-0.7129,-0.097,-0.097,-0.7129
+Tetracycline hydrochloride,Temozolomide,1835,92,591147,-0.7133,-0.0981,-0.098,-0.7133
+Alprostadil,Temozolomide,475,92,591538,-0.7132,-0.0981,-0.098,-0.7133
+Esmolol hydrochloride,Temozolomide,936,92,592024,-0.7132,-0.0981,-0.098,-0.7133
+Oxibendazole,Temozolomide,1440,92,590741,-0.714,-0.397,-0.397,-0.7137
+Fostamatinib,Temozolomide,1005,92,590278,-0.7143,-0.605,-0.605,-0.7138
+Trifluridine,Temozolomide,249,92,591352,-0.714,-0.098,-0.098,-0.7139
+GNF-2,Temozolomide,1013,92,590286,-0.7142,-0.0991,-0.099,-0.7142
+Mianserin hydrochloride,Temozolomide,1309,92,590603,-0.7143,-0.0991,-0.099,-0.7143
+Mefenamic acid,Temozolomide,1275,92,590565,-0.7144,-0.0991,-0.099,-0.7144
+Azelastine hydrochloride,Temozolomide,550,92,591619,-0.7144,-0.0991,-0.099,-0.7144
+CZC-24832,Temozolomide,679,92,591755,-0.7145,-0.0991,-0.099,-0.7145
+Rebamipide,Temozolomide,1615,92,590916,-0.7148,-0.099,-0.099,-0.7147
+Solifenacin succinate,Temozolomide,1740,92,591048,-0.7151,-0.1001,-0.1,-0.7152
+Mexiletine hydrochloride,Temozolomide,1307,92,590600,-0.7153,-0.1001,-0.1,-0.7153
+Tyrphostin AG 879,Temozolomide,1905,92,591221,-0.7152,-0.1001,-0.1,-0.7153
+Vardenafil hydrochloride trihydrate,Temozolomide,1939,92,591259,-0.7153,-0.1001,-0.1,-0.7153
+Ornidazole,Temozolomide,1427,92,590729,-0.7154,-0.1001,-0.1,-0.7154
+Lapatinib Ditosylate,Temozolomide,1199,92,590486,-0.7156,-0.1,-0.1,-0.7156
+Idoxuridine,Temozolomide,1114,92,590393,-0.7161,-0.1011,-0.101,-0.7162
+Dirithromycin,Temozolomide,857,92,591941,-0.7163,-0.1011,-0.101,-0.7164
+Shikimic acid,Temozolomide,1720,92,591028,-0.7165,-0.1011,-0.101,-0.7165
+Obatoclax mesylate,Temozolomide,224,92,591339,-0.7167,-0.187,-0.187,-0.7165
+Parmodulin 2,Temozolomide,1253,92,590543,-0.7166,-0.101,-0.101,-0.7166
+ZCL-278,Temozolomide,1985,92,591305,-0.717,-0.101,-0.101,-0.7169
+Rita,Temozolomide,1601,92,590902,-0.7174,-0.463,-0.463,-0.717
+Estradiol valerate,Temozolomide,939,92,592028,-0.7173,-0.1021,-0.102,-0.7173
+Flufenamic acid,Temozolomide,983,92,592073,-0.7173,-0.1021,-0.102,-0.7173
+Artemisinin,Temozolomide,524,92,591591,-0.7175,-0.1021,-0.102,-0.7175
+Gsk-461364,Temozolomide,1025,92,590298,-0.7179,-0.385,-0.385,-0.7176
+CCG-190730,Temozolomide,1105,92,590383,-0.718,-0.1031,-0.103,-0.718
+Estradiol,Temozolomide,938,92,592026,-0.7184,-0.1031,-0.103,-0.7184
+Epinastine hydrochloride,Temozolomide,918,92,592005,-0.7185,-0.1031,-0.103,-0.7185
+Betahistine dihydrochloride,Temozolomide,613,92,591685,-0.7187,-0.103,-0.103,-0.7186
+PF-04929113,Temozolomide,1464,92,590765,-0.7193,-0.439,-0.439,-0.7189
+Aminophylline,Temozolomide,486,92,591550,-0.7192,-0.1041,-0.104,-0.7192
+Rofecoxib,Temozolomide,1643,92,590946,-0.7193,-0.1041,-0.104,-0.7193
+Novobiocin sodium,Temozolomide,1406,92,590707,-0.7193,-0.1041,-0.104,-0.7194
+Bindarit,Temozolomide,624,92,591697,-0.7194,-0.1041,-0.104,-0.7194
+Sodium salicylate,Temozolomide,1739,92,591047,-0.7194,-0.1041,-0.104,-0.7195
+Taxifolin,Temozolomide,1817,92,591128,-0.7195,-0.1041,-0.104,-0.7195
+Azilsartan,Temozolomide,552,92,591621,-0.7195,-0.1041,-0.104,-0.7195
+Olanzapine,Temozolomide,1415,92,590717,-0.7196,-0.104,-0.104,-0.7196
+TO-901317,Temozolomide,349,92,591409,-0.7194,-0.1052,-0.105,-0.7196
+Oligomycin A,Temozolomide,1417,92,590719,-0.7197,-0.1052,-0.105,-0.7198
+Pergolide mesylate,Temozolomide,1511,92,590812,-0.7202,-0.1051,-0.105,-0.7202
+NLG919,Temozolomide,1341,92,590637,-0.7204,-0.1051,-0.105,-0.7204
+Candesartan cilexetil,Temozolomide,690,92,591766,-0.7204,-0.1051,-0.105,-0.7204
+Amoxicillin,Temozolomide,495,92,591561,-0.7206,-0.105,-0.105,-0.7206
+ICG-001,Temozolomide,1095,92,590373,-0.7208,-0.1062,-0.106,-0.7209
+Ibutilide fumarate,Temozolomide,1110,92,590389,-0.7211,-0.1061,-0.106,-0.7211
+Licofelone,Temozolomide,1210,92,590498,-0.7212,-0.1061,-0.106,-0.7212
+Ticlopidine hydrochloride,Temozolomide,1849,92,591162,-0.7213,-0.1061,-0.106,-0.7213
+Emodin,Temozolomide,905,92,591992,-0.7212,-0.1061,-0.106,-0.7213
+Ozagrel hydrochloride,Temozolomide,1448,92,590749,-0.7214,-0.1061,-0.106,-0.7214
+Palbociclib hydrochloride,Temozolomide,1498,92,590799,-0.7212,-0.1072,-0.107,-0.7214
+Meticrane,Temozolomide,1302,92,590595,-0.7215,-0.1061,-0.106,-0.7215
+Metronidazole,Temozolomide,1305,92,590598,-0.7215,-0.1061,-0.106,-0.7215
+Diphemanil methylsulfate,Temozolomide,855,92,591939,-0.7215,-0.1061,-0.106,-0.7215
+Furaltadone hydrochloride,Temozolomide,1006,92,590279,-0.7216,-0.106,-0.106,-0.7216
+Xylometazoline hydrochloride,Temozolomide,1979,92,591299,-0.7216,-0.106,-0.106,-0.7216
+Benoxinate hydrochloride,Temozolomide,1441,92,590742,-0.7217,-0.1072,-0.107,-0.7218
+AZD-6482,Temozolomide,437,92,591496,-0.7218,-0.106,-0.106,-0.7218
+Gliquidone,Temozolomide,1055,92,590331,-0.7224,-0.1071,-0.107,-0.7224
+Ifenprodil,Temozolomide,1115,92,590394,-0.7224,-0.1071,-0.107,-0.7224
+D-Amygdalin,Temozolomide,1194,92,590480,-0.7225,-0.1071,-0.107,-0.7225
+Oxymetholone,Temozolomide,1445,92,590746,-0.7226,-0.107,-0.107,-0.7226
+VU-0364770,Temozolomide,1924,92,591242,-0.7226,-0.107,-0.107,-0.7226
+Cyclosporin A,Temozolomide,785,92,591867,-0.7227,-0.1082,-0.108,-0.7228
+Wnt-C59,Temozolomide,1971,92,591290,-0.7228,-0.1082,-0.108,-0.7229
+Sodium 4-aminohippurate hydrate,Temozolomide,1732,92,591040,-0.7233,-0.1081,-0.108,-0.7233
+MRS-2578,Temozolomide,1260,92,590550,-0.7234,-0.1081,-0.108,-0.7234
+Nifedipine,Temozolomide,1389,92,590688,-0.7233,-0.1081,-0.108,-0.7234
+Ki16425,Temozolomide,1168,92,590450,-0.7236,-0.108,-0.108,-0.7236
+Fluconazole,Temozolomide,980,92,592070,-0.7237,-0.108,-0.108,-0.7236
+Yohimbine hydrochloride,Temozolomide,1984,92,591304,-0.7241,-0.1091,-0.109,-0.7241
+405554-55-4,Temozolomide,1678,92,590982,-0.7245,-0.323,-0.323,-0.7242
+Nefiracetam,Temozolomide,1376,92,590673,-0.7243,-0.1091,-0.109,-0.7243
+Parthenolide,Temozolomide,372,92,591426,-0.7244,-0.1091,-0.109,-0.7244
+Vincristine,Temozolomide,104,92,590324,-0.7249,-0.381,-0.381,-0.7245
+Darunavir ethanolate,Temozolomide,814,92,591896,-0.7245,-0.1091,-0.109,-0.7245
+KPT-276,Temozolomide,1154,92,590436,-0.7248,-0.207,-0.207,-0.7246
+Omeprazole,Temozolomide,1422,92,590724,-0.7248,-0.109,-0.109,-0.7247
+XL-888,Temozolomide,1976,92,591295,-0.7251,-0.42,-0.42,-0.7248
+Enzalutamide,Temozolomide,915,92,592002,-0.7249,-0.109,-0.109,-0.7249
+Bendroflumethiazide,Temozolomide,596,92,591668,-0.7251,-0.1101,-0.11,-0.7252
+Dimaprit Dihydrochloride,Temozolomide,847,92,591930,-0.7251,-0.1101,-0.11,-0.7252
+Bezafibrate,Temozolomide,619,92,591692,-0.7253,-0.1101,-0.11,-0.7253
+Macitentan,Temozolomide,1261,92,590551,-0.7253,-0.1101,-0.11,-0.7254
+Regorafenib,Temozolomide,1617,92,590918,-0.7253,-0.1101,-0.11,-0.7254
+Daphnetin,Temozolomide,809,92,591891,-0.7254,-0.1101,-0.11,-0.7254
+Doxylamine succinate,Temozolomide,876,92,591959,-0.7253,-0.1101,-0.11,-0.7254
+Loperamide hydrochloride,Temozolomide,1225,92,590513,-0.7259,-0.1111,-0.111,-0.726
+Teriflunomide,Temozolomide,291,92,591376,-0.7259,-0.1111,-0.111,-0.726
+Altrenogest,Temozolomide,476,92,591539,-0.7259,-0.1111,-0.111,-0.726
+Ketoprofen,Temozolomide,1164,92,590446,-0.7262,-0.1111,-0.111,-0.7262
+Ketotifen fumarate,Temozolomide,1166,92,590448,-0.7262,-0.1111,-0.111,-0.7262
+Loxapine succinate,Temozolomide,1233,92,590521,-0.7262,-0.1111,-0.111,-0.7262
+Amoxicillin sodium,Temozolomide,496,92,591562,-0.7264,-0.1111,-0.111,-0.7264
+Clinofibrate,Temozolomide,757,92,591837,-0.7263,-0.1111,-0.111,-0.7264
+Droperidol,Temozolomide,878,92,591961,-0.7264,-0.1111,-0.111,-0.7264
+Cyanocobalamin,Temozolomide,1952,92,591271,-0.7265,-0.1111,-0.111,-0.7265
+GSK-429286,Temozolomide,1024,92,590297,-0.7267,-0.111,-0.111,-0.7267
+Terfenadine,Temozolomide,1833,92,591145,-0.7269,-0.1121,-0.112,-0.727
+AZD-8055,Temozolomide,116,92,590451,-0.727,-0.1121,-0.112,-0.7271
+Epothilone A,Temozolomide,922,92,592009,-0.7275,-0.491,-0.491,-0.7271
+Acetarsol,Temozolomide,447,92,591507,-0.7273,-0.1121,-0.112,-0.7273
+Propylthiouracil,Temozolomide,1577,92,590878,-0.7274,-0.1121,-0.112,-0.7274
+Imidapril hydrochloride,Temozolomide,1119,92,590399,-0.7278,-0.112,-0.112,-0.7278
+Synephrine,Temozolomide,1779,92,591090,-0.7279,-0.1131,-0.113,-0.728
+Levocarnitine,Temozolomide,1175,92,590458,-0.7284,-0.1131,-0.113,-0.7284
+Zanamivir,Temozolomide,1995,92,591317,-0.7284,-0.1131,-0.113,-0.7285
+Irsogladine,Temozolomide,1131,92,590412,-0.7289,-0.1141,-0.114,-0.729
+Rivaroxaban,Temozolomide,1638,92,590940,-0.7292,-0.1141,-0.114,-0.7293
+Brinzolamide,Temozolomide,635,92,591708,-0.7293,-0.1141,-0.114,-0.7293
+Deoxyarbutin,Temozolomide,820,92,591903,-0.7294,-0.1141,-0.114,-0.7294
+Droxinostat,Temozolomide,881,92,591965,-0.7294,-0.1141,-0.114,-0.7294
+ONC-201,Temozolomide,1800,92,591111,-0.7297,-0.114,-0.114,-0.7297
+Esculin,Temozolomide,935,92,592023,-0.7298,-0.114,-0.114,-0.7297
+Epothilone B,Temozolomide,923,92,592010,-0.7305,-0.485,-0.485,-0.7301
+JSH-23,Temozolomide,1150,92,590432,-0.7302,-0.1151,-0.115,-0.7302
+Allopurinol,Temozolomide,3,92,591532,-0.7304,-0.1151,-0.115,-0.7304
+Azacitidine,Temozolomide,8,92,591978,-0.7303,-0.1151,-0.115,-0.7304
+Flumethasone,Temozolomide,986,92,592076,-0.7303,-0.1162,-0.116,-0.7305
+Icariin,Temozolomide,1111,92,590390,-0.7312,-0.1161,-0.116,-0.7313
+PD-318088,Temozolomide,1459,92,590760,-0.7312,-0.1161,-0.116,-0.7313
+Cilnidipine,Temozolomide,737,92,591817,-0.7312,-0.1161,-0.116,-0.7313
+IWR-1-endo,Temozolomide,1107,92,590385,-0.7313,-0.1161,-0.116,-0.7314
+Pyridoxine hydrochloride,Temozolomide,1585,92,590886,-0.7314,-0.1161,-0.116,-0.7314
+Tranexamic acid,Temozolomide,1879,92,591193,-0.7314,-0.1161,-0.116,-0.7314
+Adrenalone hydrochloride,Temozolomide,460,92,591522,-0.7314,-0.1161,-0.116,-0.7314
+Articaine hydrochloride,Temozolomide,526,92,591593,-0.7313,-0.1161,-0.116,-0.7314
+Indirubin,Temozolomide,1123,92,590403,-0.7319,-0.116,-0.116,-0.7318
+Ivabradine hydrochloride,Temozolomide,1141,92,590423,-0.7319,-0.1171,-0.117,-0.732
+Bergapten,Temozolomide,609,92,591681,-0.732,-0.1171,-0.117,-0.7321
+OC000459,Temozolomide,1409,92,590711,-0.7323,-0.1171,-0.117,-0.7323
+Aspirin,Temozolomide,531,92,591598,-0.7324,-0.1171,-0.117,-0.7324
+Ponatinib,Temozolomide,1546,92,590847,-0.733,-0.574,-0.574,-0.7325
+PD-168393,Temozolomide,1457,92,590758,-0.7329,-0.117,-0.117,-0.7328
+Hydrocortisone,Temozolomide,1089,92,590367,-0.7328,-0.1182,-0.118,-0.7329
+Amantadine hydrochloride,Temozolomide,478,92,591541,-0.733,-0.1181,-0.118,-0.733
+Piromidic acid,Temozolomide,1539,92,590840,-0.7333,-0.1181,-0.118,-0.7333
+Sitagliptin phosphate monohydrate,Temozolomide,1728,92,591036,-0.7333,-0.1181,-0.118,-0.7333
+Dihydroqinghaosu,Temozolomide,261,92,591362,-0.7334,-0.1181,-0.118,-0.7334
+A-769662,Temozolomide,297,92,591449,-0.7334,-0.1181,-0.118,-0.7334
+Entacapone,Temozolomide,913,92,592000,-0.7334,-0.1181,-0.118,-0.7334
+Ethambutol Hydrochloride,Temozolomide,943,92,592032,-0.7334,-0.1181,-0.118,-0.7334
+Pulmicort,Temozolomide,642,92,591716,-0.7337,-0.1192,-0.119,-0.7338
+OAC1,Temozolomide,1408,92,590709,-0.7339,-0.1191,-0.119,-0.734
+Purmorphamine,Temozolomide,1582,92,590883,-0.7341,-0.1191,-0.119,-0.7342
+Ferulic acid,Temozolomide,968,92,592058,-0.7341,-0.1191,-0.119,-0.7342
+Moclobemide,Temozolomide,1322,92,590617,-0.7343,-0.1191,-0.119,-0.7343
+UNC-1999,Temozolomide,1909,92,591226,-0.7343,-0.1191,-0.119,-0.7343
+1-Hexadecanol,Temozolomide,375,92,591429,-0.7342,-0.1191,-0.119,-0.7343
+Antipyrine,Temozolomide,511,92,591578,-0.7343,-0.1191,-0.119,-0.7343
+Diltiazem hydrochloride,Temozolomide,846,92,591929,-0.7343,-0.1191,-0.119,-0.7343
+Fluocinolone acetonide,Temozolomide,989,92,592080,-0.7344,-0.1202,-0.12,-0.7345
+GW-842166X,Temozolomide,1030,92,590304,-0.7346,-0.119,-0.119,-0.7346
+Sodium phenylbutyrate,Temozolomide,1736,92,591044,-0.7346,-0.119,-0.119,-0.7346
+Avobenzone,Temozolomide,544,92,591612,-0.7346,-0.119,-0.119,-0.7346
+Apalutamide,Temozolomide,416,92,591473,-0.7347,-0.119,-0.119,-0.7347
+Artesunate,Temozolomide,525,92,591592,-0.7348,-0.1202,-0.12,-0.7349
+Lonafarnib,Temozolomide,1223,92,590511,-0.7351,-0.119,-0.119,-0.735
+Snx-2112,Temozolomide,1690,92,590995,-0.7355,-0.502,-0.502,-0.7351
+Valdecoxib,Temozolomide,1932,92,591251,-0.735,-0.1201,-0.12,-0.7351
+Oxymetazoline hydrochloride,Temozolomide,1444,92,590745,-0.7352,-0.1201,-0.12,-0.7353
+Tylan soluble,Temozolomide,1902,92,591218,-0.7354,-0.1201,-0.12,-0.7354
+Urapidil hydrochloride,Temozolomide,1915,92,591232,-0.7354,-0.1201,-0.12,-0.7354
+Daidzein,Temozolomide,805,92,591887,-0.7354,-0.1201,-0.12,-0.7354
+Sulfanilamide,Temozolomide,1768,92,591078,-0.7354,-0.1201,-0.12,-0.7355
+Gallamine triethiodide,Temozolomide,1036,92,590310,-0.7356,-0.12,-0.12,-0.7356
+Cyclizine hydrochloride,Temozolomide,783,92,591865,-0.7356,-0.12,-0.12,-0.7356
+Norepinephrine bitartrate,Temozolomide,1403,92,590704,-0.7358,-0.12,-0.12,-0.7357
+Enmd-2076,Temozolomide,309,92,591387,-0.7362,-0.614,-0.614,-0.7357
+Belnacasan,Temozolomide,1929,92,591248,-0.7361,-0.1211,-0.121,-0.7362
+Bupropion,Temozolomide,481,92,591545,-0.7361,-0.1211,-0.121,-0.7362
+VX-702,Temozolomide,358,92,591413,-0.7363,-0.1211,-0.121,-0.7364
+Avanafil,Temozolomide,542,92,591610,-0.7364,-0.1211,-0.121,-0.7364
+Adefovir dipivoxil,Temozolomide,455,92,591516,-0.7365,-0.1211,-0.121,-0.7365
+Limonin,Temozolomide,1212,92,590500,-0.7366,-0.121,-0.121,-0.7366
+Nilotinib,Temozolomide,71,92,591798,-0.7367,-0.121,-0.121,-0.7367
+Ramipril,Temozolomide,1610,92,590911,-0.737,-0.1221,-0.122,-0.7371
+Rovamycin,Temozolomide,1748,92,591056,-0.737,-0.1221,-0.122,-0.7371
+Ketorolac,Temozolomide,1165,92,590447,-0.7372,-0.1221,-0.122,-0.7372
+Clonidine hydrochloride,Temozolomide,763,92,591844,-0.7375,-0.1221,-0.122,-0.7375
+VUF-10166,Temozolomide,1925,92,591243,-0.7381,-0.1231,-0.123,-0.7382
+Didanosine,Temozolomide,840,92,591923,-0.7383,-0.1231,-0.123,-0.7383
+Erythritol,Temozolomide,932,92,592020,-0.7382,-0.1231,-0.123,-0.7383
+Lomerizine hydrochloride,Temozolomide,1222,92,590510,-0.7383,-0.1231,-0.123,-0.7384
+Ticarcillin disodium,Temozolomide,1848,92,591160,-0.7384,-0.1231,-0.123,-0.7384
+Bicalutamide,Temozolomide,620,92,591693,-0.7384,-0.1231,-0.123,-0.7384
+Domiphen bromide,Temozolomide,862,92,591946,-0.7383,-0.1242,-0.124,-0.7385
+Difloxacin hydrochloride,Temozolomide,843,92,591926,-0.7388,-0.1242,-0.124,-0.7389
+EPZ004777 hydrochloride,Temozolomide,891,92,591976,-0.7389,-0.123,-0.123,-0.7389
+Mepiroxol,Temozolomide,1282,92,590573,-0.739,-0.1241,-0.124,-0.7391
+Sulfacetamide sodium,Temozolomide,1759,92,591069,-0.7391,-0.1241,-0.124,-0.7391
+Betamipron,Temozolomide,615,92,591687,-0.7391,-0.1241,-0.124,-0.7391
+Pefloxacin mesylate,Temozolomide,1505,92,590806,-0.7394,-0.1241,-0.124,-0.7394
+Tame,Temozolomide,1791,92,591102,-0.7393,-0.1241,-0.124,-0.7394
+PF-562271 besylate,Temozolomide,1461,92,590762,-0.7397,-0.203,-0.203,-0.7395
+Sulbactam sodium,Temozolomide,1757,92,591066,-0.7395,-0.1241,-0.124,-0.7395
+ARRY-380 Analog,Temozolomide,1073,92,590350,-0.7398,-0.124,-0.124,-0.7397
+Sapitinib,Temozolomide,138,92,590687,-0.7398,-0.124,-0.124,-0.7397
+Zalcitabine,Temozolomide,1993,92,591315,-0.7399,-0.1251,-0.125,-0.74
+Telaprevir,Temozolomide,1820,92,591131,-0.74,-0.1251,-0.125,-0.7401
+Sodium 4-aminosalicylate,Temozolomide,1731,92,591039,-0.7402,-0.1251,-0.125,-0.7402
+Epiandrosterone,Temozolomide,917,92,592004,-0.7402,-0.1251,-0.125,-0.7403
+Zebularine,Temozolomide,1996,92,591318,-0.7403,-0.1251,-0.125,-0.7404
+Epigallocatechin gallate,Temozolomide,369,92,591423,-0.7404,-0.1251,-0.125,-0.7404
+Pantothenic acid,Temozolomide,794,92,591877,-0.7403,-0.1251,-0.125,-0.7404
+Medroxyprogesterone acetate,Temozolomide,1274,92,590564,-0.7404,-0.1262,-0.126,-0.7405
+Aniracetam,Temozolomide,508,92,591575,-0.7405,-0.1251,-0.125,-0.7405
+Busulfan,Temozolomide,12,92,590585,-0.7407,-0.125,-0.125,-0.7406
+Salsalate,Temozolomide,1704,92,591011,-0.7411,-0.1261,-0.126,-0.7411
+Protionamide,Temozolomide,1578,92,590879,-0.7411,-0.1261,-0.126,-0.7412
+Rivastigmine tartrate,Temozolomide,1639,92,590942,-0.7411,-0.1261,-0.126,-0.7412
+Febuxostat,Temozolomide,273,92,591367,-0.7411,-0.1261,-0.126,-0.7412
+N-Methyl-D-aspartic acid,Temozolomide,1342,92,590638,-0.7413,-0.1261,-0.126,-0.7413
+PF-5274857,Temozolomide,1470,92,590771,-0.7413,-0.1261,-0.126,-0.7413
+Tangeretin,Temozolomide,1812,92,591123,-0.7412,-0.1261,-0.126,-0.7413
+Amitriptyline hydrochloride,Temozolomide,490,92,591555,-0.7413,-0.1261,-0.126,-0.7413
+A-922500,Temozolomide,396,92,591452,-0.7414,-0.1261,-0.126,-0.7414
+Epoxomicin,Temozolomide,924,92,592011,-0.742,-0.1271,-0.127,-0.7421
+TWS-119,Temozolomide,1804,92,591115,-0.7423,-0.1271,-0.127,-0.7423
+Roxatidine acetate hydrochloride,Temozolomide,1652,92,590956,-0.7424,-0.1271,-0.127,-0.7424
+Albendazole,Temozolomide,259,92,591360,-0.7432,-0.448,-0.448,-0.7428
+Tazemetostat,Temozolomide,890,92,591975,-0.7431,-0.1281,-0.128,-0.7431
+Valganciclovir hydrochloride,Temozolomide,1933,92,591252,-0.7432,-0.1281,-0.128,-0.7432
+Flt-3 inhibitor,Temozolomide,1793,92,591104,-0.7432,-0.1281,-0.128,-0.7433
+Fexofenadine hydrochloride,Temozolomide,970,92,592060,-0.7433,-0.1281,-0.128,-0.7433
+Nutlin-3,Temozolomide,220,92,591336,-0.7436,-0.128,-0.128,-0.7436
+Isosorbide,Temozolomide,1135,92,590416,-0.7441,-0.1291,-0.129,-0.7442
+Maraviroc,Temozolomide,1267,92,590557,-0.7441,-0.1291,-0.129,-0.7442
+Tezacaftor,Temozolomide,1927,92,591245,-0.7442,-0.1291,-0.129,-0.7443
+Dipyridamole,Temozolomide,269,92,591365,-0.7445,-0.1291,-0.129,-0.7445
+Penfluridol,Temozolomide,1508,92,590809,-0.745,-0.1301,-0.13,-0.7451
+Valacyclovir hydrochloride,Temozolomide,1931,92,591250,-0.7452,-0.1301,-0.13,-0.7452
+CP-724714,Temozolomide,672,92,591748,-0.7451,-0.1301,-0.13,-0.7452
+Ciproxifan,Temozolomide,747,92,591827,-0.7452,-0.1301,-0.13,-0.7452
+Ganciclovir,Temozolomide,1037,92,590311,-0.7452,-0.1301,-0.13,-0.7453
+Procyclidine hydrochloride,Temozolomide,1572,92,590873,-0.7453,-0.1301,-0.13,-0.7453
+Doxycycline hydrochloride,Temozolomide,874,92,591957,-0.7452,-0.1301,-0.13,-0.7453
+Nabumetone,Temozolomide,1356,92,590652,-0.7461,-0.1311,-0.131,-0.7461
+Imipramine hydrochloride,Temozolomide,1120,92,590400,-0.7461,-0.1311,-0.131,-0.7462
+Olopatadine hydrochloride,Temozolomide,1419,92,590721,-0.7463,-0.1311,-0.131,-0.7463
+Carbadox,Temozolomide,693,92,591770,-0.7463,-0.1311,-0.131,-0.7463
+Ascorbic acid,Temozolomide,1953,92,591272,-0.7465,-0.1311,-0.131,-0.7465
+Stavudine (d4T),Temozolomide,1750,92,591059,-0.7466,-0.131,-0.131,-0.7466
+Desloratadine,Temozolomide,821,92,591904,-0.7466,-0.131,-0.131,-0.7466
+Evodiamine,Temozolomide,952,92,592042,-0.7472,-0.452,-0.452,-0.7468
+Moroxydine hydrochloride,Temozolomide,1329,92,590624,-0.7469,-0.1321,-0.132,-0.747
+GW0742,Temozolomide,315,92,591389,-0.7472,-0.1321,-0.132,-0.7472
+HC-030031,Temozolomide,1072,92,590349,-0.7473,-0.1321,-0.132,-0.7473
+Thiabendazole,Temozolomide,292,92,591377,-0.7478,-0.132,-0.132,-0.7478
+GW-9508,Temozolomide,1031,92,590305,-0.7483,-0.1331,-0.133,-0.7483
+Magnolol,Temozolomide,1262,92,590552,-0.7483,-0.1331,-0.133,-0.7483
+MST-104,Temozolomide,1906,92,591222,-0.7483,-0.1331,-0.133,-0.7484
+Roflumilast,Temozolomide,1644,92,590947,-0.7485,-0.1331,-0.133,-0.7485
+Vemurafenib,Temozolomide,252,92,591354,-0.7485,-0.1331,-0.133,-0.7485
+Tgx-221,Temozolomide,1799,92,591110,-0.7486,-0.133,-0.133,-0.7486
+AZ-191,Temozolomide,429,92,591488,-0.7484,-0.1342,-0.134,-0.7486
+Chrysophanol,Temozolomide,732,92,591812,-0.7489,-0.1342,-0.134,-0.749
+Coumarin,Temozolomide,776,92,591858,-0.749,-0.1341,-0.134,-0.7491
+Mepenzolate bromide,Temozolomide,1281,92,590572,-0.7491,-0.1341,-0.134,-0.7492
+Meprednisone,Temozolomide,1284,92,590575,-0.7491,-0.1341,-0.134,-0.7492
+TW-37,Temozolomide,1803,92,591114,-0.7493,-0.158,-0.158,-0.7492
+Bethanechol chloride,Temozolomide,617,92,591689,-0.7491,-0.1341,-0.134,-0.7492
+N6-methyladenosine,Temozolomide,1340,92,590636,-0.7493,-0.1341,-0.134,-0.7493
+Ampiroxicam,Temozolomide,500,92,591567,-0.7493,-0.1341,-0.134,-0.7494
+Aminohippuric acid,Temozolomide,384,92,591439,-0.7495,-0.1341,-0.134,-0.7495
+Turofexorate isopropyl,Temozolomide,1974,92,591293,-0.7496,-0.134,-0.134,-0.7496
+Oxytetracycline,Temozolomide,1446,92,590747,-0.7502,-0.1351,-0.135,-0.7502
+Luteolin,Temozolomide,1237,92,590525,-0.7503,-0.1351,-0.135,-0.7503
+Nodinitib-1,Temozolomide,216,92,591333,-0.7507,-0.135,-0.135,-0.7506
+Triamcinolone,Temozolomide,1883,92,591197,-0.7506,-0.1362,-0.136,-0.7507
+AMG-900,Temozolomide,413,92,591470,-0.7512,-0.465,-0.465,-0.7509
+Disulfiram,Temozolomide,858,92,591942,-0.7509,-0.1361,-0.136,-0.751
+Nialamide,Temozolomide,1382,92,590680,-0.7511,-0.1361,-0.136,-0.7512
+Lonidamine,Temozolomide,1224,92,590512,-0.7512,-0.1361,-0.136,-0.7513
+Empagliflozin,Temozolomide,906,92,591993,-0.7513,-0.1361,-0.136,-0.7513
+Adx-47273,Temozolomide,401,92,591458,-0.7513,-0.1361,-0.136,-0.7514
+Atazanavir sulfate,Temozolomide,534,92,591601,-0.7515,-0.1361,-0.136,-0.7515
+Alfuzosin Hydrochloride,Temozolomide,464,92,591526,-0.7518,-0.136,-0.136,-0.7517
+Tromethamine,Temozolomide,1895,92,591211,-0.7521,-0.1371,-0.137,-0.7522
+XL-388,Temozolomide,1975,92,591294,-0.7523,-0.1382,-0.138,-0.7525
+Fluocinonide,Temozolomide,990,92,592081,-0.7524,-0.1382,-0.138,-0.7526
+Chlorzoxazone,Temozolomide,264,92,591363,-0.7528,-0.137,-0.137,-0.7527
+Clindamycin palmitate hydrochloride,Temozolomide,756,92,591836,-0.7529,-0.1382,-0.138,-0.753
+Schisandrin B,Temozolomide,1706,92,591013,-0.753,-0.1381,-0.138,-0.7531
+Syk Inhibitor III,Temozolomide,1258,92,590548,-0.7531,-0.1381,-0.138,-0.7532
+Unii-mxs2N5862L,Temozolomide,1350,92,590646,-0.7532,-0.1381,-0.138,-0.7532
+Fesoterodine fumarate,Temozolomide,969,92,592059,-0.7531,-0.1381,-0.138,-0.7532
+Flumequine,Temozolomide,985,92,592075,-0.7531,-0.1381,-0.138,-0.7532
+Dinaciclib,Temozolomide,31,92,591393,-0.7535,-0.188,-0.188,-0.7533
+Oxethazaine,Temozolomide,1438,92,590739,-0.7539,-0.1391,-0.139,-0.754
+Tolvaptan,Temozolomide,1871,92,591184,-0.7539,-0.1391,-0.139,-0.754
+Elesclomol,Temozolomide,239,92,591346,-0.7542,-0.1391,-0.139,-0.7542
+Ezetimibe,Temozolomide,953,92,592043,-0.7543,-0.1391,-0.139,-0.7543
+Costunolide,Temozolomide,775,92,591857,-0.7545,-0.1391,-0.139,-0.7545
+Fluorometholone acetate,Temozolomide,991,92,592082,-0.7544,-0.1402,-0.14,-0.7546
+Verapamil hydrochloride,Temozolomide,1946,92,591266,-0.7549,-0.1401,-0.14,-0.755
+Pramiracetam,Temozolomide,1552,92,590853,-0.755,-0.1401,-0.14,-0.7551
+Adenosine,Temozolomide,457,92,591518,-0.7551,-0.1401,-0.14,-0.7551
+Ciprofibrate,Temozolomide,746,92,591826,-0.7551,-0.1401,-0.14,-0.7551
+CYP3cide,Temozolomide,1469,92,590770,-0.7552,-0.1401,-0.14,-0.7552
+Brompheniramine maleate,Temozolomide,639,92,591713,-0.7553,-0.1401,-0.14,-0.7554
+Dabrafenib,Temozolomide,801,92,591884,-0.7554,-0.1401,-0.14,-0.7555
+Neratinib,Temozolomide,1380,92,590678,-0.7556,-0.14,-0.14,-0.7556
+Artemether,Temozolomide,523,92,591590,-0.7558,-0.1412,-0.141,-0.7559
+Sertraline hydrochloride,Temozolomide,1718,92,591025,-0.7562,-0.1411,-0.141,-0.7562
+Tideglusib,Temozolomide,353,92,591411,-0.7563,-0.1411,-0.141,-0.7563
+Carbamazepine,Temozolomide,694,92,591771,-0.7563,-0.1411,-0.141,-0.7563
+Antazoline hydrochloride,Temozolomide,510,92,591577,-0.7563,-0.1411,-0.141,-0.7564
+Gliclazide,Temozolomide,1052,92,590328,-0.7564,-0.1411,-0.141,-0.7565
+Alk-IN-1,Temozolomide,414,92,591471,-0.7565,-0.1411,-0.141,-0.7565
+Methylprednisolone,Temozolomide,1300,92,590593,-0.7569,-0.1422,-0.142,-0.757
+Sulfamerazine,Temozolomide,1762,92,591072,-0.7571,-0.1421,-0.142,-0.7571
+Ambroxol hydrochloride,Temozolomide,480,92,591544,-0.7573,-0.1421,-0.142,-0.7573
+Cyclamic acid,Temozolomide,781,92,591863,-0.7573,-0.1421,-0.142,-0.7574
+Givinostat,Temozolomide,1050,92,590326,-0.7581,-0.619,-0.619,-0.7576
+Usnic acid,Temozolomide,366,92,591419,-0.7576,-0.142,-0.142,-0.7576
+Deferasirox,Temozolomide,816,92,591898,-0.7577,-0.142,-0.142,-0.7577
+Sotrastaurin,Temozolomide,1745,92,591053,-0.7581,-0.1431,-0.143,-0.7581
+TG-100713,Temozolomide,1796,92,591107,-0.7581,-0.1431,-0.143,-0.7582
+Tiopronin,Temozolomide,1855,92,591168,-0.7581,-0.1431,-0.143,-0.7582
+Dihydrodiethylstilbestrol,Temozolomide,1082,92,590359,-0.7589,-0.1441,-0.144,-0.759
+Allylthiourea,Temozolomide,470,92,591533,-0.7589,-0.1441,-0.144,-0.759
+Desvenlafaxine Succinate,Temozolomide,824,92,591907,-0.7589,-0.1441,-0.144,-0.759
+CHEMBL590022,Temozolomide,653,92,591728,-0.7591,-0.1441,-0.144,-0.7591
+Atracurium besylate,Temozolomide,538,92,591605,-0.7592,-0.1441,-0.144,-0.7592
+Dicloxacillin sodium,Temozolomide,838,92,591921,-0.7591,-0.1441,-0.144,-0.7592
+Clevudine,Temozolomide,752,92,591832,-0.7592,-0.1441,-0.144,-0.7593
+GSK-256066,Temozolomide,1021,92,590294,-0.7595,-0.1441,-0.144,-0.7595
+AZD-5438,Temozolomide,436,92,591495,-0.7597,-0.227,-0.227,-0.7595
+Benidipine hydrochloride,Temozolomide,598,92,591670,-0.7595,-0.1441,-0.144,-0.7595
+Duloxetine hydrochloride,Temozolomide,882,92,591966,-0.7597,-0.1452,-0.145,-0.7598
+Disufenton sodium,Temozolomide,1355,92,590651,-0.7598,-0.1452,-0.145,-0.7599
+Tacrolimus,Temozolomide,1806,92,591117,-0.7599,-0.1451,-0.145,-0.76
+ZM 39923 hydrochloride,Temozolomide,1989,92,591310,-0.76,-0.1451,-0.145,-0.7601
+Propafenone hydrochloride,Temozolomide,1574,92,590875,-0.7602,-0.1451,-0.145,-0.7603
+Dapagliflozin,Temozolomide,199,92,591321,-0.7603,-0.1451,-0.145,-0.7604
+Baicalin,Temozolomide,585,92,591656,-0.7604,-0.1451,-0.145,-0.7604
+Ibuprofen,Temozolomide,1109,92,590388,-0.7607,-0.145,-0.145,-0.7607
+Thioridazine hydrochloride,Temozolomide,1844,92,591156,-0.7608,-0.1462,-0.146,-0.7609
+Xifaxan,Temozolomide,1630,92,590932,-0.7612,-0.1461,-0.146,-0.7612
+Dasatinib,Temozolomide,24,92,591351,-0.7616,-0.533,-0.533,-0.7612
+Agi-5198,Temozolomide,408,92,591465,-0.7611,-0.1461,-0.146,-0.7612
+Vinblastine,Temozolomide,103,92,590313,-0.7618,-0.407,-0.407,-0.7615
+Marbofloxacin,Temozolomide,1268,92,590558,-0.7615,-0.146,-0.146,-0.7616
+Bisacodyl,Temozolomide,629,92,591702,-0.7619,-0.1471,-0.147,-0.762
+Biotin,Temozolomide,626,92,591699,-0.7625,-0.1471,-0.147,-0.7625
+WAY-100635 maleate salt,Temozolomide,1960,92,591279,-0.7626,-0.147,-0.147,-0.7626
+Pomalidomide,Temozolomide,1545,92,590846,-0.7632,-0.1481,-0.148,-0.7633
+Thiazovivin,Temozolomide,1843,92,591155,-0.7634,-0.1481,-0.148,-0.7634
+Silmitasertib,Temozolomide,306,92,591386,-0.7635,-0.1481,-0.148,-0.7635
+ZM-306416,Temozolomide,1987,92,591307,-0.7637,-0.148,-0.148,-0.7637
+Piperacillin sodium,Temozolomide,1534,92,590835,-0.7641,-0.1491,-0.149,-0.7642
+SB-705498,Temozolomide,1676,92,590980,-0.7641,-0.1491,-0.149,-0.7642
+Enoxacin,Temozolomide,910,92,591997,-0.7642,-0.1491,-0.149,-0.7643
+Rimonabant,Temozolomide,1635,92,590937,-0.7644,-0.1491,-0.149,-0.7644
+Baicalein,Temozolomide,584,92,591655,-0.7644,-0.1491,-0.149,-0.7644
+Fingolimod hydrochloride,Temozolomide,973,92,592063,-0.7643,-0.1502,-0.15,-0.7644
+Aminopyrine,Temozolomide,483,92,591547,-0.765,-0.1501,-0.15,-0.7651
+Srpin340,Temozolomide,1691,92,590996,-0.7651,-0.1501,-0.15,-0.7652
+Ampicillin sodium,Temozolomide,499,92,591566,-0.7652,-0.1501,-0.15,-0.7653
+Physcion,Temozolomide,1624,92,590925,-0.7658,-0.1512,-0.151,-0.7659
+Silymarin,Temozolomide,1724,92,591032,-0.766,-0.1511,-0.151,-0.7661
+Tioxolone,Temozolomide,1857,92,591170,-0.7661,-0.1511,-0.151,-0.7661
+Choline chloride,Temozolomide,729,92,591809,-0.766,-0.1511,-0.151,-0.7661
+Closantel sodium,Temozolomide,768,92,591849,-0.7661,-0.1511,-0.151,-0.7661
+Dopamine hydrochloride,Temozolomide,864,92,591948,-0.7662,-0.1511,-0.151,-0.7663
+Nebivolol,Temozolomide,1374,92,590671,-0.7667,-0.1522,-0.152,-0.7668
+JZL-184,Temozolomide,323,92,591396,-0.7668,-0.1522,-0.152,-0.7669
+SC-514,Temozolomide,1679,92,590983,-0.767,-0.1521,-0.152,-0.7671
+Sirtinol,Temozolomide,1726,92,591034,-0.7671,-0.1521,-0.152,-0.7671
+Azlin,Temozolomide,555,92,591624,-0.7671,-0.1521,-0.152,-0.7672
+Cephalexin,Temozolomide,711,92,591790,-0.7672,-0.1521,-0.152,-0.7672
+Berzosertib,Temozolomide,1920,92,591238,-0.7678,-0.571,-0.571,-0.7673
+Diperodon hydrochloride,Temozolomide,854,92,591938,-0.7678,-0.1532,-0.153,-0.7679
+Rimantadine,Temozolomide,1634,92,590936,-0.768,-0.1531,-0.153,-0.768
+Tinidazole,Temozolomide,1853,92,591166,-0.7679,-0.1531,-0.153,-0.768
+AR-42,Temozolomide,415,92,591472,-0.769,-0.603,-0.603,-0.7685
+Adiphenine hydrochloride,Temozolomide,458,92,591519,-0.7688,-0.1542,-0.154,-0.7689
+UK-383367,Temozolomide,1908,92,591224,-0.7689,-0.1541,-0.154,-0.769
+Azactam,Temozolomide,557,92,591626,-0.7689,-0.1541,-0.154,-0.769
+Clindamycin,Temozolomide,754,92,591834,-0.769,-0.1541,-0.154,-0.769
+Triamterene,Temozolomide,1885,92,591199,-0.7692,-0.1541,-0.154,-0.7692
+VU-0364439,Temozolomide,1923,92,591241,-0.7692,-0.1541,-0.154,-0.7692
+Pelitinib,Temozolomide,1506,92,590807,-0.7692,-0.1541,-0.154,-0.7693
+Infigratinib,Temozolomide,559,92,591629,-0.7694,-0.1552,-0.155,-0.7696
+Lorcaserin hydrochloride,Temozolomide,1228,92,590516,-0.7699,-0.1551,-0.155,-0.77
+Valsartan,Temozolomide,1936,92,591255,-0.7699,-0.1551,-0.155,-0.77
+StemRegenin 1,Temozolomide,1751,92,591060,-0.7705,-0.1551,-0.155,-0.7705
+SNS-314 Mesylate,Temozolomide,1689,92,590994,-0.771,-0.453,-0.453,-0.7707
+Pioglitazone,Temozolomide,339,92,591405,-0.7707,-0.1562,-0.156,-0.7708
+Tolperisone hydrochloride,Temozolomide,1868,92,591181,-0.7711,-0.1561,-0.156,-0.7711
+Cyclandelate,Temozolomide,782,92,591864,-0.771,-0.1561,-0.156,-0.7711
+CHIR-124,Temozolomide,665,92,591740,-0.7716,-0.39,-0.39,-0.7713
+Bifonazole,Temozolomide,621,92,591694,-0.7721,-0.156,-0.156,-0.772
+Secnidazole,Temozolomide,1713,92,591020,-0.772,-0.1571,-0.157,-0.7721
+Suplatast tosilate,Temozolomide,1776,92,591086,-0.7721,-0.1571,-0.157,-0.7721
+Escitalopram oxalate,Temozolomide,934,92,592022,-0.772,-0.1571,-0.157,-0.7721
+BS-181 hydrochloride,Temozolomide,579,92,591650,-0.7722,-0.1571,-0.157,-0.7723
+Memantine hydrochloride,Temozolomide,1279,92,590570,-0.7725,-0.1571,-0.157,-0.7725
+PF-573228,Temozolomide,230,92,591343,-0.7725,-0.1571,-0.157,-0.7725
+Nisoldipine,Temozolomide,283,92,591374,-0.7726,-0.157,-0.157,-0.7726
+Rigosertib,Temozolomide,1631,92,590933,-0.7732,-0.485,-0.485,-0.7728
+SGC-0946,Temozolomide,1681,92,590985,-0.773,-0.1581,-0.158,-0.7731
+Epalrestat,Temozolomide,916,92,592003,-0.7731,-0.1581,-0.158,-0.7731
+Quercetin dihydrate,Temozolomide,1589,92,590890,-0.7733,-0.1581,-0.158,-0.7733
+PP121,Temozolomide,1487,92,590787,-0.7738,-0.589,-0.589,-0.7734
+Nps-2143,Temozolomide,1344,92,590640,-0.7734,-0.1592,-0.159,-0.7736
+Sapanisertib,Temozolomide,1100,92,590378,-0.774,-0.286,-0.286,-0.7738
+SKI-II,Temozolomide,1686,92,590990,-0.7738,-0.1592,-0.159,-0.7739
+Sonidegib,Temozolomide,222,92,591337,-0.7738,-0.1592,-0.159,-0.7739
+Niflumic acid,Temozolomide,1391,92,590690,-0.7741,-0.1591,-0.159,-0.7742
+Linsitinib,Temozolomide,111,92,590398,-0.7743,-0.1591,-0.159,-0.7743
+Manidipine,Temozolomide,1264,92,590554,-0.7746,-0.159,-0.159,-0.7746
+Pheniramine maleate,Temozolomide,1515,92,590816,-0.775,-0.1601,-0.16,-0.7751
+NU-6027,Temozolomide,1348,92,590644,-0.7751,-0.1601,-0.16,-0.7752
+Methylhydantoin-5-(D),Temozolomide,1299,92,590592,-0.7757,-0.1612,-0.161,-0.7758
+P005091,Temozolomide,1451,92,590752,-0.7758,-0.1612,-0.161,-0.7759
+RepSox,Temozolomide,1618,92,590919,-0.7759,-0.1611,-0.161,-0.776
+2-Aminothiazole,Temozolomide,487,92,591551,-0.7759,-0.1611,-0.161,-0.776
+Decamethonium bromide,Temozolomide,815,92,591897,-0.7759,-0.1612,-0.161,-0.776
+MGCD-265 analog,Temozolomide,1242,92,590531,-0.7762,-0.1611,-0.161,-0.7762
+Nitrendipine,Temozolomide,1398,92,590698,-0.7762,-0.1611,-0.161,-0.7762
+Vandetanib,Temozolomide,135,92,590655,-0.7767,-0.161,-0.161,-0.7767
+BMS-833923,Temozolomide,575,92,591646,-0.7768,-0.1622,-0.162,-0.7769
+WZ-8040,Temozolomide,1969,92,591288,-0.777,-0.1621,-0.162,-0.777
+Xylazine hydrochloride,Temozolomide,1978,92,591297,-0.7769,-0.1622,-0.162,-0.777
+Sitaxentan sodium,Temozolomide,1729,92,591037,-0.777,-0.1621,-0.162,-0.7771
+Chenodeoxycholic acid,Temozolomide,717,92,591796,-0.7771,-0.1621,-0.162,-0.7771
+Osi-930,Temozolomide,1413,92,590715,-0.7783,-0.181,-0.181,-0.7782
+Polydatin,Temozolomide,1544,92,590845,-0.7782,-0.1631,-0.163,-0.7782
+Devimistat,Temozolomide,674,92,591750,-0.7781,-0.1631,-0.163,-0.7782
+AT-7519,Temozolomide,421,92,591479,-0.7787,-0.244,-0.244,-0.7785
+RAF265,Temozolomide,304,92,591384,-0.7786,-0.1642,-0.164,-0.7787
+P22077,Temozolomide,1449,92,590750,-0.7788,-0.1642,-0.164,-0.7789
+Theobromine,Temozolomide,1840,92,591152,-0.7788,-0.1642,-0.164,-0.7789
+Clofibric acid,Temozolomide,760,92,591841,-0.7791,-0.1641,-0.164,-0.7791
+Triptolide,Temozolomide,250,92,591353,-0.7796,-0.388,-0.388,-0.7793
+Amprenavir,Temozolomide,501,92,591568,-0.7792,-0.1641,-0.164,-0.7793
+Flutamide,Temozolomide,995,92,592086,-0.7793,-0.1641,-0.164,-0.7793
+Wortmannin,Temozolomide,1972,92,591291,-0.7797,-0.164,-0.164,-0.7797
+GSK-1904529A,Temozolomide,1019,92,590292,-0.7802,-0.1651,-0.165,-0.7803
+Brucine,Temozolomide,641,92,591715,-0.7804,-0.1651,-0.165,-0.7805
+Ulipristal,Temozolomide,1913,92,591230,-0.7808,-0.1662,-0.166,-0.7809
+LY-2109761,Temozolomide,1180,92,590464,-0.7809,-0.1661,-0.166,-0.781
+Atomoxetine hydrochloride,Temozolomide,535,92,591602,-0.7811,-0.1661,-0.166,-0.7812
+Cathepsin inhibitor 1,Temozolomide,705,92,591783,-0.7812,-0.1661,-0.166,-0.7812
+SB-431542,Temozolomide,1672,92,590976,-0.7814,-0.1661,-0.166,-0.7814
+Bms-599626,Temozolomide,399,92,591456,-0.7814,-0.1661,-0.166,-0.7814
+LDN-57444,Temozolomide,1178,92,590461,-0.7817,-0.1672,-0.167,-0.7818
+ZM-447439,Temozolomide,1990,92,591311,-0.7822,-0.49,-0.49,-0.7818
+Erdosteine,Temozolomide,929,92,592017,-0.7819,-0.1671,-0.167,-0.782
+JIB-04,Temozolomide,1144,92,590426,-0.7821,-0.1671,-0.167,-0.7821
+Nicotinic acid,Temozolomide,1388,92,590686,-0.7828,-0.1682,-0.168,-0.7829
+SC-144,Temozolomide,1680,92,590984,-0.7832,-0.337,-0.337,-0.783
+Bergenin,Temozolomide,610,92,591682,-0.7829,-0.1681,-0.168,-0.783
+Primidone,Temozolomide,1566,92,590867,-0.783,-0.1681,-0.168,-0.7831
+Cyromazine,Temozolomide,789,92,591871,-0.783,-0.1681,-0.168,-0.7831
+PF-00562271 free base,Temozolomide,337,92,591403,-0.7834,-0.212,-0.212,-0.7833
+RAD51 inhibitor 1,Temozolomide,1600,92,590901,-0.784,-0.1691,-0.169,-0.7841
+Carbenicillin disodium,Temozolomide,696,92,591773,-0.7842,-0.1691,-0.169,-0.7842
+Foretinib,Temozolomide,171,92,591026,-0.7849,-0.606,-0.606,-0.7844
+Benztropine mesylate,Temozolomide,604,92,591676,-0.7844,-0.1691,-0.169,-0.7844
+LY-411575,Temozolomide,1192,92,590477,-0.7849,-0.1702,-0.17,-0.785
+Aminolevulinic Acid,Temozolomide,6,92,591769,-0.7852,-0.1701,-0.17,-0.7852
+GSK-3787,Temozolomide,1023,92,590296,-0.7854,-0.1701,-0.17,-0.7854
+Ispinesib,Temozolomide,1138,92,590419,-0.7862,-0.33,-0.33,-0.7859
+Cisatracurium besylate,Temozolomide,748,92,591828,-0.7858,-0.1712,-0.171,-0.7859
+CP-91149,Temozolomide,673,92,591749,-0.7862,-0.1711,-0.171,-0.7862
+Propranolol hydrochloride,Temozolomide,1576,92,590877,-0.7866,-0.171,-0.171,-0.7866
+BI-2536,Temozolomide,164,92,590952,-0.7874,-0.53,-0.53,-0.787
+Barasertib,Temozolomide,587,92,591658,-0.7874,-0.526,-0.526,-0.787
+Bemegride,Temozolomide,593,92,591665,-0.7869,-0.1721,-0.172,-0.787
+Quinine monohydrochloride dihydrate,Temozolomide,1592,92,590893,-0.7873,-0.1721,-0.172,-0.7874
+Afatinib,Temozolomide,133,92,590634,-0.788,-0.172,-0.172,-0.7879
+Miglitol,Temozolomide,1313,92,590607,-0.7883,-0.1731,-0.173,-0.7883
+Sodium ascorbate,Temozolomide,1738,92,591046,-0.7882,-0.1731,-0.173,-0.7883
+Butoconazole nitrate,Temozolomide,650,92,591725,-0.7885,-0.1731,-0.173,-0.7885
+Bms-754807,Temozolomide,192,92,591247,-0.7891,-0.484,-0.484,-0.7888
+Nateglinide,Temozolomide,1373,92,590670,-0.7888,-0.1742,-0.174,-0.7889
+Fluorouracil,Temozolomide,41,92,591476,-0.7891,-0.1741,-0.174,-0.7892
+Benzocaine,Temozolomide,602,92,591674,-0.7895,-0.1741,-0.174,-0.7895
+Chloroxine,Temozolomide,723,92,591803,-0.7896,-0.174,-0.174,-0.7896
+Tolcapone,Temozolomide,1864,92,591177,-0.7898,-0.174,-0.174,-0.7898
+Acetylcholine chloride,Temozolomide,448,92,591508,-0.7899,-0.1751,-0.175,-0.79
+Dalcetrapib,Temozolomide,806,92,591888,-0.79,-0.1751,-0.175,-0.7901
+Riviciclib hydrochloride,Temozolomide,1450,92,590751,-0.7905,-0.386,-0.386,-0.7902
+Efaproxiral sodium,Temozolomide,900,92,591987,-0.7901,-0.1751,-0.175,-0.7902
+Ergosterol,Temozolomide,930,92,592018,-0.7902,-0.1751,-0.175,-0.7903
+Restasis,Temozolomide,786,92,591868,-0.7912,-0.1761,-0.176,-0.7912
+Pidotimod,Temozolomide,1527,92,590828,-0.7912,-0.1761,-0.176,-0.7913
+Clemastine fumarate,Temozolomide,750,92,591830,-0.7916,-0.1772,-0.177,-0.7917
+Nitazoxanide,Temozolomide,1396,92,590696,-0.7917,-0.1772,-0.177,-0.7918
+URB-597,Temozolomide,1912,92,591229,-0.792,-0.1771,-0.177,-0.7921
+Anagrelide hydrochloride,Temozolomide,505,92,591572,-0.792,-0.1771,-0.177,-0.7921
+Cilengitide,Temozolomide,736,92,591816,-0.7922,-0.1771,-0.177,-0.7923
+Scopine,Temozolomide,1709,92,591016,-0.7933,-0.1781,-0.178,-0.7933
+Glyburide,Temozolomide,1056,92,590332,-0.7933,-0.1781,-0.178,-0.7934
+Losartan potassium,Temozolomide,1230,92,590518,-0.7938,-0.178,-0.178,-0.7937
+Aripiprazole,Temozolomide,522,92,591589,-0.7935,-0.1792,-0.179,-0.7937
+Diprophylline,Temozolomide,887,92,591971,-0.7938,-0.1792,-0.179,-0.7939
+Proadifen hydrochloride,Temozolomide,1567,92,590868,-0.7945,-0.1791,-0.179,-0.7945
+Rutin,Temozolomide,1658,92,590962,-0.7946,-0.1802,-0.18,-0.7947
+SB-590885,Temozolomide,1675,92,590979,-0.7949,-0.1801,-0.18,-0.795
+Abt-751,Temozolomide,398,92,591454,-0.7952,-0.349,-0.349,-0.795
+Carmofur,Temozolomide,700,92,591778,-0.7949,-0.1801,-0.18,-0.795
+Ceftiofur hydrochloride,Temozolomide,710,92,591789,-0.7951,-0.1801,-0.18,-0.7952
+Acipimox,Temozolomide,451,92,591512,-0.7956,-0.1812,-0.181,-0.7957
+GSK J4 HCl,Temozolomide,1014,92,590287,-0.796,-0.1811,-0.181,-0.7961
+l-(+)-Rhamnose monohydrate,Temozolomide,1171,92,590454,-0.7961,-0.1811,-0.181,-0.7961
+JNJ-1661010,Temozolomide,1145,92,590427,-0.7962,-0.1811,-0.181,-0.7963
+Riluzole,Temozolomide,1633,92,590935,-0.7968,-0.1822,-0.182,-0.7969
+Moxalactam disodium,Temozolomide,1332,92,590627,-0.7969,-0.1821,-0.182,-0.797
+Agerafenib,Temozolomide,659,92,591734,-0.7971,-0.181,-0.181,-0.797
+Fisetin,Temozolomide,974,92,592064,-0.797,-0.1821,-0.182,-0.7971
+AS-604850,Temozolomide,417,92,591474,-0.7971,-0.1821,-0.182,-0.7972
+VU-0361737,Temozolomide,1922,92,591240,-0.7976,-0.1832,-0.183,-0.7978
+Isoproterenol hydrochloride,Temozolomide,1134,92,590415,-0.7978,-0.1832,-0.183,-0.7979
+LY-364947,Temozolomide,1190,92,590475,-0.7982,-0.1831,-0.183,-0.7982
+Manidipine dihydrochloride,Temozolomide,1265,92,590555,-0.7981,-0.1831,-0.183,-0.7982
+YM-201636,Temozolomide,1982,92,591302,-0.7984,-0.1842,-0.184,-0.7985
+Ginkgolide-A,Temozolomide,1048,92,590323,-0.7991,-0.1841,-0.184,-0.7991
+Moguisteine,Temozolomide,1324,92,590619,-0.799,-0.1841,-0.184,-0.7991
+Decitabine,Temozolomide,26,92,591364,-0.7992,-0.191,-0.191,-0.7991
+Oseltamivir phosphate,Temozolomide,1430,92,590732,-0.7999,-0.1851,-0.185,-0.8
+SB-525334,Temozolomide,1674,92,590978,-0.8,-0.1851,-0.185,-0.8001
+Thiamphenicol,Temozolomide,1842,92,591154,-0.8,-0.1851,-0.185,-0.8001
+Bufexamac,Temozolomide,643,92,591717,-0.8007,-0.1862,-0.186,-0.8008
+Pilocarpine hydrochloride,Temozolomide,1530,92,590831,-0.8012,-0.1861,-0.186,-0.8012
+Betamethasone,Temozolomide,614,92,591686,-0.8013,-0.1872,-0.187,-0.8015
+PDK1 inhibitor AR-12,Temozolomide,334,92,591401,-0.8018,-0.186,-0.186,-0.8018
+PR-619,Temozolomide,1491,92,590791,-0.802,-0.1871,-0.187,-0.802
+Carbazochrome sodium sulfonate,Temozolomide,695,92,591772,-0.802,-0.1871,-0.187,-0.8021
+AZ-20,Temozolomide,430,92,591489,-0.8027,-0.429,-0.429,-0.8024
+Golgicide A,Temozolomide,1059,92,590335,-0.8028,-0.452,-0.452,-0.8025
+EVP4593,Temozolomide,1587,92,590888,-0.803,-0.1881,-0.188,-0.8031
+Ttnpb,Temozolomide,1802,92,591113,-0.8032,-0.19,-0.19,-0.8031
+Clevidipine,Temozolomide,751,92,591831,-0.8038,-0.1892,-0.189,-0.8039
+SCH-900776,Temozolomide,1251,92,590541,-0.8042,-0.351,-0.351,-0.804
+Ipratropium bromide,Temozolomide,1127,92,590407,-0.8048,-0.1902,-0.19,-0.8049
+Dicyclomine hydrochloride,Temozolomide,839,92,591922,-0.8049,-0.1902,-0.19,-0.805
+Sucralose,Temozolomide,1755,92,591064,-0.8052,-0.1901,-0.19,-0.8052
+AG-1478,Temozolomide,405,92,591462,-0.8052,-0.1901,-0.19,-0.8053
+MLN-8054,Temozolomide,1255,92,590545,-0.8057,-0.442,-0.442,-0.8054
+Zosuquidar Trihydrochloride,Temozolomide,2003,92,591326,-0.8054,-0.1901,-0.19,-0.8054
+Intepirdine,Temozolomide,1677,92,590981,-0.8055,-0.1901,-0.19,-0.8055
+Thiamet G,Temozolomide,1841,92,591153,-0.8057,-0.1912,-0.191,-0.8058
+gamma-Secretase Inhibitor XX,Temozolomide,1983,92,591303,-0.806,-0.1911,-0.191,-0.8061
+Tiratricol,Temozolomide,1858,92,591171,-0.8061,-0.1911,-0.191,-0.8062
+Omecamtiv mecarbil,Temozolomide,1421,92,590723,-0.8062,-0.1911,-0.191,-0.8063
+RG-108,Temozolomide,1597,92,590898,-0.8062,-0.1911,-0.191,-0.8063
+Sumatriptan succinate,Temozolomide,1775,92,591085,-0.8065,-0.1911,-0.191,-0.8065
+Blebbistatin,Temozolomide,368,92,591421,-0.807,-0.1921,-0.192,-0.8071
+Pyrimethamine,Temozolomide,1586,92,590887,-0.8072,-0.1921,-0.192,-0.8072
+AT-9283,Temozolomide,423,92,591481,-0.8076,-0.586,-0.586,-0.8072
+Pregnenolone,Temozolomide,1562,92,590863,-0.8073,-0.1932,-0.193,-0.8075
+Retapamulin,Temozolomide,1623,92,590924,-0.8075,-0.1932,-0.193,-0.8077
+BMS-794833,Temozolomide,574,92,591645,-0.8077,-0.192,-0.192,-0.8077
+Dificid,Temozolomide,971,92,592061,-0.8079,-0.1931,-0.193,-0.808
+IPA-3,Temozolomide,321,92,591395,-0.808,-0.1931,-0.193,-0.8081
+Orlistat,Temozolomide,225,92,591340,-0.8082,-0.1931,-0.193,-0.8082
+Florfenicol,Temozolomide,978,92,592068,-0.8083,-0.1942,-0.194,-0.8085
+Torcetrapib,Temozolomide,1873,92,591186,-0.8088,-0.193,-0.193,-0.8087
+Gandotinib,Temozolomide,1185,92,590469,-0.8091,-0.506,-0.506,-0.8088
+AdipoRon,Temozolomide,459,92,591521,-0.8088,-0.1942,-0.194,-0.8089
+Apatinib Mesylate,Temozolomide,512,92,591579,-0.8088,-0.1942,-0.194,-0.8089
+Berberine chloride,Temozolomide,608,92,591680,-0.8089,-0.1941,-0.194,-0.809
+A-674563,Temozolomide,392,92,591448,-0.8095,-0.414,-0.414,-0.8093
+PH-797804,Temozolomide,1473,92,590773,-0.8099,-0.1951,-0.195,-0.81
+Tebipenem pivoxil,Temozolomide,1819,92,591130,-0.8105,-0.1962,-0.196,-0.8107
+Oleanolic acid,Temozolomide,1416,92,590718,-0.8106,-0.1962,-0.196,-0.8108
+Ataluren,Temozolomide,533,92,591600,-0.8108,-0.1962,-0.196,-0.8109
+Linifanib,Temozolomide,1216,92,590504,-0.8111,-0.195,-0.195,-0.811
+Idelalisib,Temozolomide,652,92,591727,-0.8115,-0.1961,-0.196,-0.8115
+Salicylanilide,Temozolomide,1698,92,591004,-0.812,-0.1971,-0.197,-0.8121
+D-Glucose,Temozolomide,829,92,591912,-0.8122,-0.1971,-0.197,-0.8122
+Ridaforolimus,Temozolomide,84,92,591932,-0.812,-0.1983,-0.198,-0.8122
+BIX-02188,Temozolomide,566,92,591636,-0.8123,-0.1971,-0.197,-0.8123
+Acyclovir,Temozolomide,450,92,591511,-0.8126,-0.1982,-0.198,-0.8127
+Sgc-cbp30,Temozolomide,1682,92,590986,-0.8129,-0.1982,-0.198,-0.813
+Arbutin,Temozolomide,519,92,591586,-0.8129,-0.1981,-0.198,-0.813
+Tacrine hydrochloride,Temozolomide,1805,92,591116,-0.813,-0.1981,-0.198,-0.8131
+Pirinixic acid,Temozolomide,1964,92,591283,-0.813,-0.1981,-0.198,-0.8131
+PFT-alpha,Temozolomide,1529,92,590830,-0.8131,-0.1981,-0.198,-0.8132
+GW3965 HCl,Temozolomide,1026,92,590299,-0.8136,-0.1992,-0.199,-0.8137
+Isoliquiritigenin,Temozolomide,1133,92,590414,-0.8138,-0.1992,-0.199,-0.8139
+Ketanserin,Temozolomide,1162,92,590444,-0.8138,-0.1992,-0.199,-0.8139
+Carbimazole,Temozolomide,699,92,591777,-0.8138,-0.1992,-0.199,-0.8139
+H-89 Dihydrochloride,Temozolomide,1070,92,590347,-0.8139,-0.1991,-0.199,-0.814
+Sodium nitroprusside,Temozolomide,1735,92,591043,-0.814,-0.1991,-0.199,-0.814
+Mdivi-1,Temozolomide,1270,92,590560,-0.8143,-0.1991,-0.199,-0.8143
+Taractan,Temozolomide,727,92,591807,-0.8146,-0.2002,-0.2,-0.8147
+Zileuton,Temozolomide,1998,92,591320,-0.8154,-0.2001,-0.2,-0.8154
+Fluticasone propionate,Temozolomide,996,92,592087,-0.8164,-0.2022,-0.202,-0.8166
+Haloperidol,Temozolomide,1077,92,590354,-0.8171,-0.2021,-0.202,-0.8172
+Famprofazone,Temozolomide,958,92,592048,-0.8171,-0.2021,-0.202,-0.8172
+Unii-2CQ62iwb67,Temozolomide,1188,92,590472,-0.8174,-0.2021,-0.202,-0.8174
+Cobicistat,Temozolomide,772,92,591854,-0.8174,-0.2032,-0.203,-0.8175
+Clarithromycin,Temozolomide,749,92,591829,-0.8177,-0.2032,-0.203,-0.8178
+Semaxanib,Temozolomide,1715,92,591022,-0.818,-0.202,-0.202,-0.818
+Rac1 Inhibitor,Temozolomide,1345,92,590641,-0.818,-0.2031,-0.203,-0.8181
+GW-2580,Temozolomide,316,92,591390,-0.8182,-0.2031,-0.203,-0.8182
+GW-788388,Temozolomide,1029,92,590303,-0.819,-0.2041,-0.204,-0.8191
+Carvedilol,Temozolomide,702,92,591780,-0.8197,-0.2052,-0.205,-0.8198
+Glafenine hydrochloride,Temozolomide,1051,92,590327,-0.8202,-0.2051,-0.205,-0.8202
+Tak-285,Temozolomide,1783,92,591094,-0.8205,-0.2051,-0.205,-0.8205
+KY02111,Temozolomide,1160,92,590442,-0.8207,-0.2062,-0.206,-0.8208
+Skepinone-L,Temozolomide,1730,92,591038,-0.8207,-0.2062,-0.206,-0.8208
+D-Xylose,Temozolomide,1980,92,591300,-0.8207,-0.2062,-0.206,-0.8208
+Dyclonine hydrochloride,Temozolomide,884,92,591968,-0.8207,-0.2062,-0.206,-0.8208
+C22H31NO2,Temozolomide,387,92,591442,-0.8208,-0.2062,-0.206,-0.8209
+CCG-50014,Temozolomide,654,92,591729,-0.8209,-0.2062,-0.206,-0.821
+Pifithrin-mu,Temozolomide,1528,92,590829,-0.8211,-0.2061,-0.206,-0.8212
+Elvitegravir,Temozolomide,904,92,591991,-0.8215,-0.2072,-0.207,-0.8217
+Sulfadimethoxine,Temozolomide,1774,92,591084,-0.8217,-0.2072,-0.207,-0.8218
+Diclofenac diethylamine,Temozolomide,835,92,591918,-0.8221,-0.2071,-0.207,-0.8221
+PP242,Temozolomide,1489,92,590789,-0.8222,-0.2083,-0.208,-0.8224
+LGK-974,Temozolomide,1179,92,590463,-0.8223,-0.2082,-0.208,-0.8225
+Duvelisib,Temozolomide,1104,92,590382,-0.8226,-0.207,-0.207,-0.8226
+Tipifarnib,Temozolomide,244,92,591349,-0.8228,-0.207,-0.207,-0.8228
+Necrostatin-1,Temozolomide,1375,92,590672,-0.823,-0.207,-0.207,-0.8229
+Avasimibe,Temozolomide,543,92,591611,-0.8228,-0.2082,-0.208,-0.8229
+PF-04880594,Temozolomide,1463,92,590764,-0.823,-0.2081,-0.208,-0.8231
+Pridinol methanesulfonate,Temozolomide,1563,92,590864,-0.823,-0.2081,-0.208,-0.8231
+Myricitrin,Temozolomide,1339,92,590635,-0.8231,-0.2081,-0.208,-0.8232
+Tacedinaline,Temozolomide,668,92,591743,-0.8233,-0.2092,-0.209,-0.8235
+Rutaecarpine,Temozolomide,1657,92,590961,-0.824,-0.2091,-0.209,-0.8241
+Lumacaftor,Temozolomide,1930,92,591249,-0.8241,-0.2091,-0.209,-0.8242
+Gastrodin,Temozolomide,1039,92,590314,-0.8251,-0.2101,-0.21,-0.8252
+Everolimus,Temozolomide,37,92,591433,-0.8251,-0.2113,-0.211,-0.8253
+Methacycline hydrochloride,Temozolomide,1291,92,590583,-0.8257,-0.2112,-0.211,-0.8258
+Flavopiridol hydrochloride,Temozolomide,975,92,592065,-0.8261,-0.364,-0.364,-0.8259
+Troxerutin,Temozolomide,1899,92,591215,-0.826,-0.2111,-0.211,-0.8261
+Clotrimazole,Temozolomide,769,92,591851,-0.8262,-0.213,-0.213,-0.8261
+BMS-387032,Temozolomide,344,92,591408,-0.8266,-0.275,-0.275,-0.8264
+Gdc-0152,Temozolomide,1009,92,590282,-0.8267,-0.211,-0.211,-0.8266
+Enalapril maleate,Temozolomide,908,92,591995,-0.8267,-0.2122,-0.212,-0.8268
+Griseofulvin,Temozolomide,1063,92,590339,-0.8269,-0.2121,-0.212,-0.827
+(E)-3-Tosylacrylonitrile,Temozolomide,190,92,591225,-0.8274,-0.2121,-0.212,-0.8274
+Nanchangmycin,Temozolomide,1365,92,590662,-0.8275,-0.2121,-0.212,-0.8275
+AZD-3514,Temozolomide,435,92,591494,-0.8273,-0.2132,-0.213,-0.8275
+Ambrisentan,Temozolomide,479,92,591543,-0.8275,-0.2121,-0.212,-0.8275
+Alectinib,Temozolomide,187,92,591192,-0.8276,-0.2132,-0.213,-0.8277
+Ralimetinib Mesylate,Temozolomide,1182,92,590466,-0.8278,-0.2132,-0.213,-0.8279
+Methoxsalen,Temozolomide,64,92,591723,-0.828,-0.2131,-0.213,-0.8281
+jak3 inhibitor ii,Temozolomide,1962,92,591281,-0.8283,-0.2131,-0.213,-0.8284
+K02288,Temozolomide,1152,92,590434,-0.8287,-0.2142,-0.214,-0.8289
+Salicin,Temozolomide,1697,92,591003,-0.8288,-0.2142,-0.214,-0.8289
+Allitinib,Temozolomide,418,92,591475,-0.8291,-0.2141,-0.214,-0.8292
+Aceclidine hydrochloride,Temozolomide,443,92,591503,-0.8294,-0.2141,-0.214,-0.8294
+Nitrofurazone,Temozolomide,1399,92,590700,-0.8295,-0.2152,-0.215,-0.8297
+CFTR(inh)-172,Temozolomide,661,92,591736,-0.8296,-0.2152,-0.215,-0.8297
+Amg-458,Temozolomide,411,92,591468,-0.8305,-0.2151,-0.215,-0.8305
+Rilpivirine,Temozolomide,1632,92,590934,-0.8309,-0.215,-0.215,-0.8309
+Oxymatrine,Temozolomide,1443,92,590744,-0.8317,-0.2172,-0.217,-0.8318
+Alibendol,Temozolomide,465,92,591527,-0.8317,-0.2172,-0.217,-0.8318
+Pepcid,Temozolomide,957,92,592047,-0.8325,-0.2182,-0.218,-0.8326
+Bardoxolone methyl,Temozolomide,588,92,591659,-0.8337,-0.62,-0.62,-0.8332
+Desvenlafaxine,Temozolomide,823,92,591906,-0.834,-0.2191,-0.219,-0.8341
+BX-912,Temozolomide,582,92,591653,-0.8348,-0.219,-0.219,-0.8348
+Milrinone,Temozolomide,1316,92,590610,-0.8351,-0.2201,-0.22,-0.8351
+Beclomethasone dipropionate,Temozolomide,591,92,591663,-0.8352,-0.2212,-0.221,-0.8354
+Alisertib,Temozolomide,177,92,591089,-0.8359,-0.492,-0.492,-0.8355
+Broxyquinoline,Temozolomide,640,92,591714,-0.8357,-0.22,-0.22,-0.8356
+Pac-1,Temozolomide,1453,92,590754,-0.8359,-0.22,-0.22,-0.8358
+Trimethoprim,Temozolomide,1893,92,591209,-0.8356,-0.2212,-0.221,-0.8358
+Cloxapen,Temozolomide,770,92,591852,-0.8358,-0.2212,-0.221,-0.8359
+Acitretin,Temozolomide,452,92,591513,-0.8363,-0.245,-0.245,-0.8362
+Dibenzothiophene,Temozolomide,831,92,591914,-0.8366,-0.2222,-0.222,-0.8367
+Toremifene citrate,Temozolomide,1874,92,591187,-0.8367,-0.2222,-0.222,-0.8368
+Torin 1,Temozolomide,1875,92,591188,-0.8371,-0.54,-0.54,-0.8368
+Hesperetin,Temozolomide,1080,92,590357,-0.8369,-0.2221,-0.222,-0.837
+Ku-60019,Temozolomide,113,92,590420,-0.8372,-0.2221,-0.222,-0.8373
+Apremilast,Temozolomide,517,92,591584,-0.8378,-0.2232,-0.223,-0.8379
+Lacidipine,Temozolomide,1193,92,590479,-0.838,-0.2231,-0.223,-0.838
+Montelukast sodium,Temozolomide,1327,92,590622,-0.838,-0.2231,-0.223,-0.838
+AZD-3463,Temozolomide,139,92,590699,-0.8385,-0.594,-0.594,-0.8381
+Palomid 529,Temozolomide,1500,92,590801,-0.8381,-0.2231,-0.223,-0.8382
+Selagine,Temozolomide,370,92,591424,-0.8382,-0.2231,-0.223,-0.8382
+Pyrazinamide,Temozolomide,1583,92,590884,-0.8384,-0.2242,-0.224,-0.8385
+Diminazene aceturate,Temozolomide,850,92,591934,-0.8385,-0.2242,-0.224,-0.8386
+Quetiapine fumarate,Temozolomide,1590,92,590891,-0.8386,-0.2242,-0.224,-0.8388
+Paroxetine hydrochloride,Temozolomide,1502,92,590803,-0.8397,-0.2252,-0.225,-0.8399
+Tetrahydropapaverine hydrochloride,Temozolomide,1837,92,591149,-0.8402,-0.2251,-0.225,-0.8402
+Vortioxetine hydrobromide,Temozolomide,1959,92,591278,-0.841,-0.2261,-0.226,-0.8411
+Unii-R1J57sta6O,Temozolomide,1017,92,590290,-0.8413,-0.2272,-0.227,-0.8414
+Icotinib,Temozolomide,1112,92,590391,-0.8414,-0.2261,-0.226,-0.8414
+Nevirapine,Temozolomide,1381,92,590679,-0.8414,-0.2272,-0.227,-0.8416
+Naratriptan,Temozolomide,1368,92,590665,-0.8417,-0.2272,-0.227,-0.8418
+Hydroxyurea,Temozolomide,46,92,591531,-0.842,-0.2271,-0.227,-0.8421
+Sirolimus,Temozolomide,86,92,591952,-0.8421,-0.2283,-0.228,-0.8423
+R-547,Temozolomide,1596,92,590897,-0.8426,-0.303,-0.303,-0.8425
+Capmatinib,Temozolomide,1099,92,590377,-0.843,-0.2281,-0.228,-0.8431
+Phenindione,Temozolomide,1514,92,590815,-0.8433,-0.2281,-0.228,-0.8433
+A66,Temozolomide,395,92,591451,-0.844,-0.2291,-0.229,-0.844
+"6,7-Dimethoxy-3-phenylquinoxaline",Temozolomide,1904,92,591220,-0.844,-0.2291,-0.229,-0.8441
+Nimesulide,Temozolomide,1394,92,590694,-0.8446,-0.2302,-0.23,-0.8447
+PD-325901,Temozolomide,69,92,591776,-0.8448,-0.229,-0.229,-0.8448
+Econazole nitrate,Temozolomide,897,92,591983,-0.8459,-0.2311,-0.231,-0.846
+Spebrutinib,Temozolomide,425,92,591483,-0.8465,-0.2322,-0.232,-0.8466
+Atovaquone,Temozolomide,537,92,591604,-0.8466,-0.2322,-0.232,-0.8467
+Catharanthine,Temozolomide,704,92,591782,-0.8477,-0.2332,-0.233,-0.8478
+Miconazole,Temozolomide,1310,92,590604,-0.848,-0.2331,-0.233,-0.848
+Alizarin,Temozolomide,468,92,591530,-0.8479,-0.2331,-0.233,-0.848
+Monobenzone,Temozolomide,1326,92,590621,-0.8498,-0.234,-0.234,-0.8498
+Rupatadine fumarate,Temozolomide,1656,92,590960,-0.8497,-0.2352,-0.235,-0.8498
+Tariquidar,Temozolomide,1815,92,591126,-0.8499,-0.2351,-0.235,-0.85
+Equol,Temozolomide,927,92,592014,-0.8499,-0.2352,-0.235,-0.85
+10-Deacetylbaccatin III,Temozolomide,376,92,591430,-0.8504,-0.2351,-0.235,-0.8504
+Tamibarotene,Temozolomide,1809,92,591120,-0.8508,-0.235,-0.235,-0.8508
+Cinoxacin,Temozolomide,745,92,591825,-0.8509,-0.2361,-0.236,-0.851
+Clorsulon,Temozolomide,766,92,591847,-0.8509,-0.2361,-0.236,-0.851
+Eltrombopag,Temozolomide,903,92,591990,-0.8509,-0.2362,-0.236,-0.851
+Xylitol,Temozolomide,1626,92,590927,-0.8527,-0.237,-0.237,-0.8527
+AT-7867,Temozolomide,422,92,591480,-0.8531,-0.237,-0.237,-0.853
+Wye-125132,Temozolomide,1965,92,591284,-0.8533,-0.258,-0.258,-0.8532
+Imatinib,Temozolomide,48,92,591553,-0.8533,-0.2381,-0.238,-0.8533
+Entinostat,Temozolomide,217,92,591334,-0.8534,-0.2381,-0.238,-0.8534
+PI-103,Temozolomide,1478,92,590778,-0.8538,-0.2392,-0.239,-0.8539
+Forskolin,Temozolomide,1002,92,590275,-0.8546,-0.2402,-0.24,-0.8548
+Arecoline,Temozolomide,520,92,591587,-0.8549,-0.2402,-0.24,-0.855
+Clofazimine,Temozolomide,759,92,591840,-0.8556,-0.2412,-0.241,-0.8557
+Toltrazuril,Temozolomide,1870,92,591183,-0.856,-0.2411,-0.241,-0.856
+Nvp-aew541,Temozolomide,1351,92,590647,-0.8561,-0.2411,-0.241,-0.8562
+Axitinib,Temozolomide,545,92,591613,-0.8565,-0.454,-0.454,-0.8562
+Tozasertib,Temozolomide,246,92,591350,-0.8566,-0.471,-0.471,-0.8563
+Mycophenolate mofetil,Temozolomide,1337,92,590632,-0.8566,-0.2422,-0.242,-0.8568
+AZ-628,Temozolomide,427,92,591485,-0.8572,-0.2421,-0.242,-0.8572
+LY-404039,Temozolomide,1191,92,590476,-0.8577,-0.2432,-0.243,-0.8578
+Sesamin,Temozolomide,1719,92,591027,-0.8585,-0.2442,-0.244,-0.8586
+Pictilisib,Temozolomide,140,92,590710,-0.8586,-0.2442,-0.244,-0.8587
+Betulinic acid,Temozolomide,618,92,591690,-0.8587,-0.2442,-0.244,-0.8588
+ETP-46464,Temozolomide,894,92,591980,-0.8588,-0.2442,-0.244,-0.8589
+Benzoylthiamine monophosphate,Temozolomide,597,92,591669,-0.8589,-0.2442,-0.244,-0.859
+WP-1066,Temozolomide,1963,92,591282,-0.8592,-0.2441,-0.244,-0.8593
+Felodipine,Temozolomide,961,92,592051,-0.861,-0.2461,-0.246,-0.861
+VE-821,Temozolomide,1919,92,591237,-0.8615,-0.457,-0.457,-0.8612
+Meptazinol hydrochloride,Temozolomide,1285,92,590576,-0.8615,-0.2472,-0.247,-0.8616
+AZ-960,Temozolomide,428,92,591486,-0.862,-0.379,-0.379,-0.8618
+PF-4708671,Temozolomide,1467,92,590768,-0.8626,-0.2482,-0.248,-0.8627
+Bephenium hydroxynaphthoate,Temozolomide,606,92,591678,-0.8633,-0.2492,-0.249,-0.8635
+Indomethacin,Temozolomide,1124,92,590404,-0.8636,-0.2492,-0.249,-0.8637
+PHA-680632,Temozolomide,1474,92,590774,-0.8648,-0.249,-0.249,-0.8648
+Deflazacort,Temozolomide,817,92,591899,-0.8653,-0.2512,-0.251,-0.8655
+Desonide,Temozolomide,822,92,591905,-0.8654,-0.2512,-0.251,-0.8656
+"Sodium 3-(3,4-dihydroxyphenyl)-2-hydroxypropanoate",Temozolomide,1733,92,591041,-0.8669,-0.2521,-0.252,-0.867
+XL019,Temozolomide,1973,92,591292,-0.8673,-0.2521,-0.252,-0.8673
+Bexarotene,Temozolomide,363,92,591416,-0.8676,-0.252,-0.252,-0.8676
+Dolutegravir,Temozolomide,861,92,591945,-0.8687,-0.2542,-0.254,-0.8688
+Bms-378806,Temozolomide,571,92,591642,-0.8695,-0.2552,-0.255,-0.8696
+Cytidine,Temozolomide,791,92,591873,-0.8695,-0.2552,-0.255,-0.8697
+CP-673451,Temozolomide,671,92,591747,-0.8701,-0.403,-0.403,-0.8699
+Anacetrapib,Temozolomide,504,92,591571,-0.8701,-0.2551,-0.255,-0.8701
+Butein,Temozolomide,648,92,591722,-0.8701,-0.2551,-0.255,-0.8702
+NSC-319726,Temozolomide,1346,92,590642,-0.8703,-0.2551,-0.255,-0.8703
+Risperidone,Temozolomide,1636,92,590938,-0.8702,-0.2563,-0.256,-0.8704
+Pyr-41,Temozolomide,1494,92,590795,-0.8709,-0.2561,-0.256,-0.871
+Temsirolimus,Temozolomide,242,92,591348,-0.8711,-0.2573,-0.257,-0.8713
+Tie2 kinase inhibitor,Temozolomide,354,92,591412,-0.8713,-0.2572,-0.257,-0.8715
+PD173074,Temozolomide,228,92,591341,-0.8723,-0.2582,-0.258,-0.8725
+Flurbiprofen,Temozolomide,994,92,592085,-0.8723,-0.2582,-0.258,-0.8725
+PNU-120596,Temozolomide,1485,92,590785,-0.8736,-0.258,-0.258,-0.8736
+Acetovanillone,Temozolomide,515,92,591582,-0.8738,-0.2592,-0.259,-0.8739
+Danusertib,Temozolomide,808,92,591890,-0.8742,-0.422,-0.422,-0.874
+Aloe-emodin,Temozolomide,472,92,591535,-0.8741,-0.2591,-0.259,-0.8741
+Masitinib,Temozolomide,1269,92,590559,-0.8747,-0.259,-0.259,-0.8747
+Capivasertib,Temozolomide,120,92,590496,-0.8749,-0.259,-0.259,-0.8749
+Sparfloxacin,Temozolomide,1746,92,591054,-0.8754,-0.2612,-0.261,-0.8756
+Vildagliptin,Temozolomide,1949,92,591269,-0.8755,-0.2612,-0.261,-0.8757
+Tandutinib,Temozolomide,1811,92,591122,-0.8758,-0.26,-0.26,-0.8758
+Tetrandrine,Temozolomide,1839,92,591151,-0.8757,-0.2612,-0.261,-0.8758
+Erastin,Temozolomide,928,92,592015,-0.8766,-0.492,-0.492,-0.8763
+GW-441756,Temozolomide,317,92,591391,-0.8764,-0.2622,-0.262,-0.8765
+Acesulfame potassium,Temozolomide,445,92,591505,-0.8765,-0.2622,-0.262,-0.8766
+Quercetin,Temozolomide,1588,92,590889,-0.8767,-0.2622,-0.262,-0.8768
+Etoposide,Temozolomide,36,92,591422,-0.8775,-0.324,-0.324,-0.8774
+Gdc-0349,Temozolomide,1010,92,590283,-0.8785,-0.2642,-0.264,-0.8786
+Osthole,Temozolomide,1431,92,590733,-0.8794,-0.2641,-0.264,-0.8794
+Raltegravir,Temozolomide,1607,92,590908,-0.8797,-0.2652,-0.265,-0.8798
+Degrasyn,Temozolomide,818,92,591900,-0.88,-0.2651,-0.265,-0.8801
+Bicuculline,Temozolomide,364,92,591417,-0.8834,-0.2692,-0.269,-0.8836
+Sulfadiazine,Temozolomide,1760,92,591070,-0.8838,-0.2692,-0.269,-0.8839
+MK-8745,Temozolomide,1250,92,590540,-0.8858,-0.378,-0.378,-0.8857
+Famciclovir,Temozolomide,956,92,592046,-0.8864,-0.2722,-0.272,-0.8865
+MK-2206 dihydrochloride,Temozolomide,1245,92,590534,-0.8872,-0.2721,-0.272,-0.8872
+AZD-1080,Temozolomide,431,92,591490,-0.8873,-0.2721,-0.272,-0.8873
+Osi-027,Temozolomide,1411,92,590713,-0.8874,-0.2732,-0.273,-0.8876
+GSK-1838705A,Temozolomide,1018,92,590291,-0.8877,-0.2732,-0.273,-0.8879
+Imatinib mesylate,Temozolomide,1118,92,590397,-0.8887,-0.273,-0.273,-0.8887
+Halcinonide,Temozolomide,1075,92,590352,-0.8893,-0.2752,-0.275,-0.8894
+Valnemulin hydrochloride,Temozolomide,1934,92,591253,-0.8893,-0.2752,-0.275,-0.8895
+"N,N'-Dibenzylquinazoline-2,4-diamine",Temozolomide,796,92,591879,-0.8893,-0.2752,-0.275,-0.8895
+KW-2449,Temozolomide,1157,92,590439,-0.8897,-0.365,-0.365,-0.8896
+4-Methoxyphenol,Temozolomide,1286,92,590577,-0.8897,-0.274,-0.274,-0.8897
+Nicotine acid tartrate,Temozolomide,1387,92,590685,-0.8898,-0.2752,-0.275,-0.8899
+Andrographolide,Temozolomide,507,92,591574,-0.8913,-0.2761,-0.276,-0.8914
+AZD-2858,Temozolomide,434,92,591493,-0.8924,-0.476,-0.476,-0.8922
+3-Deazaneplanocin,Temozolomide,381,92,591436,-0.8928,-0.2782,-0.278,-0.8929
+RGFP-966,Temozolomide,1599,92,590900,-0.8942,-0.2802,-0.28,-0.8944
+Geldanamycin,Temozolomide,44,92,591509,-0.8947,-0.279,-0.279,-0.8947
+Ethacridine lactate monohydrate,Temozolomide,942,92,592031,-0.8945,-0.2802,-0.28,-0.8947
+SAR131675,Temozolomide,1663,92,590967,-0.8969,-0.2821,-0.282,-0.897
+Difluprednate,Temozolomide,844,92,591927,-0.8993,-0.2852,-0.285,-0.8995
+Cgk733,Temozolomide,662,92,591737,-0.8996,-0.2852,-0.285,-0.8997
+Isotretinoin,Temozolomide,1136,92,590417,-0.8998,-0.284,-0.284,-0.8998
+Go-6983,Temozolomide,1058,92,590334,-0.902,-0.286,-0.286,-0.9019
+Etravirine,Temozolomide,950,92,592040,-0.9062,-0.2923,-0.292,-0.9064
+Rucaparib,Temozolomide,1654,92,590958,-0.9071,-0.291,-0.291,-0.907
+Benzbromarone,Temozolomide,600,92,591672,-0.9076,-0.292,-0.292,-0.9076
+Cepharanthine,Temozolomide,713,92,591792,-0.9089,-0.2941,-0.294,-0.909
+Lomeguatrib,Temozolomide,1221,92,590509,-0.9105,-0.2951,-0.295,-0.9105
+Batimastat,Temozolomide,589,92,591661,-0.9108,-0.2962,-0.296,-0.9109
+Pracinostat,Temozolomide,1550,92,590851,-0.916,-0.599,-0.599,-0.9157
+CH5132799,Temozolomide,664,92,591739,-0.9157,-0.3012,-0.301,-0.9159
+Piceatannol,Temozolomide,1526,92,590827,-0.9194,-0.3052,-0.305,-0.9195
+TAK-632,Temozolomide,1785,92,591096,-0.9204,-0.336,-0.336,-0.9202
+AG-14361,Temozolomide,404,92,591461,-0.9211,-0.305,-0.305,-0.921
+Resminostat,Temozolomide,1621,92,590922,-0.9213,-0.3061,-0.306,-0.9213
+Nvp-tae 684,Temozolomide,223,92,591338,-0.9239,-0.308,-0.308,-0.9239
+Krn-633,Temozolomide,1156,92,590438,-0.9253,-0.3101,-0.31,-0.9254
+Linagliptin,Temozolomide,1213,92,590501,-0.9274,-0.3132,-0.313,-0.9275
+Dactolisib,Temozolomide,332,92,591400,-0.9277,-0.3132,-0.313,-0.9278
+Tolbutamide,Temozolomide,1863,92,591176,-0.9294,-0.3141,-0.314,-0.9294
+Ipatasertib,Temozolomide,1008,92,590281,-0.9299,-0.3151,-0.315,-0.93
+Gsk-690693,Temozolomide,208,92,591330,-0.9311,-0.3161,-0.316,-0.9311
+GZD-824,Temozolomide,1032,92,590306,-0.933,-0.615,-0.615,-0.9327
+CCT-128930,Temozolomide,655,92,591730,-0.9345,-0.3202,-0.32,-0.9347
+Tasisulam,Temozolomide,1816,92,591127,-0.9346,-0.3202,-0.32,-0.9348
+Ticagrelor,Temozolomide,1847,92,591159,-0.9348,-0.3202,-0.32,-0.9349
+R-406,Temozolomide,127,92,590569,-0.9372,-0.483,-0.483,-0.9369
+Paeoniflorin,Temozolomide,1496,92,590797,-0.9368,-0.3222,-0.322,-0.9369
+Vorinostat,Temozolomide,106,92,590345,-0.9375,-0.375,-0.375,-0.9374
+ZLN-005,Temozolomide,1986,92,591306,-0.9376,-0.3232,-0.323,-0.9378
+Proteinase inhibitor E 64,Temozolomide,888,92,591972,-0.9382,-0.3231,-0.323,-0.9383
+Milciclib,Temozolomide,1314,92,590608,-0.9384,-0.3242,-0.324,-0.9385
+PIK-93,Temozolomide,1482,92,590782,-0.9387,-0.323,-0.323,-0.9387
+CHIR-98014,Temozolomide,666,92,591741,-0.939,-0.323,-0.323,-0.9389
+Serdemetan,Temozolomide,1146,92,590428,-0.9415,-0.377,-0.377,-0.9414
+Telatinib,Temozolomide,1821,92,591132,-0.944,-0.3291,-0.329,-0.944
+PJ34,Temozolomide,1483,92,590783,-0.945,-0.3301,-0.33,-0.945
+Vatalanib dihydrochloride,Temozolomide,1943,92,591263,-0.9495,-0.3341,-0.334,-0.9495
+Edoxaban,Temozolomide,899,92,591986,-0.9499,-0.334,-0.334,-0.9499
+IOWH032,Temozolomide,1102,92,590380,-0.9538,-0.3392,-0.339,-0.9539
+Crenolanib,Temozolomide,777,92,591859,-0.9566,-0.406,-0.406,-0.9564
+Mycophenolic acid,Temozolomide,281,92,591373,-0.9572,-0.3433,-0.343,-0.9574
+PQ401,Temozolomide,1490,92,590790,-0.959,-0.3441,-0.344,-0.959
+TG-101209,Temozolomide,1797,92,591108,-0.9617,-0.6,-0.6,-0.9614
+Ricolinostat,Temozolomide,1641,92,590944,-0.9623,-0.3471,-0.347,-0.9623
+GW-4064,Temozolomide,1027,92,590300,-0.9668,-0.351,-0.351,-0.9668
+Oxfendazole,Temozolomide,1439,92,590740,-0.9695,-0.3552,-0.355,-0.9697
+Tazarotene,Temozolomide,1818,92,591129,-0.9718,-0.356,-0.356,-0.9718
+AM-1241,Temozolomide,409,92,591466,-0.9728,-0.357,-0.357,-0.9728
+Bosutinib,Temozolomide,193,92,591258,-0.9737,-0.3592,-0.359,-0.9738
+Alpelisib,Temozolomide,130,92,590602,-0.9743,-0.3591,-0.359,-0.9744
+Salubrinal,Temozolomide,1701,92,591008,-0.9757,-0.3612,-0.361,-0.9758
+AG-1879,Temozolomide,1488,92,590788,-0.9765,-0.423,-0.423,-0.9764
+Momelotinib,Temozolomide,198,92,591309,-0.9784,-0.3631,-0.363,-0.9784
+"2,4-Bisanilinopyrimidine, 10",Temozolomide,540,92,591608,-0.9812,-0.375,-0.375,-0.9811
+Azd8330,Temozolomide,438,92,591497,-0.9859,-0.3712,-0.371,-0.986
+CEP-33779,Temozolomide,660,92,591735,-0.9861,-0.3711,-0.371,-0.9862
+MK-5108,Temozolomide,53,92,591606,-0.9906,-0.449,-0.449,-0.9905
+WZ-3146,Temozolomide,1967,92,591286,-0.9933,-0.3781,-0.378,-0.9934
+Dapivirine,Temozolomide,810,92,591892,-0.9937,-0.378,-0.378,-0.9937
+TAK-733,Temozolomide,1788,92,591099,-0.9943,-0.3791,-0.379,-0.9943
+Chir-99021,Temozolomide,667,92,591742,-0.996,-0.38,-0.38,-0.996
+IMD-0354,Temozolomide,174,92,591057,-0.9968,-0.381,-0.381,-0.9968
+MK-8245,Temozolomide,1249,92,590539,-0.9973,-0.408,-0.408,-0.9972
+Cudc-101,Temozolomide,676,92,591752,-1.0026,-0.619,-0.619,-1.0023
+Abemaciclib mesylate,Temozolomide,1187,92,590471,-1.006,-0.39,-0.39,-1.0059
+Molibresib,Temozolomide,1093,92,590371,-1.0069,-0.3921,-0.392,-1.007
+GSK-1070916,Temozolomide,1016,92,590289,-1.0103,-0.421,-0.421,-1.0102
+I-Bet151,Temozolomide,1094,92,590372,-1.0105,-0.3951,-0.395,-1.0105
+PFI-1,Temozolomide,1472,92,590772,-1.0116,-0.3972,-0.397,-1.0117
+Stattic,Temozolomide,240,92,591347,-1.012,-0.3971,-0.397,-1.0121
+Histone Deacetylase Inhibitor III,Temozolomide,1238,92,590526,-1.0123,-0.427,-0.427,-1.0122
+NVP-BSK805 2HCl,Temozolomide,1353,92,590649,-1.0164,-0.4022,-0.402,-1.0166
+PF-477736,Temozolomide,1468,92,590769,-1.0194,-0.4041,-0.404,-1.0195
+Olaparib,Temozolomide,123,92,590527,-1.0196,-0.404,-0.404,-1.0196
+Cabozantinib,Temozolomide,257,92,591358,-1.0212,-0.411,-0.411,-1.0211
+Scriptaid,Temozolomide,1712,92,591019,-1.0216,-0.406,-0.406,-1.0216
+ZSTK-474,Temozolomide,1991,92,591312,-1.0225,-0.4071,-0.407,-1.0225
+Golvatinib,Temozolomide,1060,92,590336,-1.0294,-0.4152,-0.415,-1.0296
+JQ1 Compound,Temozolomide,175,92,591068,-1.0304,-0.459,-0.459,-1.0303
+Bms-345541,Temozolomide,570,92,591641,-1.0345,-0.4191,-0.419,-1.0345
+Veliparib,Temozolomide,102,92,590302,-1.0378,-0.422,-0.422,-1.0377
+BIX-02189,Temozolomide,567,92,591637,-1.0403,-0.4262,-0.426,-1.0405
+Chlorpheniramine maleate,Temozolomide,724,92,591804,-1.0572,-0.4421,-0.442,-1.0573
+Trametinib,Temozolomide,131,92,590613,-1.058,-0.4431,-0.443,-1.0581
+PP1,Temozolomide,1486,92,590786,-1.061,-0.4461,-0.446,-1.0611
+6-Bromoindirubin-3'-oxime,Temozolomide,563,92,591633,-1.0655,-0.502,-0.502,-1.0654
+Cetylpyridinium chloride,Temozolomide,716,92,591795,-1.0673,-0.467,-0.467,-1.0672
+NU-7441,Temozolomide,124,92,590538,-1.0696,-0.4552,-0.455,-1.0698
+R406 Benzenesulfonate,Temozolomide,1595,92,590896,-1.0698,-0.454,-0.454,-1.0698
+PRT062607 hydrochloride,Temozolomide,1492,92,590792,-1.0734,-0.4592,-0.459,-1.0735
+GSK-1059615,Temozolomide,1015,92,590288,-1.0752,-0.4601,-0.46,-1.0753
+Lenvatinib,Temozolomide,1202,92,590489,-1.0774,-0.4621,-0.462,-1.0774
+Mozavaptan,Temozolomide,1335,92,590630,-1.0837,-0.468,-0.468,-1.0837
+UNC-2250,Temozolomide,1910,92,591227,-1.0974,-0.4821,-0.482,-1.0974
+MK-2461,Temozolomide,1246,92,590535,-1.1008,-0.4862,-0.486,-1.1009
+Rebastinib,Temozolomide,797,92,591880,-1.1042,-0.499,-0.499,-1.1041
+Moxifloxacin hydrochloride,Temozolomide,1333,92,590628,-1.1058,-0.49,-0.49,-1.1058
+Tivozanib,Temozolomide,1859,92,591172,-1.1123,-0.4971,-0.497,-1.1123
+Quizartinib,Temozolomide,1594,92,590895,-1.118,-0.5031,-0.503,-1.1181
+DNA Methyltransferase Inhibitor II,Temozolomide,1683,92,590987,-1.1189,-0.62,-0.62,-1.1187
+AZD-2461,Temozolomide,433,92,591492,-1.1202,-0.5051,-0.505,-1.1202
+Porcn Inhibitor III,Temozolomide,1106,92,590384,-1.1241,-0.508,-0.508,-1.1241
+Dovitinib dilactic acid,Temozolomide,866,92,591950,-1.1299,-0.514,-0.514,-1.1299
+Amuvatinib,Temozolomide,503,92,591570,-1.1425,-0.5282,-0.528,-1.1426
+Nms-873,Temozolomide,1343,92,590639,-1.148,-0.532,-0.532,-1.148
+CCT-137690,Temozolomide,657,92,591732,-1.1503,-0.564,-0.564,-1.1502
+Dacomitinib,Temozolomide,804,92,591886,-1.1505,-0.5362,-0.536,-1.1506
+Thonzonium bromide,Temozolomide,1845,92,591157,-1.1565,-0.588,-0.588,-1.1563
+Aee788,Temozolomide,402,92,591459,-1.1588,-0.5442,-0.544,-1.1589
+Cediranib,Temozolomide,303,92,591383,-1.1751,-0.559,-0.559,-1.175
+Posaconazole,Temozolomide,1547,92,590848,-1.1999,-0.5851,-0.585,-1.2
+Ku-0063794,Temozolomide,324,92,591397,-1.2022,-0.5883,-0.588,-1.2024
+Belinostat,Temozolomide,592,92,591664,-1.2031,-0.587,-0.587,-1.203
+WAY-600,Temozolomide,1961,92,591280,-1.204,-0.5891,-0.589,-1.2041
+Pazopanib,Temozolomide,286,92,591375,-1.2269,-0.6121,-0.612,-1.227
+Azd4547,Temozolomide,112,92,590409,-1.234,-0.6191,-0.619,-1.2341
+PF-3845,Temozolomide,1466,92,590767,-1.2455,-0.6312,-0.631,-1.2456
+NVP-BHG712,Temozolomide,1352,92,590648,-1.2521,-0.6371,-0.637,-1.2522
+Cetrimonium bromide,Temozolomide,715,92,591794,-1.3213,-0.7072,-0.707,-1.3214
+Fedratinib,Temozolomide,1798,92,591109,-1.3265,-0.7111,-0.711,-1.3265
+Dovitinib,Temozolomide,169,92,591005,-1.3298,-0.7152,-0.715,-1.3299
+BIX 01294 Trihydrochloride,Temozolomide,565,92,591635,-1.3371,-0.7221,-0.722,-1.3372
+Pimasertib,Temozolomide,1531,92,590832,-1.3388,-0.7242,-0.724,-1.3389
+Saracatinib,Temozolomide,1702,92,591009,-1.3534,-0.7392,-0.739,-1.3536
+Ceritinib,Temozolomide,1177,92,590460,-1.3547,-0.7402,-0.74,-1.3548
+SGI-1776,Temozolomide,1684,92,590988,-1.3613,-0.7461,-0.746,-1.3614
+RG-2833,Temozolomide,1598,92,590899,-1.419,-0.8041,-0.804,-1.4191
+IKK Inhibitor VII,Temozolomide,1098,92,590376,-1.4477,-0.8332,-0.833,-1.4478

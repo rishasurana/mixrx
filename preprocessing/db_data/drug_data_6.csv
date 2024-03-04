@@ -1,0 +1,1328 @@
+drugNameA,drugNameB,idDrugA,idDrugB,comboId,bliss,loewe,hsa,zip
+Triflupromazine,Itraconazole,295,277,384557,0.998,0.998,0.998,0.9994
+Mefloquine,Valproic acid,280,296,384209,0.951,0.9594,0.9594,0.9529
+Itraconazole,Topiramate,277,294,384135,0.9285,0.9291,0.9285,0.9305
+Sulfinpyrazone,Itraconazole,290,277,384452,0.9023,0.9045,0.9043,0.9043
+Itraconazole,Eflornithine,277,271,384125,0.8377,0.8385,0.8377,0.8397
+Mefloquine,Tizoxanide,280,293,384207,0.828,0.8366,0.8364,0.8299
+Pazopanib,Valproic acid,286,296,384370,0.7365,0.7369,0.7365,0.7382
+Cinacalcet,Pazopanib,265,286,383822,0.7365,0.7365,0.7365,0.7378
+Niclosamide,Cinacalcet,282,265,384245,0.7338,0.7339,0.7338,0.735
+Niclosamide,Sulfinpyrazone,282,290,384262,0.7309,0.7344,0.7338,0.7325
+Sunitinib,Nitisinone,90,284,384822,0.7146,0.8289,0.8289,0.7159
+Carboplatin,Pazopanib,14,286,383588,0.7069,0.7368,0.7365,0.7086
+Triflupromazine,Niclosamide,295,282,384560,0.7021,0.7022,0.7021,0.7032
+Febuxostat,Valproic acid,273,296,384036,0.699,0.6995,0.699,0.7008
+Nitisinone,Sulfinpyrazone,284,290,384317,0.6971,0.7002,0.7001,0.6989
+Carisoprodol,Niclosamide,262,282,383758,0.6958,0.7123,0.7117,0.6974
+Thiabendazole,Triflupromazine,292,295,384496,0.6585,0.6585,0.6585,0.6597
+Teriflunomide,Sulfinpyrazone,291,290,384473,0.655,0.6581,0.6579,0.6567
+Tizoxanide,Fluorouracil,293,41,384531,0.6474,0.7362,0.7362,0.6488
+Triflupromazine,Aprepitant,295,260,384552,0.6364,0.6364,0.6364,0.6375
+Dronedarone,Teriflunomide,270,291,383962,0.6298,0.6299,0.6299,0.631
+Topiramate,Niclosamide,294,282,384541,0.6155,0.6161,0.6155,0.6172
+Teriflunomide,Isoniazid,291,276,384469,0.6091,0.6125,0.6123,0.6108
+Itraconazole,Meclofenamic acid,277,279,384129,0.6067,0.6087,0.6087,0.6083
+Tizoxanide,Eflornithine,293,271,384511,0.597,0.7439,0.7439,0.5986
+Tizoxanide,Topiramate,293,294,384526,0.5837,0.5839,0.5837,0.5853
+Tizoxanide,Trifluoperazine,293,248,384504,0.5782,0.5996,0.5996,0.5796
+Febuxostat,Niclosamide,273,282,384031,0.561,0.7345,0.7338,0.5624
+Carisoprodol,Febuxostat,262,273,383753,0.5333,0.5494,0.5492,0.5351
+Dronedarone,Pazopanib,270,286,383959,0.5321,0.5323,0.5323,0.5333
+Sunitinib,Aprepitant,90,260,384806,0.5223,0.6364,0.6364,0.5234
+Nitisinone,Isoniazid,284,276,384308,0.5115,0.5148,0.5147,0.5133
+Cycloguanil,Nitisinone,267,284,383880,0.5075,0.6136,0.6136,0.509
+Mitotane,Topiramate,66,294,384762,0.4786,0.4787,0.4786,0.48
+Dronedarone,Mitotane,270,66,383968,0.4784,0.4786,0.4786,0.4793
+Quinine,Trifluoperazine,288,248,384403,0.4778,0.4992,0.4992,0.4791
+Aprepitant,Nitisinone,260,284,383707,0.4659,0.6368,0.6364,0.4673
+Niclosamide,Thiabendazole,282,292,384264,0.4649,0.7304,0.7303,0.4663
+Eflornithine,Triflupromazine,271,295,383988,0.4642,0.4802,0.4802,0.4655
+Sulfinpyrazone,Febuxostat,290,273,384450,0.4596,0.4626,0.4625,0.4614
+Topiramate,Febuxostat,294,273,384538,0.4479,0.448,0.4479,0.4497
+Dronedarone,Cinacalcet,270,265,383945,0.4314,0.4319,0.4314,0.4324
+Nitisinone,Itraconazole,284,277,384309,0.4282,0.4303,0.4302,0.43
+Meclofenamic acid,Sulfinpyrazone,279,290,384178,0.4249,0.4279,0.4278,0.4265
+Triflupromazine,Mitotane,295,66,384568,0.4191,0.4191,0.4191,0.42
+Sulfinpyrazone,Cinacalcet,290,265,384447,0.4157,0.4157,0.4157,0.4173
+Sulfinpyrazone,Carisoprodol,290,262,384446,0.4116,0.4147,0.4146,0.4136
+Mercaptopurine,Teriflunomide,61,291,384709,0.4016,0.5182,0.5182,0.4032
+Ethinyl estradiol,Nitisinone,272,284,384003,0.3982,0.3982,0.3982,0.4
+Sunitinib,Febuxostat,90,273,384814,0.3982,0.5124,0.5124,0.3994
+Trifluoperazine,Temozolomide,248,92,383670,0.3957,0.4171,0.4171,0.3971
+Isoniazid,Quinine,276,288,384106,0.3951,0.3984,0.3983,0.3966
+Mitotane,Carisoprodol,66,262,384742,0.3883,0.4043,0.4041,0.3897
+Meclofenamic acid,Isoniazid,279,276,384172,0.3876,0.391,0.3908,0.3892
+Temozolomide,Ethinyl estradiol,92,272,384840,0.3825,0.3825,0.3825,0.3842
+Dronedarone,Meclofenamic acid,270,279,383954,0.3818,0.382,0.382,0.3829
+Mercaptopurine,Topiramate,61,294,384712,0.3795,0.3801,0.3795,0.3813
+Sulfinpyrazone,Eflornithine,290,271,384449,0.3773,0.4574,0.4573,0.379
+Quinine,Cycloguanil,288,267,384409,0.3701,0.4759,0.4759,0.3713
+Fluorouracil,Valproic acid,41,296,384642,0.3596,0.3602,0.3596,0.361
+Quinine,Cinacalcet,288,265,384408,0.3544,0.3556,0.3556,0.3555
+Topiramate,Dronedarone,294,270,384537,0.354,0.3544,0.354,0.3555
+Temozolomide,Triflupromazine,92,295,384852,0.3463,0.3463,0.3463,0.3474
+Febuxostat,Nisoldipine,273,283,384032,0.336,0.3526,0.3526,0.3378
+Ethinyl estradiol,Carisoprodol,272,262,383993,0.3302,0.3302,0.3302,0.3322
+Quinine,Nitisinone,288,284,384417,0.329,0.4993,0.4992,0.3303
+Thiabendazole,Teriflunomide,292,291,384494,0.3288,0.5719,0.5717,0.3303
+Cinacalcet,Mercaptopurine,265,61,383830,0.3264,0.3264,0.3264,0.3278
+Ethinyl estradiol,Mercaptopurine,272,61,384014,0.3223,0.3223,0.3223,0.3241
+Temozolomide,Isoniazid,92,276,384842,0.3097,0.3131,0.3129,0.3114
+Isoniazid,Thiabendazole,276,292,384107,0.3071,0.3105,0.3103,0.3088
+Isoniazid,Carisoprodol,276,262,384099,0.3053,0.3088,0.3086,0.3073
+Carisoprodol,Nitisinone,262,284,383759,0.2977,0.3138,0.3136,0.2995
+Temozolomide,Topiramate,92,294,384851,0.2829,0.2831,0.2829,0.2846
+Nisoldipine,Meclofenamic acid,283,279,384287,0.2815,0.298,0.298,0.283
+Sunitinib,Mitotane,90,66,384832,0.2758,0.3897,0.3897,0.2767
+Febuxostat,Eflornithine,273,271,384025,0.2745,0.3204,0.3202,0.2763
+Ethinyl estradiol,Chlorzoxazone,272,264,383994,0.2723,0.2723,0.2723,0.2738
+Pazopanib,Isoniazid,286,276,384362,0.2714,0.2748,0.2746,0.2732
+Niclosamide,Nisoldipine,282,283,384257,0.2709,0.2875,0.2875,0.2725
+Sunitinib,Triflupromazine,90,295,384828,0.2691,0.2696,0.2691,0.27
+Mercaptopurine,Thiabendazole,61,292,384710,0.2657,0.3823,0.3823,0.2673
+Sunitinib,Dipyridamole,90,269,384812,0.2664,0.3802,0.3802,0.2672
+Trifluoperazine,Niclosamide,248,282,383650,0.2594,0.2809,0.2809,0.2609
+Niclosamide,Mercaptopurine,282,61,384268,0.258,0.375,0.3746,0.2595
+Topiramate,Thiabendazole,294,292,384547,0.2555,0.2557,0.2555,0.2572
+Fluorouracil,Nisoldipine,41,283,384635,0.2547,0.2713,0.2713,0.2561
+Thiabendazole,Nisoldipine,292,283,384490,0.2532,0.2698,0.2698,0.2549
+Cycloguanil,Triflupromazine,267,295,383886,0.2531,0.2532,0.2531,0.2542
+Dronedarone,Nitisinone,270,284,383958,0.2529,0.2531,0.2531,0.2542
+Febuxostat,Everolimus,273,37,384038,0.2529,0.2994,0.2986,0.2542
+Trifluoperazine,Meclofenamic acid,248,279,383649,0.2523,0.2737,0.2737,0.2537
+Dronedarone,Chlorzoxazone,270,264,383944,0.2514,0.2516,0.2516,0.2524
+Chlorzoxazone,Nitisinone,264,284,383800,0.2493,0.4197,0.4196,0.2506
+Chlorzoxazone,Cinacalcet,264,265,383794,0.2478,0.2478,0.2478,0.2489
+Fluorouracil,Cinacalcet,41,265,384624,0.2477,0.2477,0.2477,0.2486
+Tizoxanide,Meclofenamic acid,293,279,384516,0.247,0.6007,0.6005,0.2483
+Dronedarone,Triflupromazine,270,295,383965,0.2413,0.2417,0.2413,0.2422
+Valproic acid,Cycloguanil,296,267,384573,0.2405,0.2819,0.2811,0.2421
+Dipyridamole,Nitisinone,269,284,383924,0.2402,0.4106,0.4103,0.2415
+Trifluoperazine,Mitotane,248,66,383669,0.2398,0.2612,0.2612,0.241
+Sulfinpyrazone,Quinine,290,288,384457,0.2376,0.2406,0.2406,0.2391
+Isoniazid,Eflornithine,276,271,384102,0.2368,0.2373,0.2368,0.2388
+Dronedarone,Valproic acid,270,296,383966,0.2372,0.2649,0.2649,0.2386
+Ethinyl estradiol,Quinine,272,288,384006,0.2371,0.2371,0.2371,0.2386
+Trifluoperazine,Teriflunomide,248,291,383658,0.2365,0.2579,0.2579,0.238
+Isoniazid,Chlorzoxazone,276,264,384100,0.2351,0.2383,0.2383,0.2366
+Nitisinone,Thiabendazole,284,292,384319,0.2344,0.4053,0.405,0.2359
+Temozolomide,Teriflunomide,92,291,384848,0.2319,0.4747,0.4745,0.2333
+Thiabendazole,Quinine,292,288,384492,0.2309,0.4993,0.4992,0.2321
+Cycloguanil,Cinacalcet,267,265,383871,0.2268,0.2269,0.2268,0.228
+Cinacalcet,Triflupromazine,265,295,383827,0.2268,0.2271,0.2268,0.2278
+Trifluoperazine,Ethinyl estradiol,248,272,383645,0.2253,0.2253,0.2253,0.227
+Nisoldipine,Chlorzoxazone,283,264,384278,0.2239,0.2404,0.2404,0.2253
+Dipyridamole,Isoniazid,269,276,383920,0.2233,0.2267,0.2265,0.2247
+Niclosamide,Quinine,282,288,384260,0.2164,0.4812,0.4812,0.2175
+Aprepitant,Sulfinpyrazone,260,290,383709,0.211,0.2142,0.214,0.2127
+Aprepitant,Fluorouracil,260,41,383714,0.206,0.5687,0.5683,0.207
+Mercaptopurine,Nisoldipine,61,283,384704,0.203,0.2196,0.2196,0.2048
+Cinacalcet,Isoniazid,265,276,383820,0.2012,0.2012,0.2012,0.2028
+Sunitinib,Chlorzoxazone,90,264,384808,0.2017,0.3157,0.3156,0.2027
+Itraconazole,Dronedarone,277,270,384124,0.1979,0.2258,0.2257,0.1993
+Niclosamide,Fluorouracil,282,41,384266,0.1975,0.463,0.4627,0.1986
+Mitotane,Teriflunomide,66,291,384759,0.197,0.4394,0.4393,0.1983
+Temozolomide,Carisoprodol,92,262,384836,0.1948,0.211,0.2107,0.1964
+Valproic acid,Dipyridamole,296,269,384575,0.1921,0.1924,0.1921,0.1935
+Topiramate,Teriflunomide,294,291,384546,0.1895,0.1898,0.1895,0.1913
+Valproic acid,Diazoxide,296,268,384574,0.189,0.2301,0.2296,0.1908
+Sunitinib,Cinacalcet,90,265,384809,0.1871,0.1873,0.1871,0.1881
+Temozolomide,Eflornithine,92,271,384839,0.1864,0.1868,0.1864,0.188
+Fluorouracil,Dronedarone,41,270,384627,0.1846,0.1849,0.1848,0.1855
+Trifluoperazine,Nitisinone,248,284,383652,0.1835,0.205,0.205,0.1851
+Dronedarone,Isoniazid,270,276,383952,0.1836,0.1837,0.1837,0.185
+Cinacalcet,Carboplatin,265,14,383812,0.1806,0.1806,0.1806,0.1821
+Cinacalcet,Everolimus,265,37,383829,0.1755,0.1755,0.1755,0.1762
+Itraconazole,Dipyridamole,277,269,384123,0.1748,0.1769,0.1768,0.1762
+Dronedarone,Carisoprodol,270,262,383943,0.1701,0.1703,0.1702,0.1715
+Carisoprodol,Chlorzoxazone,262,264,383751,0.1648,0.1807,0.1806,0.1663
+Mercaptopurine,Temozolomide,61,92,384716,0.1619,0.2784,0.2783,0.1634
+Ethinyl estradiol,Sulfinpyrazone,272,290,384007,0.1595,0.1595,0.1595,0.1615
+Ethinyl estradiol,Meclofenamic acid,272,279,384000,0.1584,0.1584,0.1584,0.16
+Dronedarone,Sunitinib,270,90,383969,0.1574,0.158,0.1575,0.1583
+Imatinib,Cinacalcet,48,265,384679,0.1572,0.1572,0.1572,0.1579
+Imatinib,Dronedarone,48,270,384681,0.1571,0.1572,0.1572,0.1577
+Isoniazid,Imatinib,276,48,384114,0.154,0.1573,0.1572,0.1552
+Nitisinone,Niclosamide,284,282,384311,0.1523,0.3236,0.323,0.1538
+Pazopanib,Quinine,286,288,384366,0.1513,0.4652,0.4651,0.1524
+Fluorouracil,Sulfinpyrazone,41,290,384639,0.151,0.1545,0.154,0.1524
+Meclofenamic acid,Chlorzoxazone,279,264,384167,0.151,0.5406,0.5406,0.1522
+Ethinyl estradiol,Leflunomide,272,278,383999,0.1503,0.1503,0.1503,0.1514
+Leflunomide,Topiramate,278,294,384154,0.1503,0.1503,0.1503,0.1514
+Cycloguanil,Thiabendazole,267,292,383884,0.1498,0.2559,0.2558,0.1512
+Leflunomide,Cinacalcet,278,265,384144,0.1503,0.1503,0.1503,0.151
+Leflunomide,Itraconazole,278,277,384149,0.1482,0.1503,0.1503,0.1494
+Temozolomide,Dronedarone,92,270,384838,0.1481,0.1482,0.1482,0.1492
+Sulfinpyrazone,Leflunomide,290,278,384453,0.1473,0.1503,0.1503,0.1485
+Dipyridamole,Dronedarone,269,270,383916,0.1476,0.1478,0.1477,0.1484
+Carboplatin,Teriflunomide,14,291,383589,0.1458,0.1758,0.1754,0.1475
+Dihydroqinghaosu,Ethinyl estradiol,261,272,383725,0.1461,0.1461,0.1461,0.1472
+Dihydroqinghaosu,Topiramate,261,294,383739,0.1461,0.1462,0.1461,0.1472
+Tizoxanide,Quinine,293,288,384522,0.1461,0.4993,0.4992,0.1472
+Topiramate,Carboplatin,294,14,384533,0.1453,0.1454,0.1453,0.1472
+Dihydroqinghaosu,Cinacalcet,261,265,383723,0.1461,0.1461,0.1461,0.1468
+Itraconazole,Dihydroqinghaosu,277,261,384119,0.1441,0.1461,0.1461,0.1452
+Sulfinpyrazone,Dihydroqinghaosu,290,261,384445,0.1432,0.1462,0.1461,0.1443
+Itraconazole,Quinine,277,288,384133,0.1418,0.1813,0.1812,0.1433
+Triflupromazine,Ethinyl estradiol,295,272,384555,0.1417,0.1421,0.1417,0.1432
+Carisoprodol,Imatinib,262,48,383769,0.1414,0.1573,0.1572,0.1425
+Cycloguanil,Temozolomide,267,92,383889,0.141,0.247,0.2469,0.1423
+Imatinib,Nisoldipine,48,283,384685,0.1407,0.1572,0.1572,0.1418
+Itraconazole,Temozolomide,277,92,384141,0.139,0.1411,0.141,0.1406
+Aprepitant,Dronedarone,260,270,383704,0.1391,0.1393,0.1393,0.1402
+Aprepitant,Carisoprodol,260,262,383702,0.1369,0.1532,0.1528,0.1385
+Trifluoperazine,Cinacalcet,248,265,383639,0.1371,0.1377,0.1371,0.1384
+Cycloguanil,Itraconazole,267,277,383876,0.1365,0.1766,0.1761,0.1381
+Nisoldipine,Topiramate,283,294,384293,0.1362,0.1372,0.1362,0.1381
+Carisoprodol,Leflunomide,262,278,383754,0.1344,0.1503,0.1503,0.1355
+Chlorzoxazone,Sulfinpyrazone,264,290,383803,0.134,0.1369,0.1369,0.1355
+Dronedarone,Dihydroqinghaosu,270,261,383942,0.1325,0.1326,0.1326,0.1331
+Trifluoperazine,Chlorzoxazone,248,264,383638,0.1306,0.1521,0.1521,0.132
+Dihydroqinghaosu,Nisoldipine,261,283,383733,0.1296,0.1461,0.1461,0.1307
+Trifluoperazine,Leflunomide,248,278,383648,0.1289,0.1503,0.1503,0.1299
+Meclofenamic acid,Cinacalcet,279,265,384168,0.127,0.127,0.127,0.1281
+Sulfinpyrazone,Valproic acid,290,296,384460,0.1255,0.1668,0.1661,0.1274
+Dihydroqinghaosu,Trifluoperazine,261,248,383719,0.1248,0.1461,0.1461,0.1257
+Trifluoperazine,Mercaptopurine,248,61,383667,0.1218,0.1433,0.1433,0.1234
+Temozolomide,Carboplatin,92,14,384835,0.1208,0.1507,0.1503,0.1224
+Topiramate,Valproic acid,294,296,384549,0.1203,0.1206,0.1203,0.1223
+Mitotane,Aprepitant,66,260,384741,0.1168,0.4786,0.4786,0.1179
+Fluorouracil,Thiabendazole,41,292,384640,0.115,0.3842,0.3837,0.1161
+Eflornithine,Diazoxide,271,268,383976,0.1121,0.2571,0.257,0.1137
+Sulfinpyrazone,Everolimus,290,37,384462,0.1117,0.1149,0.1146,0.1128
+Sunitinib,Isoniazid,90,276,384816,0.1078,0.1119,0.1111,0.1093
+Albendazole,Eflornithine,259,271,383678,0.1075,0.1075,0.1075,0.1086
+Meclofenamic acid,Aprepitant,279,260,384165,0.1072,0.4694,0.4694,0.1084
+Albendazole,Triflupromazine,259,295,383693,0.1075,0.1075,0.1075,0.108
+Dronedarone,Albendazole,270,259,383941,0.1073,0.1075,0.1075,0.1078
+Chlorzoxazone,Pazopanib,264,286,383801,0.1062,0.3686,0.3685,0.1074
+Albendazole,Isoniazid,259,276,383682,0.1043,0.1075,0.1075,0.1054
+Nisoldipine,Leflunomide,283,278,384286,0.1039,0.1203,0.1203,0.1049
+Trifluoperazine,Sulfinpyrazone,248,290,383657,0.1021,0.106,0.1051,0.1039
+Isoniazid,Dihydroqinghaosu,276,261,384098,0.098,0.1013,0.1012,0.0992
+Febuxostat,Methotrexate,273,63,384040,0.0956,0.1412,0.141,0.0966
+Fluorouracil,Sunitinib,41,90,384648,0.0949,0.209,0.2089,0.0957
+Eflornithine,Mercaptopurine,271,61,383989,0.0934,0.0942,0.0934,0.0953
+Febuxostat,Ethinyl estradiol,273,272,384026,0.0925,0.0925,0.0925,0.0944
+Thiabendazole,Carisoprodol,292,262,384482,0.0924,0.1085,0.1083,0.0941
+Chlorzoxazone,Thiabendazole,264,292,383804,0.0928,0.3613,0.3612,0.094
+Thiabendazole,Itraconazole,292,277,384487,0.0925,0.1319,0.1319,0.0938
+Trifluoperazine,Dipyridamole,248,269,383642,0.0925,0.1139,0.1139,0.0937
+Albendazole,Carisoprodol,259,262,383674,0.0916,0.1075,0.1075,0.0927
+Nisoldipine,Albendazole,283,259,384274,0.091,0.1075,0.1075,0.092
+Dipyridamole,Triflupromazine,269,295,383932,0.09,0.09,0.09,0.0909
+Nisoldipine,Temozolomide,283,92,384298,0.0893,0.1058,0.1058,0.0908
+Meclofenamic acid,Mitotane,279,66,384182,0.0893,0.4787,0.4786,0.0904
+Dronedarone,Carboplatin,270,14,383939,0.0887,0.0889,0.0889,0.0902
+Eflornithine,Carisoprodol,271,262,383972,0.0879,0.0884,0.0879,0.0899
+Mercaptopurine,Aprepitant,61,260,384696,0.0876,0.2042,0.2041,0.0891
+Nisoldipine,Ethinyl estradiol,283,272,384282,0.0839,0.084,0.0839,0.0859
+Isoniazid,Trifluoperazine,276,248,384096,0.0807,0.0849,0.0839,0.0825
+Cycloguanil,Mercaptopurine,267,61,383888,0.0807,0.187,0.1868,0.0822
+Albendazole,Carboplatin,259,14,383672,0.0781,0.1075,0.1075,0.0791
+Cinacalcet,Temozolomide,265,92,383832,0.0778,0.0778,0.0778,0.079
+Mitotane,Cinacalcet,66,265,384745,0.0772,0.0773,0.0772,0.0783
+Niclosamide,Chlorzoxazone,282,264,384244,0.0751,0.34,0.34,0.0762
+Temozolomide,Pazopanib,92,286,384845,0.0738,0.3366,0.3363,0.0751
+Carisoprodol,Triflupromazine,262,295,383765,0.0727,0.0727,0.0727,0.0741
+Leflunomide,Triflupromazine,278,295,384155,0.0734,0.0734,0.0734,0.0741
+Dipyridamole,Tizoxanide,269,293,383931,0.0717,0.098,0.0979,0.0735
+Fluorouracil,Mitotane,41,66,384646,0.071,0.433,0.433,0.0718
+Carboplatin,Sunitinib,14,90,383597,0.0702,0.1007,0.0998,0.0716
+Topiramate,Sulfinpyrazone,294,290,384545,0.0679,0.0684,0.0679,0.0699
+Isoniazid,Valproic acid,276,296,384110,0.0661,0.0668,0.0661,0.0681
+Carboplatin,Mercaptopurine,14,61,383593,0.0649,0.0952,0.0945,0.0667
+Fluorouracil,Eflornithine,41,271,384628,0.065,0.0656,0.065,0.0664
+Everolimus,Trifluoperazine,37,248,384601,0.0648,0.0861,0.0861,0.0657
+Sunitinib,Carisoprodol,90,262,384807,0.0638,0.0806,0.0798,0.0652
+Fluorouracil,Temozolomide,41,92,384649,0.064,0.4266,0.4266,0.065
+Nitisinone,Topiramate,284,294,384321,0.0626,0.0628,0.0626,0.0644
+Sunitinib,Mercaptopurine,90,61,384831,0.0607,0.1751,0.1751,0.062
+Eflornithine,Topiramate,271,294,383987,0.056,0.0563,0.056,0.058
+Niclosamide,Temozolomide,282,92,384272,0.0563,0.3215,0.3215,0.0576
+Carisoprodol,Valproic acid,262,296,383766,0.0557,0.0967,0.0962,0.0574
+Trifluoperazine,Imatinib,248,48,383666,0.0557,0.077,0.077,0.0566
+Dipyridamole,Mercaptopurine,269,61,383937,0.0544,0.1706,0.1706,0.0556
+Cinacalcet,Aprepitant,265,260,383814,0.0541,0.0541,0.0541,0.0553
+Everolimus,Nitisinone,37,284,384611,0.0542,0.2243,0.2241,0.0551
+Cinacalcet,Teriflunomide,265,291,383825,0.0535,0.0535,0.0535,0.0549
+Topiramate,Diazoxide,294,268,384535,0.0522,0.0522,0.0522,0.0532
+Cinacalcet,Diazoxide,265,268,383816,0.0522,0.0522,0.0522,0.0528
+Triflupromazine,Diazoxide,295,268,384554,0.0522,0.0522,0.0522,0.0527
+Temozolomide,Thiabendazole,92,292,384849,0.0513,0.3202,0.32,0.0526
+Dronedarone,Diazoxide,270,268,383947,0.052,0.0522,0.0522,0.0525
+Mitotane,Thiabendazole,66,292,384760,0.0503,0.3187,0.3186,0.0515
+Itraconazole,Diazoxide,277,268,384122,0.0502,0.0522,0.0522,0.0512
+Itraconazole,Fluorouracil,277,41,384137,0.0495,0.052,0.0515,0.0509
+Dipyridamole,Ethinyl estradiol,269,272,383918,0.0487,0.0487,0.0487,0.0501
+Isoniazid,Diazoxide,276,268,384101,0.049,0.0522,0.0522,0.05
+Temozolomide,Febuxostat,92,273,384841,0.048,0.221,0.2207,0.0495
+Diazoxide,Ethinyl estradiol,268,272,383896,0.0478,0.0478,0.0478,0.0488
+Trifluoperazine,Albendazole,248,259,383635,0.0471,0.0685,0.0685,0.048
+Mercaptopurine,Valproic acid,61,296,384713,0.0467,0.0871,0.087,0.0478
+Dronedarone,Eflornithine,270,271,383948,0.0458,0.0462,0.0458,0.0473
+Nitisinone,Mercaptopurine,284,61,384327,0.045,0.1617,0.1617,0.0467
+Halofantrine,Itraconazole,274,277,384052,0.0455,0.0848,0.0848,0.0466
+Sunitinib,Sulfinpyrazone,90,290,384826,0.0448,0.0486,0.0478,0.0462
+Leflunomide,Cycloguanil,278,267,384145,0.0449,0.1503,0.1503,0.0456
+Dipyridamole,Cycloguanil,269,267,383915,0.0436,0.1493,0.1493,0.0446
+Chlorzoxazone,Carboplatin,264,14,383793,0.0422,0.072,0.0718,0.0438
+Mercaptopurine,Sulfinpyrazone,61,290,384708,0.0418,0.0453,0.0447,0.0437
+Triflupromazine,Nisoldipine,295,283,384561,0.0394,0.0403,0.0394,0.0408
+Trifluoperazine,Thiabendazole,248,292,383659,0.0389,0.0603,0.0603,0.0404
+Azacitidine,Febuxostat,8,273,384784,0.0392,0.0847,0.0846,0.0403
+Sodium diethyldithiocarbamate trihydrate,Eflornithine,289,271,384431,0.0378,0.0378,0.0378,0.0388
+Topiramate,Sodium diethyldithiocarbamate trihydrate,294,289,384544,0.0378,0.0378,0.0378,0.0388
+Triflupromazine,Sodium diethyldithiocarbamate trihydrate,295,289,384564,0.0378,0.0378,0.0378,0.0383
+Everolimus,Teriflunomide,37,291,384614,0.0371,0.2791,0.2789,0.038
+Mercaptopurine,Isoniazid,61,276,384702,0.0359,0.0397,0.0391,0.0378
+Azacitidine,Itraconazole,8,277,384786,0.0365,0.0758,0.0758,0.0376
+Cinacalcet,Carisoprodol,265,262,383815,0.0359,0.0359,0.0359,0.0374
+Diazoxide,Carisoprodol,268,262,383894,0.0364,0.0522,0.0522,0.0374
+Sunitinib,Leflunomide,90,278,384817,0.0368,0.1503,0.1503,0.0373
+Sodium diethyldithiocarbamate trihydrate,Itraconazole,289,277,384435,0.0358,0.0378,0.0378,0.0368
+Ethinyl estradiol,Sunitinib,272,90,384016,0.0348,0.0348,0.0348,0.0362
+Niclosamide,Mitotane,282,66,384269,0.0351,0.2999,0.2999,0.0362
+Thiabendazole,Sunitinib,292,90,384501,0.0337,0.1479,0.1479,0.0349
+Sodium diethyldithiocarbamate trihydrate,Febuxostat,289,273,384433,0.0327,0.0489,0.0489,0.0346
+Chlorzoxazone,Topiramate,264,294,383806,0.0328,0.0329,0.0328,0.0344
+Oxyphenbutazone,Topiramate,285,294,384344,0.0326,0.0326,0.0326,0.0337
+Sunitinib,Nisoldipine,90,283,384821,0.0323,0.0489,0.0489,0.0337
+Diazoxide,Nisoldipine,268,283,383899,0.0326,0.049,0.049,0.0336
+Ethinyl estradiol,Oxyphenbutazone,272,285,384004,0.0326,0.0326,0.0326,0.0336
+Triflupromazine,Mercaptopurine,295,61,384567,0.032,0.0321,0.032,0.0333
+Dronedarone,Nisoldipine,270,283,383957,0.0317,0.0328,0.0319,0.0331
+Oxyphenbutazone,Triflupromazine,285,295,384345,0.0326,0.0326,0.0326,0.0331
+Trifluoperazine,Diazoxide,248,268,383641,0.0309,0.0522,0.0522,0.0317
+Vorinostat,Eflornithine,106,271,383537,0.0306,0.0306,0.0306,0.0316
+Vorinostat,Topiramate,106,294,383553,0.0306,0.0306,0.0306,0.0316
+Ethinyl estradiol,Vorinostat,272,106,383990,0.0306,0.0306,0.0306,0.0316
+Itraconazole,Oxyphenbutazone,277,285,384131,0.0306,0.0326,0.0326,0.0316
+Vorinostat,Dronedarone,106,270,383536,0.0304,0.0306,0.0306,0.0309
+Chlorzoxazone,Mercaptopurine,264,61,383809,0.0293,0.1457,0.1457,0.0308
+Itraconazole,Hydroxyurea,277,46,384138,0.0298,0.069,0.069,0.0308
+Oxyphenbutazone,Sulfinpyrazone,285,290,384342,0.0297,0.0326,0.0326,0.0307
+Cycloguanil,Dihydroqinghaosu,267,261,383868,0.0296,0.135,0.135,0.0303
+Itraconazole,Vorinostat,277,106,384115,0.0286,0.0306,0.0306,0.0296
+Vorinostat,Isoniazid,106,276,383540,0.0274,0.0306,0.0306,0.0284
+Itraconazole,Febuxostat,277,273,384126,0.0243,0.0639,0.0639,0.0262
+Tizoxanide,Febuxostat,293,273,384512,0.0225,0.0687,0.0683,0.0243
+Carboplatin,Diazoxide,14,268,383581,0.0228,0.0522,0.0522,0.0238
+Carisoprodol,Sodium diethyldithiocarbamate trihydrate,262,289,383763,0.022,0.0378,0.0378,0.023
+Fluorouracil,Ethinyl estradiol,41,272,384629,0.0217,0.0217,0.0217,0.023
+Tizoxanide,Cycloguanil,293,267,384509,0.0214,0.1273,0.1273,0.0229
+Everolimus,Dronedarone,37,270,384604,0.0223,0.0226,0.0225,0.0229
+Mitotane,Chlorzoxazone,66,264,384744,0.0215,0.4788,0.4786,0.0225
+Dronedarone,Sulfinpyrazone,270,290,383961,0.0204,0.0206,0.0206,0.0219
+Trifluoperazine,Carisoprodol,248,262,383636,0.0194,0.0363,0.0353,0.0211
+Vorinostat,Cinacalcet,106,265,383533,0.0198,0.0198,0.0198,0.0203
+Febuxostat,Thiabendazole,273,292,384034,0.0188,0.0645,0.0643,0.0201
+Oxyphenbutazone,Dronedarone,285,270,384335,0.0194,0.0196,0.0196,0.0199
+Ethinyl estradiol,Dronedarone,272,270,383996,0.0181,0.0185,0.0181,0.0195
+Everolimus,Niclosamide,37,282,384609,0.0183,0.2827,0.2825,0.019
+Carisoprodol,Oxyphenbutazone,262,285,383760,0.0168,0.0326,0.0326,0.0178
+Trifluoperazine,Sodium diethyldithiocarbamate trihydrate,248,289,383656,0.0165,0.0378,0.0378,0.0173
+Nisoldipine,Oxyphenbutazone,283,285,384289,0.0162,0.0326,0.0326,0.0171
+Cerivastatin,Cinacalcet,263,265,383777,0.0156,0.0156,0.0156,0.0161
+Cerivastatin,Dronedarone,263,270,383780,0.0154,0.0156,0.0156,0.0159
+Hydroxyurea,Eflornithine,46,271,384657,0.0134,0.0135,0.0134,0.0145
+Hydroxyurea,Topiramate,46,294,384670,0.0134,0.0134,0.0134,0.0145
+Ethinyl estradiol,Hydroxyurea,272,46,384013,0.0134,0.0134,0.0134,0.0144
+Sodium diethyldithiocarbamate trihydrate,Sulfinpyrazone,289,290,384439,0.0134,0.0163,0.0163,0.0144
+Hydroxyurea,Cinacalcet,46,265,384656,0.0134,0.0134,0.0134,0.014
+Fluorouracil,Chlorzoxazone,41,264,384623,0.013,0.3753,0.3753,0.0139
+Dronedarone,Hydroxyurea,270,46,383967,0.0133,0.0134,0.0134,0.0137
+Valproic acid,Chlorzoxazone,296,264,384572,0.0122,0.0125,0.0122,0.0137
+Cerivastatin,Sulfinpyrazone,263,290,383787,0.0126,0.0156,0.0156,0.0136
+Cerivastatin,Isoniazid,263,276,383781,0.0124,0.0156,0.0156,0.0134
+Cerivastatin,Topiramate,263,294,383791,0.0124,0.0124,0.0124,0.0134
+Everolimus,Itraconazole,37,277,384606,0.0122,0.0145,0.0142,0.0133
+Fluorouracil,Carisoprodol,41,262,384622,0.0105,0.027,0.0264,0.0119
+Sodium diethyldithiocarbamate trihydrate,Dronedarone,289,270,384430,0.0112,0.0114,0.0114,0.0117
+Hydroxyurea,Sulfinpyrazone,46,290,384667,0.0105,0.0134,0.0134,0.0115
+Isoniazid,Hydroxyurea,276,46,384113,0.0103,0.0134,0.0134,0.0113
+Oxyphenbutazone,Cinacalcet,285,265,384332,0.0102,0.0102,0.0102,0.0108
+Trifluoperazine,Valproic acid,248,296,383662,0.0088,0.0098,0.0088,0.0106
+Aprepitant,Thiabendazole,260,292,383711,0.0085,0.2775,0.2771,0.0098
+Pazopanib,Thiabendazole,286,292,384369,0.0072,0.2702,0.27,0.0086
+Nitisinone,Carboplatin,284,14,384299,0.0075,0.022,0.022,0.0085
+Sodium diethyldithiocarbamate trihydrate,Carboplatin,289,14,384426,0.0059,0.022,0.022,0.0069
+Methotrexate,Topiramate,63,294,384737,0.0051,0.0053,0.0051,0.0062
+Mercaptopurine,Dihydroqinghaosu,61,261,384697,0.0044,0.1203,0.1203,0.0054
+Leflunomide,Mercaptopurine,278,61,384159,0.0041,0.12,0.12,0.0051
+Dipyridamole,Febuxostat,269,273,383919,0.0023,0.1749,0.1746,0.0035
+Azacitidine,Eflornithine,8,271,384783,0.0022,0.0022,0.0022,0.0032
+Azacitidine,Topiramate,8,294,384796,0.0022,0.0022,0.0022,0.0032
+Cycloguanil,Albendazole,267,259,383866,0.0021,0.1075,0.1075,0.0029
+Topiramate,Aprepitant,294,260,384534,0.0011,0.0015,0.0011,0.0028
+Cinacalcet,Azacitidine,265,8,383831,0.0022,0.0022,0.0022,0.0027
+Vorinostat,Carisoprodol,106,262,383531,0.0015,0.0173,0.0173,0.0025
+Isoniazid,Fluorouracil,276,41,384112,0.0011,0.0048,0.0043,0.0025
+Azacitidine,Dronedarone,8,270,384782,0.002,0.0022,0.0022,0.0025
+Carboplatin,Vorinostat,14,106,383578,0.0012,0.0306,0.0306,0.0022
+Eflornithine,Ethinyl estradiol,271,272,383977,0,0.0003,0,0.002
+Ethinyl estradiol,Topiramate,272,294,384010,0,0.0004,0,0.002
+Ethinyl estradiol,Valproic acid,272,296,384011,0,0.0003,0,0.002
+Valproic acid,Eflornithine,296,271,384576,0,0.0003,0,0.002
+Chlorzoxazone,Tizoxanide,264,293,383805,0.0007,0.1467,0.1467,0.0017
+Cinacalcet,Ethinyl estradiol,265,272,383818,0,0.0004,0,0.0016
+Cinacalcet,Topiramate,265,294,383826,0,0.0003,0,0.0016
+Cinacalcet,Valproic acid,265,296,383828,0,0.0003,0,0.0016
+Eflornithine,Cinacalcet,271,265,383974,0,0.0003,0,0.0016
+Clofarabine,Dronedarone,19,270,383600,0.001,0.0012,0.0012,0.0015
+Irinotecan,Ethinyl estradiol,275,272,384075,0.0005,0.0005,0.0005,0.0015
+Irinotecan,Topiramate,275,294,384086,0.0005,0.0005,0.0005,0.0015
+Topiramate,Triflupromazine,294,295,384548,0,0.0003,0,0.0015
+Irinotecan,Cinacalcet,275,265,384071,0.0005,0.0005,0.0005,0.0011
+Cytarabine,Topiramate,21,294,383628,0,0,0,0.001
+Clofarabine active form,Diazoxide,266,268,383843,0,0,0,0.001
+Clofarabine active form,Isoniazid,266,276,383848,0,0,0,0.001
+Ethinyl estradiol,Mefloquine,272,280,384001,0,0,0,0.001
+Ethinyl estradiol,Mycophenolic acid,272,281,384002,0,0,0,0.001
+Ethinyl estradiol,Pyrvinium chloride dihydrate,272,287,384005,0,0,0,0.001
+Halofantrine,Ethinyl estradiol,274,272,384048,0,0,0,0.001
+Irinotecan,Triflupromazine,275,295,384087,0.0005,0.0005,0.0005,0.001
+Mefloquine,Topiramate,280,294,384208,0,0,0,0.001
+Mycophenolic acid,Topiramate,281,294,384237,0,0,0,0.001
+Topiramate,Halofantrine,294,274,384539,0,0,0,0.001
+Valproic acid,Oxyphenbutazone,296,285,384582,-0.0001,0.0401,0.0401,0.0009
+Dronedarone,Irinotecan,270,275,383951,0.0003,0.0005,0.0005,0.0008
+Cerivastatin,Carisoprodol,263,262,383775,-0.0002,0.0156,0.0156,0.0007
+Cytarabine,Cinacalcet,21,265,383615,0,0,0,0.0006
+Halofantrine,Cinacalcet,274,265,384045,0,0,0,0.0006
+Mefloquine,Cinacalcet,280,265,384188,0,0,0,0.0006
+Mycophenolic acid,Cinacalcet,281,265,384222,0,0,0,0.0006
+Clofarabine active form,Cinacalcet,266,265,383842,0,0,0,0.0005
+Pyrvinium chloride dihydrate,Triflupromazine,287,295,384395,0,0,0,0.0005
+Triflupromazine,Halofantrine,295,274,384556,0,0,0,0.0005
+Triflupromazine,Mefloquine,295,280,384558,0,0,0,0.0005
+Triflupromazine,Mycophenolic acid,295,281,384559,0,0,0,0.0005
+Dronedarone,Cytarabine,270,21,383940,-0.0002,0,0,0.0003
+Dronedarone,Halofantrine,270,274,383950,-0.0002,0,0,0.0003
+Dronedarone,Mefloquine,270,280,383955,-0.0002,0,0,0.0003
+Dronedarone,Mycophenolic acid,270,281,383956,-0.0002,0,0,0.0003
+Sulfinpyrazone,Azacitidine,290,8,384464,-0.0007,0.0022,0.0022,0.0003
+Itraconazole,Valproic acid,277,296,384136,-0.002,-0.0012,-0.002,0
+Nisoldipine,Cerivastatin,283,263,384277,-0.0009,0.0156,0.0156,0
+Azacitidine,Isoniazid,8,276,384785,-0.001,0.0022,0.0022,0
+Thiabendazole,Ethinyl estradiol,292,272,384485,-0.0018,-0.0018,-0.0018,-0.0001
+Fluorouracil,Carboplatin,41,14,384619,-0.0016,0.0285,0.0279,-0.0002
+Cinacalcet,Pyrvinium chloride dihydrate,265,287,383823,-0.0012,0,0,-0.0006
+Clofarabine,Sulfinpyrazone,19,290,383607,-0.0017,0.0012,0.0012,-0.0007
+Sulfinpyrazone,Bortezomib,290,11,384443,-0.0018,0.0012,0.0012,-0.0008
+Itraconazole,Cytarabine,277,21,384116,-0.002,0,0,-0.001
+Itraconazole,Mycophenolic acid,277,281,384130,-0.002,0,0,-0.001
+Ethinyl estradiol,Isoniazid,272,276,383997,-0.0032,-0.0032,-0.0032,-0.0012
+Isoniazid,Topiramate,276,294,384108,-0.0032,-0.0029,-0.0032,-0.0012
+Sulfinpyrazone,Triflupromazine,290,295,384459,-0.0029,-0.0029,-0.0029,-0.0015
+Irinotecan,Isoniazid,275,276,384076,-0.0027,0.0005,0.0005,-0.0017
+Isoniazid,Triflupromazine,276,295,384109,-0.0032,-0.0032,-0.0032,-0.0018
+Cytarabine,Sulfinpyrazone,21,290,383624,-0.0029,0,0,-0.0019
+Diazoxide,Sulfinpyrazone,268,290,383905,-0.003,0,-0.0001,-0.0019
+Halofantrine,Sulfinpyrazone,274,290,384058,-0.0029,0,0,-0.0019
+Mefloquine,Sulfinpyrazone,280,290,384204,-0.0029,0,0,-0.0019
+Bortezomib,Carisoprodol,11,262,383566,-0.003,0.0128,0.0128,-0.0021
+Hydroxyurea,Nisoldipine,46,283,384662,-0.003,0.0134,0.0134,-0.0021
+Halofantrine,Isoniazid,274,276,384051,-0.0032,0,0,-0.0022
+Mefloquine,Isoniazid,280,276,384193,-0.0032,0,0,-0.0022
+Everolimus,Valproic acid,37,296,384616,-0.0033,-0.003,-0.0033,-0.0022
+Eflornithine,Mycophenolic acid,271,281,383982,-0.0038,-0.0038,-0.0038,-0.0028
+Thiabendazole,Tizoxanide,292,293,384495,-0.004,0.1423,0.1423,-0.0028
+Hydroxyurea,Triflupromazine,46,295,384671,-0.0034,-0.0034,-0.0034,-0.0029
+Trifluoperazine,Oxyphenbutazone,248,285,383653,-0.0044,0.0169,0.0169,-0.0036
+Niclosamide,Teriflunomide,282,291,384263,-0.0052,0.2383,0.2377,-0.0038
+Sulfinpyrazone,Isoniazid,290,276,384451,-0.0062,-0.003,-0.0032,-0.0042
+Teriflunomide,Chlorzoxazone,291,264,384467,-0.0055,0.2369,0.2369,-0.0042
+Trifluoperazine,Cerivastatin,248,263,383637,-0.0057,0.0156,0.0156,-0.005
+Vorinostat,Triflupromazine,106,295,383554,-0.0069,-0.0069,-0.0069,-0.0064
+Trifluoperazine,Hydroxyurea,248,46,383665,-0.0078,0.0134,0.0134,-0.0071
+Clofarabine active form,Mefloquine,266,280,383851,-0.0083,0,0,-0.0073
+Albendazole,Mercaptopurine,259,61,383696,-0.0084,0.1075,0.1075,-0.0074
+Dronedarone,Cycloguanil,270,267,383946,-0.0086,-0.0083,-0.0084,-0.0075
+Bortezomib,Trifluoperazine,11,248,383565,-0.0085,0.0128,0.0128,-0.0077
+Sulfinpyrazone,Doxorubicin,290,33,384461,-0.0087,-0.0058,-0.0058,-0.0077
+Isoniazid,Pyrvinium chloride dihydrate,276,287,384105,-0.0091,0,0,-0.0081
+Nisoldipine,Sodium diethyldithiocarbamate trihydrate,283,289,384291,-0.0097,0.0068,0.0068,-0.0087
+Aprepitant,Carboplatin,260,14,383699,-0.0099,0.022,0.022,-0.0089
+Mycophenolic acid,Valproic acid,281,296,384238,-0.0103,0.03,0.03,-0.0092
+Pyrvinium chloride dihydrate,Valproic acid,287,296,384396,-0.0112,0,0,-0.0102
+Nisoldipine,Isoniazid,283,276,384284,-0.0133,-0.0091,-0.0101,-0.0114
+Nitisinone,Imatinib,284,48,384326,-0.0124,0.1573,0.1572,-0.0115
+Cycloguanil,Nisoldipine,267,283,383879,-0.0134,0.0032,0.0032,-0.0118
+Dronedarone,Febuxostat,270,273,383949,-0.014,-0.0138,-0.0139,-0.0127
+Cerivastatin,Carboplatin,263,14,383771,-0.0138,0.0156,0.0156,-0.0128
+Cycloguanil,Isoniazid,267,276,383875,-0.0148,-0.0109,-0.0116,-0.0132
+Nisoldipine,Azacitidine,283,8,384297,-0.0143,0.0022,0.0022,-0.0134
+Nitisinone,Pyrvinium chloride dihydrate,284,287,384315,-0.0145,0,0,-0.0135
+Carisoprodol,Clofarabine,262,19,383749,-0.0146,0.0012,0.0012,-0.0136
+Febuxostat,Imatinib,273,48,384039,-0.0147,0.1573,0.1572,-0.0137
+Carisoprodol,Topiramate,262,294,383764,-0.016,-0.0157,-0.016,-0.014
+Clofarabine,Nisoldipine,19,283,383603,-0.0153,0.0012,0.0012,-0.0143
+Irinotecan,Carisoprodol,275,262,384069,-0.0153,0.0005,0.0005,-0.0143
+Sunitinib,Cycloguanil,90,267,384810,-0.0157,0.0911,0.0905,-0.0146
+Nisoldipine,Eflornithine,283,271,384281,-0.0166,-0.0156,-0.0166,-0.0147
+Doxorubicin,Carisoprodol,33,262,384589,-0.0157,0.0001,0.0001,-0.0147
+Cytarabine,Carisoprodol,21,262,383613,-0.0158,0,0,-0.0148
+Carisoprodol,Mycophenolic acid,262,281,383757,-0.0158,0,0,-0.0148
+Nisoldipine,Cinacalcet,283,265,384279,-0.0166,-0.0157,-0.0166,-0.0151
+Nisoldipine,Doxorubicin,283,33,384294,-0.0164,0.0001,0.0001,-0.0154
+Halofantrine,Nisoldipine,274,283,384055,-0.0165,0,0,-0.0155
+Mycophenolic acid,Nisoldipine,281,283,384230,-0.0165,0,0,-0.0155
+Nisoldipine,Cytarabine,283,21,384273,-0.0165,0,0,-0.0155
+Nisoldipine,Mefloquine,283,280,384288,-0.0165,0,0,-0.0155
+Bortezomib,Carboplatin,11,14,383564,-0.0166,0.0128,0.0128,-0.0156
+Dipyridamole,Temozolomide,269,92,383938,-0.0166,0.3488,0.3486,-0.0156
+Vorinostat,Sulfinpyrazone,106,290,383550,-0.0172,-0.0143,-0.0143,-0.0162
+Carboplatin,Itraconazole,14,277,383583,-0.0173,0.022,0.022,-0.0163
+Nisoldipine,Itraconazole,283,277,384285,-0.0187,-0.0157,-0.0166,-0.0167
+Isoniazid,Everolimus,276,37,384111,-0.0183,-0.0148,-0.0151,-0.0172
+Valproic acid,Carboplatin,296,14,384569,-0.0182,0.022,0.022,-0.0173
+Sulfinpyrazone,Nisoldipine,290,283,384454,-0.0196,-0.0156,-0.0166,-0.0176
+Vorinostat,Valproic acid,106,296,383555,-0.019,0.0212,0.0212,-0.018
+Quinine,Mitotane,288,66,384424,-0.0196,0.4788,0.4786,-0.0186
+Aprepitant,Chlorzoxazone,260,264,383703,-0.0204,0.3416,0.3415,-0.0192
+Trifluoperazine,Clofarabine,248,19,383633,-0.0201,0.0012,0.0012,-0.0193
+Febuxostat,Cytarabine,273,21,384020,-0.0204,0.025,0.025,-0.0194
+Trifluoperazine,Eflornithine,248,271,383644,-0.0215,-0.0205,-0.0215,-0.0197
+Trifluoperazine,Topiramate,248,294,383660,-0.0215,-0.0205,-0.0215,-0.0197
+Cinacalcet,Dipyridamole,265,269,383817,-0.0207,-0.0207,-0.0207,-0.0197
+Trifluoperazine,Irinotecan,248,275,383647,-0.0208,0.0005,0.0005,-0.02
+Mefloquine,Pyrvinium chloride dihydrate,280,287,384202,-0.0211,-0.0128,-0.0128,-0.0202
+Pyrvinium chloride dihydrate,Temozolomide,287,92,384401,-0.0212,0,0,-0.0202
+Trifluoperazine,Triflupromazine,248,295,383661,-0.0215,-0.0207,-0.0215,-0.0203
+Trifluoperazine,Dronedarone,248,270,383643,-0.0217,-0.0207,-0.0215,-0.0204
+Trifluoperazine,Doxorubicin,248,33,383663,-0.0212,0.0001,0.0001,-0.0204
+Trifluoperazine,Cytarabine,248,21,383634,-0.0213,0,0,-0.0205
+Trifluoperazine,Halofantrine,248,274,383646,-0.0213,0,0,-0.0205
+Mefloquine,Trifluoperazine,280,248,384185,-0.0213,0,0,-0.0205
+Mycophenolic acid,Trifluoperazine,281,248,384218,-0.0213,0,0,-0.0205
+Mefloquine,Itraconazole,280,277,384194,-0.0224,-0.0204,-0.0204,-0.0214
+Mercaptopurine,Dronedarone,61,270,384700,-0.0234,-0.0232,-0.0232,-0.0221
+Nisoldipine,Irinotecan,283,275,384283,-0.0234,-0.007,-0.007,-0.0225
+Nitisinone,Dihydroqinghaosu,284,261,384302,-0.0236,0.1462,0.1461,-0.0226
+Clofarabine active form,Nitisinone,266,284,383854,-0.0241,0,0,-0.0232
+Cinacalcet,Sodium diethyldithiocarbamate trihydrate,265,289,383824,-0.0243,-0.0243,-0.0243,-0.0237
+Dipyridamole,Pyrvinium chloride dihydrate,269,287,383926,-0.026,0,0,-0.025
+Azacitidine,Carisoprodol,8,262,384776,-0.0265,-0.0107,-0.0107,-0.0256
+Carboplatin,Azacitidine,14,8,383596,-0.0272,0.0022,0.0022,-0.0262
+Dronedarone,Tizoxanide,270,293,383964,-0.0288,-0.0286,-0.0286,-0.0277
+Ethinyl estradiol,Carboplatin,272,14,383991,-0.0296,-0.0296,-0.0296,-0.0277
+Carboplatin,Irinotecan,14,275,383582,-0.0288,0.0005,0.0005,-0.0279
+Carboplatin,Triflupromazine,14,295,383591,-0.0296,-0.0296,-0.0296,-0.0282
+Carboplatin,Doxorubicin,14,33,383592,-0.0293,0.0001,0.0001,-0.0283
+Carboplatin,Mefloquine,14,280,383585,-0.0294,0,0,-0.0284
+Cytarabine,Carboplatin,21,14,383610,-0.0294,0,0,-0.0284
+Mycophenolic acid,Carboplatin,281,14,384217,-0.0294,0,0,-0.0284
+Valproic acid,Hydroxyurea,296,46,384584,-0.0302,0.01,0.01,-0.0292
+Sulfinpyrazone,Carboplatin,290,14,384444,-0.0326,-0.0296,-0.0296,-0.0306
+Nisoldipine,Carisoprodol,283,262,384276,-0.0326,-0.016,-0.0166,-0.0307
+Isoniazid,Carboplatin,276,14,384094,-0.0329,-0.0296,-0.0296,-0.0309
+Febuxostat,Clofarabine,273,19,384019,-0.032,0.0133,0.0133,-0.0311
+Mycophenolic acid,Isoniazid,281,276,384227,-0.0337,-0.0305,-0.0305,-0.0328
+Isoniazid,Cytarabine,276,21,384095,-0.034,-0.0308,-0.0308,-0.033
+Aprepitant,Trifluoperazine,260,248,383700,-0.0348,-0.0134,-0.0134,-0.0334
+Bortezomib,Febuxostat,11,273,383571,-0.035,0.0104,0.0103,-0.034
+Valproic acid,Leflunomide,296,278,384578,-0.0359,0.0043,0.0043,-0.0349
+Triflupromazine,Chlorzoxazone,295,264,384553,-0.0363,-0.0363,-0.0363,-0.0353
+Trifluoperazine,Nisoldipine,248,283,383651,-0.0381,-0.0214,-0.0215,-0.0364
+Carisoprodol,Hydroxyurea,262,46,383768,-0.0378,-0.022,-0.022,-0.0368
+Carisoprodol,Carboplatin,262,14,383748,-0.039,-0.0229,-0.023,-0.037
+Ethinyl estradiol,Itraconazole,272,277,383998,-0.0396,-0.0396,-0.0396,-0.0377
+Dronedarone,Pyrvinium chloride dihydrate,270,287,383960,-0.0383,-0.0107,-0.0107,-0.0378
+Mycophenolic acid,Febuxostat,281,273,384224,-0.0389,0.0065,0.0065,-0.0379
+Dipyridamole,Sulfinpyrazone,269,290,383928,-0.0401,-0.037,-0.0372,-0.0387
+Dipyridamole,Carboplatin,269,14,383911,-0.0404,-0.0106,-0.0109,-0.039
+Cinacalcet,Itraconazole,265,277,383821,-0.0408,-0.0396,-0.0396,-0.0393
+Pazopanib,Niclosamide,286,282,384364,-0.0408,0.2226,0.222,-0.0394
+Isoniazid,Oxyphenbutazone,276,285,384104,-0.0409,-0.0377,-0.0377,-0.0399
+Mycophenolic acid,Sulfinpyrazone,281,290,384235,-0.041,-0.0381,-0.0381,-0.04
+Leflunomide,Febuxostat,278,273,384146,-0.041,0.0043,0.0043,-0.0401
+Nisoldipine,Methotrexate,283,63,384295,-0.0415,-0.025,-0.025,-0.0404
+Carisoprodol,Meclofenamic acid,262,279,383755,-0.0429,-0.0268,-0.027,-0.0413
+Nisoldipine,Mitotane,283,66,384296,-0.0428,-0.0262,-0.0262,-0.0414
+Pyrvinium chloride dihydrate,Itraconazole,287,277,384385,-0.0431,-0.0038,-0.0038,-0.0421
+Halofantrine,Carisoprodol,274,262,384043,-0.0446,-0.0288,-0.0288,-0.0436
+Carboplatin,Nisoldipine,14,283,383587,-0.0463,-0.0296,-0.0296,-0.0444
+Febuxostat,Pyrvinium chloride dihydrate,273,287,384033,-0.0453,0,0,-0.0444
+Itraconazole,Isoniazid,277,276,384128,-0.0488,-0.039,-0.0396,-0.0469
+Pyrvinium chloride dihydrate,Topiramate,287,294,384394,-0.0482,-0.0063,-0.0063,-0.0472
+Cycloguanil,Aprepitant,267,260,383867,-0.0494,0.0566,0.0565,-0.0481
+Sodium diethyldithiocarbamate trihydrate,Ethinyl estradiol,289,272,384432,-0.0498,-0.0498,-0.0498,-0.0487
+Clofarabine active form,Dipyridamole,266,269,383844,-0.0503,0,0,-0.0493
+Sunitinib,Eflornithine,90,271,384813,-0.0513,-0.0504,-0.0513,-0.0499
+Carboplatin,Trifluoperazine,14,248,383579,-0.051,0.022,0.022,-0.0502
+Cycloguanil,Carisoprodol,267,262,383869,-0.0521,-0.0354,-0.0362,-0.0505
+Tizoxanide,Mycophenolic acid,293,281,384517,-0.0516,0.0943,0.0943,-0.0506
+Pyrvinium chloride dihydrate,Aprepitant,287,260,384380,-0.0531,0,0,-0.0522
+Clofarabine active form,Nisoldipine,266,283,383853,-0.056,0,0,-0.0551
+Triflupromazine,Valproic acid,295,296,384565,-0.0566,-0.0406,-0.0406,-0.0552
+Pyrvinium chloride dihydrate,Sodium diethyldithiocarbamate trihydrate,287,289,384391,-0.0571,-0.0303,-0.0303,-0.0561
+Bortezomib,Nisoldipine,11,283,383574,-0.0572,-0.0408,-0.0408,-0.0563
+Ethinyl estradiol,Everolimus,272,37,384012,-0.0575,-0.0575,-0.0575,-0.0564
+Topiramate,Sunitinib,294,90,384551,-0.0585,-0.0577,-0.0585,-0.0571
+Valproic acid,Temozolomide,296,92,384587,-0.062,-0.0406,-0.0406,-0.06
+Sunitinib,Diazoxide,90,268,384811,-0.0612,0.0522,0.0522,-0.0607
+Irinotecan,Sulfinpyrazone,275,290,384082,-0.062,-0.0591,-0.0591,-0.061
+Trifluoperazine,Fluorouracil,248,41,383664,-0.0632,-0.0417,-0.0417,-0.062
+Mercaptopurine,Diazoxide,61,268,384699,-0.0636,0.0522,0.0522,-0.0627
+Azacitidine,Trifluoperazine,8,248,384773,-0.0671,-0.0458,-0.0458,-0.0663
+Cycloguanil,Sodium diethyldithiocarbamate trihydrate,267,289,383882,-0.0675,0.0378,0.0378,-0.0668
+Valproic acid,Irinotecan,296,275,384577,-0.0684,-0.0282,-0.0282,-0.0675
+Clofarabine active form,Dronedarone,266,270,383845,-0.0688,0,0,-0.0684
+Itraconazole,Irinotecan,277,275,384127,-0.0696,-0.0304,-0.0304,-0.0687
+Cinacalcet,Febuxostat,265,273,383819,-0.0702,-0.0702,-0.0702,-0.0688
+Triflupromazine,Fluorouracil,295,41,384566,-0.0707,-0.0705,-0.0707,-0.0698
+Pyrvinium chloride dihydrate,Nisoldipine,287,283,384387,-0.072,-0.0385,-0.0385,-0.0711
+Dihydroqinghaosu,Triflupromazine,261,295,383740,-0.0722,-0.0722,-0.0722,-0.0716
+Oxyphenbutazone,Cycloguanil,285,267,384333,-0.0726,0.0326,0.0326,-0.072
+Valproic acid,Nisoldipine,296,283,384581,-0.0745,-0.0406,-0.0406,-0.0726
+Valproic acid,Sodium diethyldithiocarbamate trihydrate,296,289,384583,-0.0737,-0.0737,-0.0737,-0.0727
+Clofarabine active form,Sulfinpyrazone,266,290,383858,-0.0741,0,0,-0.0732
+Nisoldipine,Dipyridamole,283,269,384280,-0.0749,-0.0584,-0.0584,-0.0736
+Vorinostat,Cycloguanil,106,267,383534,-0.0747,0.0306,0.0306,-0.074
+Clofarabine active form,Febuxostat,266,273,383846,-0.0755,0,0,-0.0746
+Clofarabine active form,Carisoprodol,266,262,383839,-0.076,0,0,-0.075
+Sunitinib,Sodium diethyldithiocarbamate trihydrate,90,289,384825,-0.0756,0.0378,0.0378,-0.0751
+Nitisinone,Nisoldipine,284,283,384312,-0.078,-0.0614,-0.0614,-0.0762
+Cycloguanil,Chlorzoxazone,267,264,383870,-0.0789,0.0269,0.0269,-0.0777
+Trifluoperazine,Pyrvinium chloride dihydrate,248,287,383655,-0.0798,-0.0069,-0.0069,-0.079
+Oxyphenbutazone,Sunitinib,285,90,384349,-0.0807,0.0326,0.0326,-0.0803
+Chlorzoxazone,Temozolomide,264,92,383811,-0.0818,0.284,0.2839,-0.0806
+Mercaptopurine,Oxyphenbutazone,61,285,384705,-0.0831,0.0326,0.0326,-0.0823
+Imatinib,Teriflunomide,48,291,384691,-0.0842,0.1573,0.1572,-0.0833
+Vorinostat,Mercaptopurine,106,61,383559,-0.0852,0.0306,0.0306,-0.0843
+Vorinostat,Nisoldipine,106,283,383544,-0.0854,-0.0689,-0.0689,-0.0844
+Clofarabine active form,Pazopanib,266,286,383856,-0.0863,0,0,-0.0854
+Dipyridamole,Meclofenamic acid,269,279,383922,-0.0866,0.3026,0.3024,-0.0856
+Cycloguanil,Diazoxide,267,268,383872,-0.0867,0.0186,0.0186,-0.086
+Pyrvinium chloride dihydrate,Fluorouracil,287,41,384398,-0.088,0,0,-0.0875
+Eflornithine,Oxyphenbutazone,271,285,383983,-0.0888,-0.0888,-0.0888,-0.0878
+Trifluoperazine,Cycloguanil,248,267,383640,-0.0898,-0.0683,-0.0683,-0.0884
+Fluorouracil,Cycloguanil,41,267,384625,-0.0902,0.0159,0.0157,-0.0892
+Eflornithine,Chlorzoxazone,271,264,383973,-0.0909,-0.0907,-0.0909,-0.0894
+Cycloguanil,Hydroxyurea,267,46,383887,-0.0918,0.0134,0.0134,-0.0911
+Febuxostat,Carboplatin,273,14,384018,-0.0922,-0.0469,-0.0469,-0.0912
+Sunitinib,Pazopanib,90,286,384823,-0.0936,0.0206,0.0206,-0.0924
+Valproic acid,Sunitinib,296,90,384586,-0.0952,-0.0537,-0.0547,-0.0938
+Everolimus,Triflupromazine,37,295,384615,-0.095,-0.0949,-0.095,-0.0944
+Carboplatin,Niclosamide,14,282,383586,-0.0964,-0.0661,-0.0668,-0.0948
+Vorinostat,Sunitinib,106,90,383561,-0.0983,0.0151,0.0151,-0.0978
+Fluorouracil,Dipyridamole,41,269,384626,-0.1028,0.259,0.259,-0.102
+Pazopanib,Methotrexate,286,63,384373,-0.1035,0.1581,0.1579,-0.1026
+Imatinib,Pazopanib,48,286,384687,-0.1041,0.1573,0.1572,-0.1032
+Pazopanib,Aprepitant,286,260,384354,-0.1049,0.158,0.1576,-0.1036
+Irinotecan,Cycloguanil,275,267,384072,-0.1047,0.0005,0.0005,-0.1041
+Cycloguanil,Halofantrine,267,274,383874,-0.1052,0,0,-0.1046
+Cycloguanil,Mefloquine,267,280,383877,-0.1052,0,0,-0.1046
+Cycloguanil,Topiramate,267,294,383885,-0.1063,-0.1055,-0.1063,-0.1047
+Eflornithine,Cycloguanil,271,267,383975,-0.1063,-0.1055,-0.1063,-0.1047
+Ethinyl estradiol,Cycloguanil,272,267,383995,-0.1063,-0.1063,-0.1063,-0.1047
+Mitotane,Dipyridamole,66,269,384748,-0.108,0.4106,0.4103,-0.1071
+Sulfinpyrazone,Cycloguanil,290,267,384448,-0.1092,-0.1056,-0.1063,-0.1076
+Dipyridamole,Eflornithine,269,271,383917,-0.1092,-0.1089,-0.1092,-0.1078
+Carisoprodol,Everolimus,262,37,383767,-0.109,-0.0929,-0.0931,-0.1079
+Clofarabine active form,Trifluoperazine,266,248,383836,-0.1092,0,0,-0.1085
+Imatinib,Thiabendazole,48,292,384692,-0.1102,0.1573,0.1572,-0.1093
+Azacitidine,Triflupromazine,8,295,384797,-0.1101,-0.1101,-0.1101,-0.1096
+Itraconazole,Carisoprodol,277,262,384120,-0.1125,-0.0729,-0.0729,-0.1107
+Sunitinib,Azacitidine,90,8,384833,-0.1111,0.0022,0.0022,-0.1107
+Itraconazole,Trifluoperazine,277,248,384117,-0.1133,-0.0728,-0.0737,-0.1116
+Sunitinib,Irinotecan,90,275,384815,-0.1128,0.0005,0.0005,-0.1124
+Mercaptopurine,Azacitidine,61,8,384715,-0.1136,0.0022,0.0022,-0.1127
+Chlorzoxazone,Febuxostat,264,273,383797,-0.1143,0.0584,0.0583,-0.1129
+Niclosamide,Leflunomide,282,278,384255,-0.1136,0.1503,0.1503,-0.1129
+Dihydroqinghaosu,Pazopanib,261,286,383735,-0.1152,0.1462,0.1461,-0.1143
+Mefloquine,Mercaptopurine,280,61,384212,-0.1157,0,0,-0.1149
+Mycophenolic acid,Mercaptopurine,281,61,384240,-0.1157,0,0,-0.1149
+Itraconazole,Sunitinib,277,90,384140,-0.1165,-0.1137,-0.1145,-0.1151
+Tizoxanide,Clofarabine active form,293,266,384508,-0.116,0.0297,0.0297,-0.1152
+Carisoprodol,Mefloquine,262,280,383756,-0.1164,-0.1006,-0.1006,-0.1155
+Pazopanib,Mitotane,286,66,384374,-0.1171,0.1452,0.145,-0.1159
+Thiabendazole,Leflunomide,292,278,384488,-0.1171,0.1503,0.1503,-0.1163
+Diazoxide,Nitisinone,268,284,383900,-0.1173,0.0522,0.0522,-0.1164
+Itraconazole,Mercaptopurine,277,61,384139,-0.1189,-0.1166,-0.1169,-0.1171
+Tizoxanide,Nisoldipine,293,283,384518,-0.1193,-0.0854,-0.0854,-0.1175
+Azacitidine,Valproic acid,8,296,384798,-0.1197,-0.0793,-0.0794,-0.1186
+Cycloguanil,Mycophenolic acid,267,281,383878,-0.1217,-0.0165,-0.0165,-0.1211
+Mitotane,Nitisinone,66,284,384756,-0.125,0.0454,0.0452,-0.1237
+Diazoxide,Febuxostat,268,273,383897,-0.1289,0.0428,0.0428,-0.1281
+Mercaptopurine,Carisoprodol,61,262,384698,-0.1328,-0.1162,-0.1169,-0.131
+Trifluoperazine,Methotrexate,248,63,383668,-0.1321,-0.1107,-0.1108,-0.1312
+Nitisinone,Sodium diethyldithiocarbamate trihydrate,284,289,384316,-0.1321,0.0374,0.0374,-0.1312
+Nitisinone,Fluorouracil,284,41,384324,-0.1341,0.037,0.0364,-0.1328
+Carboplatin,Cycloguanil,14,267,383580,-0.1359,-0.1055,-0.1063,-0.1343
+Temozolomide,Everolimus,92,37,384853,-0.1352,0.2298,0.2295,-0.1345
+Sunitinib,Trifluoperazine,90,248,384804,-0.1359,-0.1144,-0.1145,-0.1347
+Hydroxyurea,Tizoxanide,46,293,384669,-0.1365,0.0094,0.0094,-0.1356
+Nitisinone,Oxyphenbutazone,284,285,384313,-0.1368,0.0326,0.0326,-0.136
+Fluorouracil,Mercaptopurine,41,61,384645,-0.1375,-0.0207,-0.0211,-0.1363
+Everolimus,Carboplatin,37,14,384600,-0.1385,-0.1088,-0.1091,-0.1374
+Vorinostat,Nitisinone,106,284,383545,-0.1389,0.0306,0.0306,-0.138
+Oxyphenbutazone,Febuxostat,285,273,384336,-0.1391,0.0326,0.0326,-0.1382
+Eflornithine,Teriflunomide,271,291,383985,-0.1409,-0.1405,-0.1409,-0.1392
+Febuxostat,Vorinostat,273,106,384017,-0.1411,0.0306,0.0306,-0.1403
+Leflunomide,Tizoxanide,278,293,384153,-0.1414,0.0043,0.0043,-0.1406
+Mercaptopurine,Febuxostat,61,273,384701,-0.1432,-0.0265,-0.0265,-0.1415
+Diazoxide,Pyrvinium chloride dihydrate,268,287,383902,-0.1438,0,0,-0.1429
+Methotrexate,Dronedarone,63,270,384724,-0.145,-0.1447,-0.1448,-0.1445
+Sulfinpyrazone,Pyrvinium chloride dihydrate,290,287,384456,-0.1458,-0.0664,-0.0664,-0.1449
+Topiramate,Quinine,294,288,384543,-0.1468,-0.1467,-0.1468,-0.1453
+Teriflunomide,Leflunomide,291,278,384470,-0.151,0.0904,0.0904,-0.1501
+Carboplatin,Tizoxanide,14,293,383590,-0.1514,-0.0056,-0.0056,-0.1505
+Triflupromazine,Nitisinone,295,284,384562,-0.1527,-0.1527,-0.1527,-0.1515
+Fluorouracil,Febuxostat,41,273,384630,-0.1528,0.0205,0.0199,-0.1516
+Pazopanib,Albendazole,286,259,384353,-0.1537,0.1075,0.1075,-0.1529
+Nitisinone,Cerivastatin,284,263,384303,-0.1539,0.0156,0.0156,-0.153
+Aprepitant,Tizoxanide,260,293,383712,-0.1562,-0.1239,-0.124,-0.1543
+Tizoxanide,Isoniazid,293,276,384514,-0.1564,-0.1469,-0.1472,-0.1545
+Sulfinpyrazone,Methotrexate,290,63,384463,-0.1562,-0.1531,-0.1533,-0.1551
+Tizoxanide,Valproic acid,293,296,384528,-0.1571,-0.116,-0.1166,-0.1553
+Temozolomide,Quinine,92,288,384846,-0.1568,0.2089,0.2088,-0.1556
+Bortezomib,Nitisinone,11,284,383575,-0.1567,0.0128,0.0128,-0.1558
+Hydroxyurea,Febuxostat,46,273,384658,-0.1582,0.0135,0.0134,-0.1574
+Everolimus,Nisoldipine,37,283,384610,-0.1586,-0.1421,-0.1421,-0.1576
+Thiabendazole,Albendazole,292,259,384480,-0.1598,0.1075,0.1075,-0.159
+Nitisinone,Albendazole,284,259,384301,-0.1608,0.0089,0.0088,-0.1598
+Nitisinone,Tizoxanide,284,293,384320,-0.1618,-0.1468,-0.1472,-0.16
+Pyrvinium chloride dihydrate,Everolimus,287,37,384397,-0.1639,0,0,-0.1635
+Eflornithine,Quinine,271,288,383984,-0.1658,-0.1656,-0.1658,-0.1643
+Halofantrine,Sunitinib,274,90,384065,-0.166,-0.0527,-0.0527,-0.1656
+Azacitidine,Nitisinone,8,284,384791,-0.1672,0.0022,0.0022,-0.1664
+Carboplatin,Methotrexate,14,63,383594,-0.1677,-0.1381,-0.1383,-0.1666
+Nitisinone,Clofarabine,284,19,384300,-0.1682,0.0012,0.0012,-0.1674
+Nitisinone,Doxorubicin,284,33,384323,-0.1693,0.0001,0.0001,-0.1685
+Cytarabine,Nitisinone,21,284,383621,-0.1694,0,0,-0.1686
+Mefloquine,Nitisinone,280,284,384199,-0.1694,0,0,-0.1686
+Nitisinone,Halofantrine,284,274,384307,-0.1694,0,0,-0.1686
+Nitisinone,Mycophenolic acid,284,281,384310,-0.1694,0,0,-0.1686
+Pyrvinium chloride dihydrate,Sunitinib,287,90,384400,-0.1697,-0.1156,-0.1156,-0.1692
+Meclofenamic acid,Triflupromazine,279,295,384180,-0.1703,-0.1703,-0.1703,-0.1693
+Nitisinone,Eflornithine,284,271,384305,-0.1711,-0.1707,-0.1711,-0.1693
+Nitisinone,Valproic acid,284,296,384322,-0.1711,-0.1706,-0.1711,-0.1693
+Nitisinone,Cinacalcet,284,265,384304,-0.1711,-0.1711,-0.1711,-0.1697
+Cycloguanil,Pyrvinium chloride dihydrate,267,287,383881,-0.1709,-0.066,-0.066,-0.1703
+Irinotecan,Nitisinone,275,284,384078,-0.1714,-0.002,-0.002,-0.1706
+Febuxostat,Doxorubicin,273,33,384037,-0.1715,0.0001,0.0001,-0.1707
+Carisoprodol,Dipyridamole,262,269,383752,-0.1725,-0.1564,-0.1566,-0.1711
+Dipyridamole,Aprepitant,269,260,383913,-0.1721,0.1895,0.1893,-0.1711
+Eflornithine,Mefloquine,271,280,383981,-0.1722,-0.1722,-0.1722,-0.1712
+Pazopanib,Eflornithine,286,271,384358,-0.1734,-0.1731,-0.1734,-0.1717
+Febuxostat,Triflupromazine,273,295,384035,-0.1734,-0.1734,-0.1734,-0.1721
+Dronedarone,Thiabendazole,270,292,383963,-0.1743,-0.1741,-0.1741,-0.1731
+Febuxostat,Irinotecan,273,275,384027,-0.1741,-0.0024,-0.0024,-0.1732
+Febuxostat,Isoniazid,273,276,384028,-0.1766,-0.1732,-0.1734,-0.1748
+Eflornithine,Carboplatin,271,14,383970,-0.1767,0.022,0.022,-0.1759
+Methotrexate,Cinacalcet,63,265,384721,-0.1766,-0.1765,-0.1766,-0.1759
+Tizoxanide,Pyrvinium chloride dihydrate,293,287,384521,-0.1816,-0.0359,-0.0359,-0.1808
+Ethinyl estradiol,Aprepitant,272,260,383992,-0.1846,-0.1846,-0.1846,-0.183
+Febuxostat,Trifluoperazine,273,248,384021,-0.1856,-0.1641,-0.1641,-0.184
+Tizoxanide,Itraconazole,293,277,384515,-0.1868,-0.1471,-0.1472,-0.185
+Azacitidine,Cycloguanil,8,267,384779,-0.1883,-0.0831,-0.0831,-0.1877
+Diazoxide,Teriflunomide,268,291,383906,-0.189,0.0522,0.0522,-0.1882
+Sunitinib,Hydroxyurea,90,46,384830,-0.1894,-0.0761,-0.0761,-0.189
+Ethinyl estradiol,Azacitidine,272,8,384015,-0.191,-0.191,-0.191,-0.19
+Itraconazole,Pazopanib,277,286,384132,-0.192,-0.19,-0.19,-0.1903
+Fluorouracil,Meclofenamic acid,41,279,384632,-0.1922,0.1703,0.1703,-0.1912
+Nitisinone,Hydroxyurea,284,46,384325,-0.1921,-0.0227,-0.0227,-0.1913
+Isoniazid,Aprepitant,276,260,384097,-0.2004,-0.1968,-0.1972,-0.1987
+Teriflunomide,Sodium diethyldithiocarbamate trihydrate,291,289,384472,-0.2034,0.0378,0.0378,-0.2026
+Tizoxanide,Dihydroqinghaosu,293,261,384505,-0.2058,0.1462,0.1461,-0.205
+Febuxostat,Cerivastatin,273,263,384024,-0.206,-0.0343,-0.0343,-0.2052
+Sunitinib,Teriflunomide,90,291,384827,-0.2075,-0.0933,-0.0933,-0.2063
+Teriflunomide,Febuxostat,291,273,384468,-0.2086,-0.0353,-0.0357,-0.207
+Leflunomide,Aprepitant,278,260,384143,-0.2103,0.1503,0.1503,-0.2095
+Vorinostat,Teriflunomide,106,291,383551,-0.2106,0.0306,0.0306,-0.2098
+Leflunomide,Fluorouracil,278,41,384157,-0.2106,0.1503,0.1503,-0.2101
+Leflunomide,Pazopanib,278,286,384151,-0.2133,0.048,0.0479,-0.2124
+Mitotane,Temozolomide,66,92,384770,-0.2136,0.152,0.1519,-0.2125
+Febuxostat,Mefloquine,273,280,384030,-0.214,-0.0424,-0.0424,-0.2132
+Leflunomide,Temozolomide,278,92,384160,-0.214,0.1503,0.1503,-0.2132
+Dihydroqinghaosu,Aprepitant,261,260,383721,-0.2144,0.1462,0.1461,-0.2137
+Thiabendazole,Diazoxide,292,268,384484,-0.2149,0.0522,0.0522,-0.2141
+Fluorouracil,Dihydroqinghaosu,41,261,384621,-0.2147,0.1461,0.1461,-0.2142
+Carboplatin,Mitotane,14,66,383595,-0.2161,-0.1863,-0.1866,-0.2146
+Halofantrine,Febuxostat,274,273,384049,-0.2159,-0.0443,-0.0443,-0.2151
+Topiramate,Pazopanib,294,286,384542,-0.2171,-0.2169,-0.2171,-0.2153
+Niclosamide,Dronedarone,282,270,384249,-0.2187,-0.2184,-0.2185,-0.2176
+Itraconazole,Chlorzoxazone,277,264,384121,-0.2198,-0.2178,-0.2178,-0.2183
+Pazopanib,Sodium diethyldithiocarbamate trihydrate,286,289,384367,-0.2232,0.0378,0.0378,-0.2224
+Methotrexate,Cycloguanil,63,267,384722,-0.2248,-0.1193,-0.1194,-0.2241
+Niclosamide,Sodium diethyldithiocarbamate trihydrate,282,289,384261,-0.2258,0.0378,0.0378,-0.2251
+Hydroxyurea,Teriflunomide,46,291,384668,-0.2277,0.0134,0.0134,-0.2269
+Pazopanib,Oxyphenbutazone,286,285,384365,-0.2283,0.0326,0.0326,-0.2276
+Thiabendazole,Sodium diethyldithiocarbamate trihydrate,292,289,384493,-0.2293,0.0378,0.0378,-0.2285
+Vorinostat,Pazopanib,106,286,383547,-0.2304,0.0306,0.0306,-0.2296
+Niclosamide,Oxyphenbutazone,282,285,384258,-0.2309,0.0326,0.0326,-0.2303
+Niclosamide,Vorinostat,282,106,384242,-0.233,0.0306,0.0306,-0.2323
+Oxyphenbutazone,Teriflunomide,285,291,384343,-0.2337,0.0075,0.0075,-0.2329
+Valproic acid,Dihydroqinghaosu,296,261,384571,-0.2345,-0.1943,-0.1943,-0.2335
+Thiabendazole,Oxyphenbutazone,292,285,384491,-0.2344,0.0326,0.0326,-0.2337
+Halofantrine,Valproic acid,274,296,384060,-0.2355,-0.2355,-0.2355,-0.2346
+Thiabendazole,Vorinostat,292,106,384478,-0.2365,0.0306,0.0306,-0.2357
+Aprepitant,Everolimus,260,37,383713,-0.2375,0.1237,0.1235,-0.2368
+Meclofenamic acid,Leflunomide,279,278,384173,-0.2377,0.1503,0.1503,-0.237
+Carisoprodol,Pyrvinium chloride dihydrate,262,287,383762,-0.2397,0,0,-0.2389
+Cytarabine,Teriflunomide,21,291,383625,-0.2411,0,0,-0.2403
+Halofantrine,Teriflunomide,274,291,384059,-0.2411,0,0,-0.2403
+Mefloquine,Teriflunomide,280,291,384205,-0.2411,0,0,-0.2403
+Mycophenolic acid,Teriflunomide,281,291,384236,-0.2411,0,0,-0.2403
+Dihydroqinghaosu,Meclofenamic acid,261,279,383729,-0.2419,0.1462,0.1461,-0.2411
+Ethinyl estradiol,Teriflunomide,272,291,384008,-0.2435,-0.2435,-0.2435,-0.2418
+Teriflunomide,Valproic acid,291,296,384475,-0.2435,-0.243,-0.2435,-0.2418
+Methotrexate,Triflupromazine,63,295,384738,-0.2427,-0.2426,-0.2427,-0.2421
+Teriflunomide,Triflupromazine,291,295,384474,-0.2435,-0.2435,-0.2435,-0.2423
+Niclosamide,Diazoxide,282,268,384247,-0.2438,0.0198,0.0198,-0.2432
+Topiramate,Everolimus,294,37,384550,-0.2449,-0.2447,-0.2449,-0.2438
+Niclosamide,Dipyridamole,282,269,384248,-0.2449,0.0197,0.0196,-0.2439
+Pazopanib,Cerivastatin,286,263,384355,-0.2454,0.0156,0.0156,-0.2446
+Sunitinib,Everolimus,90,37,384829,-0.2461,-0.1324,-0.1324,-0.2455
+Diazoxide,Pazopanib,268,286,383901,-0.2475,0.0135,0.0135,-0.2468
+Teriflunomide,Meclofenamic acid,291,279,384471,-0.2483,-0.0056,-0.0058,-0.247
+Pazopanib,Bortezomib,286,11,384351,-0.2481,0.0128,0.0128,-0.2474
+Thiabendazole,Everolimus,292,37,384498,-0.2491,0.0189,0.0186,-0.2482
+Mercaptopurine,Pazopanib,61,286,384706,-0.2501,-0.1335,-0.1335,-0.2485
+Niclosamide,Hydroxyurea,282,46,384267,-0.2501,0.0134,0.0134,-0.2494
+Niclosamide,Isoniazid,282,276,384253,-0.2513,-0.2475,-0.2481,-0.2497
+Niclosamide,Cycloguanil,282,267,384246,-0.2518,-0.1456,-0.1458,-0.2505
+Cerivastatin,Thiabendazole,263,292,383789,-0.2515,0.0156,0.0156,-0.2507
+Nitisinone,Teriflunomide,284,291,384318,-0.2531,-0.0821,-0.0824,-0.2515
+Mercaptopurine,Hydroxyurea,61,46,384714,-0.2526,-0.1369,-0.1369,-0.2518
+Cerivastatin,Teriflunomide,263,291,383788,-0.2527,-0.0116,-0.0116,-0.252
+Thiabendazole,Hydroxyurea,292,46,384499,-0.2536,0.0134,0.0134,-0.2528
+Fluorouracil,Albendazole,41,259,384620,-0.2532,0.1075,0.1075,-0.2528
+Mitotane,Isoniazid,66,276,384753,-0.2569,-0.2536,-0.2537,-0.2555
+Teriflunomide,Carisoprodol,291,262,384466,-0.2594,-0.2432,-0.2435,-0.2577
+Nisoldipine,Teriflunomide,283,291,384292,-0.2601,-0.2435,-0.2435,-0.2584
+Clofarabine,Pazopanib,19,286,383605,-0.2597,0.0012,0.0012,-0.2589
+Methotrexate,Teriflunomide,63,291,384734,-0.2601,-0.0184,-0.0185,-0.2592
+Mycophenolic acid,Pazopanib,281,286,384231,-0.2609,0,0,-0.2601
+Pazopanib,Cytarabine,286,21,384352,-0.2609,0,0,-0.2601
+Pazopanib,Halofantrine,286,274,384361,-0.2609,0,0,-0.2601
+Pazopanib,Doxorubicin,286,33,384371,-0.2608,0.0001,0.0001,-0.2601
+Pazopanib,Ethinyl estradiol,286,272,384359,-0.2635,-0.2635,-0.2635,-0.2618
+Eflornithine,Halofantrine,271,274,383978,-0.263,-0.263,-0.263,-0.262
+Niclosamide,Irinotecan,282,275,384252,-0.263,0.0005,0.0005,-0.2623
+Triflupromazine,Pazopanib,295,286,384563,-0.2635,-0.2635,-0.2635,-0.2623
+Halofantrine,Niclosamide,274,282,384054,-0.2635,0,0,-0.2629
+Mefloquine,Niclosamide,280,282,384198,-0.2635,0,0,-0.2629
+Niclosamide,Mycophenolic acid,282,281,384256,-0.2635,0,0,-0.2629
+Thiabendazole,Azacitidine,292,8,384500,-0.2648,0.0022,0.0022,-0.2641
+Niclosamide,Eflornithine,282,271,384250,-0.2662,-0.2655,-0.2662,-0.2645
+Niclosamide,Ethinyl estradiol,282,272,384251,-0.2662,-0.2662,-0.2662,-0.2645
+Valproic acid,Niclosamide,296,282,384580,-0.2662,-0.2655,-0.2662,-0.2645
+Sulfinpyrazone,Pazopanib,290,286,384455,-0.2664,-0.2634,-0.2635,-0.2647
+Imatinib,Tizoxanide,48,293,384693,-0.2662,0.0858,0.0857,-0.2654
+Irinotecan,Thiabendazole,275,292,384084,-0.2665,0.0005,0.0005,-0.2657
+Cytarabine,Thiabendazole,21,292,383626,-0.267,0,0,-0.2662
+Thiabendazole,Halofantrine,292,274,384486,-0.267,0,0,-0.2662
+Thiabendazole,Mycophenolic acid,292,281,384489,-0.267,0,0,-0.2662
+Halofantrine,Mercaptopurine,274,61,384063,-0.2674,-0.1517,-0.1517,-0.2666
+Eflornithine,Thiabendazole,271,292,383986,-0.2697,-0.2693,-0.2697,-0.2679
+Thiabendazole,Valproic acid,292,296,384497,-0.2697,-0.2692,-0.2697,-0.2679
+Pazopanib,Azacitidine,286,8,384375,-0.2687,-0.0079,-0.0079,-0.268
+Thiabendazole,Cinacalcet,292,265,384483,-0.2697,-0.2697,-0.2697,-0.2684
+Teriflunomide,Albendazole,291,259,384465,-0.2716,-0.0302,-0.0303,-0.2708
+Sulfinpyrazone,Thiabendazole,290,292,384458,-0.2726,-0.2695,-0.2697,-0.2709
+Nitisinone,Methotrexate,284,63,384328,-0.2734,-0.1035,-0.1036,-0.2725
+Irinotecan,Teriflunomide,275,291,384083,-0.2744,-0.0333,-0.0333,-0.2736
+Sodium diethyldithiocarbamate trihydrate,Isoniazid,289,276,384434,-0.2767,-0.2734,-0.2735,-0.2756
+Everolimus,Cycloguanil,37,267,384603,-0.278,-0.1723,-0.1724,-0.2772
+Carisoprodol,Pazopanib,262,286,383761,-0.2794,-0.2633,-0.2635,-0.2777
+Cycloguanil,Febuxostat,267,273,383873,-0.2795,-0.1733,-0.1734,-0.278
+Teriflunomide,Azacitidine,291,8,384477,-0.279,-0.038,-0.038,-0.2783
+Nisoldipine,Pazopanib,283,286,384290,-0.2801,-0.2635,-0.2635,-0.2784
+Pyrvinium chloride dihydrate,Eflornithine,287,271,384383,-0.28,-0.0814,-0.0814,-0.2793
+Mefloquine,Pazopanib,280,286,384201,-0.2805,-0.0196,-0.0196,-0.2798
+Mercaptopurine,Meclofenamic acid,61,279,384703,-0.2819,-0.1654,-0.1655,-0.2804
+Tizoxanide,Sunitinib,293,90,384532,-0.2816,-0.1675,-0.1675,-0.2805
+Trifluoperazine,Pazopanib,248,286,383654,-0.285,-0.2635,-0.2635,-0.2834
+Clofarabine active form,Doxorubicin,266,33,383861,-0.2856,0,0,-0.2852
+Irinotecan,Pazopanib,275,286,384079,-0.2861,-0.0252,-0.0252,-0.2854
+Pazopanib,Meclofenamic acid,286,279,384363,-0.2876,-0.0248,-0.0251,-0.2862
+Cycloguanil,Teriflunomide,267,291,383883,-0.2887,-0.1826,-0.1827,-0.2873
+Niclosamide,Aprepitant,282,260,384243,-0.2921,-0.0268,-0.0269,-0.2908
+Methotrexate,Niclosamide,63,282,384731,-0.2947,-0.0305,-0.0307,-0.294
+Imatinib,Chlorzoxazone,48,264,384678,-0.2983,0.1573,0.1572,-0.2977
+Tizoxanide,Diazoxide,293,268,384510,-0.2993,0.0522,0.0522,-0.2986
+Fluorouracil,Topiramate,41,294,384641,-0.3007,-0.3001,-0.3007,-0.2993
+Pazopanib,Everolimus,286,37,384372,-0.3017,-0.0399,-0.0401,-0.3009
+Chlorzoxazone,Leflunomide,264,278,383799,-0.3053,0.1503,0.1503,-0.3046
+Dipyridamole,Thiabendazole,269,292,383930,-0.3068,-0.0385,-0.0387,-0.3057
+Pazopanib,Teriflunomide,286,291,384368,-0.3073,-0.0643,-0.0644,-0.3058
+Mercaptopurine,Tizoxanide,61,293,384711,-0.3075,-0.1909,-0.191,-0.306
+Diazoxide,Aprepitant,268,260,383892,-0.308,0.0522,0.0522,-0.3073
+Diazoxide,Fluorouracil,268,41,383908,-0.3083,0.0522,0.0522,-0.3079
+Dihydroqinghaosu,Chlorzoxazone,261,264,383722,-0.3094,0.1462,0.1461,-0.3087
+Eflornithine,Irinotecan,271,275,383979,-0.3103,-0.1117,-0.1117,-0.3095
+Methotrexate,Itraconazole,63,277,384728,-0.3115,-0.3093,-0.3095,-0.3104
+Temozolomide,Diazoxide,92,268,384837,-0.3117,0.0522,0.0522,-0.311
+Pyrvinium chloride dihydrate,Pazopanib,287,286,384389,-0.3123,0,0,-0.3116
+Tizoxanide,Sodium diethyldithiocarbamate trihydrate,293,289,384523,-0.3137,0.0378,0.0378,-0.313
+Mitotane,Mercaptopurine,66,61,384767,-0.3148,-0.1985,-0.1985,-0.3135
+Pazopanib,Dipyridamole,286,269,384357,-0.3162,-0.054,-0.0543,-0.3151
+Sunitinib,Mefloquine,90,280,384819,-0.3156,-0.2022,-0.2022,-0.3151
+Niclosamide,Azacitidine,282,8,384270,-0.3184,-0.0549,-0.0549,-0.3178
+Tizoxanide,Oxyphenbutazone,293,285,384519,-0.3188,0.0326,0.0326,-0.3182
+Mitotane,Methotrexate,66,63,384768,-0.3194,0.198,0.1979,-0.3188
+Vorinostat,Tizoxanide,106,293,383552,-0.3209,0.0306,0.0306,-0.3202
+Sodium diethyldithiocarbamate trihydrate,Aprepitant,289,260,384428,-0.3223,0.0378,0.0378,-0.3217
+Sodium diethyldithiocarbamate trihydrate,Temozolomide,289,92,384442,-0.3261,0.0378,0.0378,-0.3254
+Temozolomide,Sulfinpyrazone,92,290,384847,-0.3276,-0.3245,-0.3246,-0.3259
+Aprepitant,Oxyphenbutazone,260,285,383708,-0.3275,0.0326,0.0326,-0.3268
+Dihydroqinghaosu,Temozolomide,261,92,383747,-0.3278,0.0365,0.0364,-0.3271
+Fluorouracil,Oxyphenbutazone,41,285,384636,-0.3278,0.0326,0.0326,-0.3274
+Methotrexate,Carisoprodol,63,262,384720,-0.3295,-0.3134,-0.3136,-0.3284
+Vorinostat,Aprepitant,106,260,383530,-0.3295,0.0306,0.0306,-0.3289
+Fluorouracil,Vorinostat,41,106,384618,-0.3298,0.0306,0.0306,-0.3294
+Oxyphenbutazone,Temozolomide,285,92,384350,-0.3312,0.0326,0.0326,-0.3306
+Febuxostat,Aprepitant,273,260,384022,-0.3331,-0.16,-0.1604,-0.3317
+Albendazole,Meclofenamic acid,259,279,383684,-0.3332,0.0547,0.0546,-0.3325
+Vorinostat,Temozolomide,106,92,383562,-0.3333,0.0306,0.0306,-0.3326
+Meclofenamic acid,Diazoxide,279,268,384170,-0.3354,0.0522,0.0522,-0.3347
+Cerivastatin,Tizoxanide,263,293,383790,-0.3358,0.0156,0.0156,-0.3352
+Tizoxanide,Bortezomib,293,11,384502,-0.3386,0.0128,0.0128,-0.338
+Mitotane,Tizoxanide,66,293,384761,-0.3402,0.013,0.0129,-0.3391
+Everolimus,Quinine,37,288,384612,-0.3425,0.155,0.1547,-0.3419
+Nitisinone,Febuxostat,284,273,384306,-0.3442,-0.1732,-0.1734,-0.3425
+Hydroxyurea,Aprepitant,46,260,384654,-0.3466,0.0134,0.0134,-0.346
+Fluorouracil,Hydroxyurea,41,46,384644,-0.3469,0.0134,0.0134,-0.3465
+Methotrexate,Isoniazid,63,276,384727,-0.3479,-0.3445,-0.3447,-0.3468
+Azacitidine,Tizoxanide,8,293,384795,-0.3492,0.0022,0.0022,-0.3485
+Tizoxanide,Clofarabine,293,19,384503,-0.3501,0.0012,0.0012,-0.3495
+Sodium diethyldithiocarbamate trihydrate,Meclofenamic acid,289,279,384436,-0.3504,0.0372,0.0371,-0.3498
+Meclofenamic acid,Temozolomide,279,92,384183,-0.3515,0.0146,0.0145,-0.3502
+Cytarabine,Tizoxanide,21,293,383627,-0.3514,0,0,-0.3507
+Tizoxanide,Halofantrine,293,274,384513,-0.3514,0,0,-0.3507
+Ethinyl estradiol,Tizoxanide,272,293,384009,-0.3549,-0.3549,-0.3549,-0.3533
+Tizoxanide,Cinacalcet,293,265,384507,-0.3549,-0.3549,-0.3549,-0.3537
+Tizoxanide,Triflupromazine,293,295,384527,-0.3549,-0.3549,-0.3549,-0.3538
+Meclofenamic acid,Oxyphenbutazone,279,285,384176,-0.3549,0.0326,0.0326,-0.3543
+Aprepitant,Itraconazole,260,277,383706,-0.3574,-0.3553,-0.3554,-0.3558
+Tizoxanide,Sulfinpyrazone,293,290,384524,-0.3578,-0.3547,-0.3549,-0.3562
+Vorinostat,Meclofenamic acid,106,279,383542,-0.3569,0.0306,0.0306,-0.3563
+Clofarabine active form,Quinine,266,288,383857,-0.3569,0,0,-0.3563
+Valproic acid,Meclofenamic acid,296,279,384579,-0.3578,-0.3173,-0.3175,-0.3566
+Mitotane,Imatinib,66,48,384766,-0.3598,0.1573,0.1572,-0.3592
+Aprepitant,Halofantrine,260,274,383705,-0.36,0,0,-0.3594
+Mefloquine,Aprepitant,280,260,384186,-0.36,0,0,-0.3594
+Fluorouracil,Irinotecan,41,275,384631,-0.3598,0.0005,0.0005,-0.3594
+Halofantrine,Fluorouracil,274,41,384062,-0.3603,0,0,-0.3599
+Fluorouracil,Mefloquine,41,280,384633,-0.3603,0,0,-0.3599
+Fluorouracil,Mycophenolic acid,41,281,384634,-0.3603,0,0,-0.3599
+Fluorouracil,Sodium diethyldithiocarbamate trihydrate,41,289,384638,-0.3611,-0.0006,-0.0006,-0.3606
+Eflornithine,Aprepitant,271,260,383971,-0.3636,-0.3631,-0.3636,-0.362
+Valproic acid,Aprepitant,296,260,384570,-0.3636,-0.3631,-0.3636,-0.362
+Teriflunomide,Fluorouracil,291,41,384476,-0.3633,-0.1201,-0.1207,-0.3621
+Azacitidine,Temozolomide,8,92,384803,-0.3634,0.0004,0.0004,-0.3627
+Halofantrine,Temozolomide,274,92,384066,-0.3637,0,0,-0.3631
+Mefloquine,Temozolomide,280,92,384215,-0.3637,0,0,-0.3631
+Temozolomide,Mycophenolic acid,92,281,384843,-0.3637,0,0,-0.3631
+Mitotane,Everolimus,66,37,384764,-0.3652,0.1528,0.1525,-0.3646
+Quinine,Dihydroqinghaosu,288,261,384405,-0.3653,0.1313,0.1312,-0.3647
+Pazopanib,Cycloguanil,286,267,384356,-0.3695,-0.2635,-0.2635,-0.3681
+Tizoxanide,Carisoprodol,293,262,384506,-0.3708,-0.3546,-0.3549,-0.3692
+Dihydroqinghaosu,Mitotane,261,66,383744,-0.3709,0.1462,0.1461,-0.3703
+Meclofenamic acid,Cerivastatin,279,263,384166,-0.3719,0.0156,0.0156,-0.3713
+Everolimus,Eflornithine,37,271,384605,-0.3729,-0.3726,-0.3729,-0.3717
+Sunitinib,Temozolomide,90,92,384834,-0.3735,-0.2594,-0.2594,-0.3724
+Meclofenamic acid,Bortezomib,279,11,384161,-0.3747,0.0128,0.0128,-0.3741
+Nisoldipine,Aprepitant,283,260,384275,-0.3802,-0.3636,-0.3636,-0.3786
+Niclosamide,Sunitinib,282,90,384271,-0.3803,-0.2661,-0.2662,-0.3792
+Albendazole,Chlorzoxazone,259,264,383675,-0.3802,0.0752,0.0752,-0.3795
+Mycophenolic acid,Aprepitant,281,260,384219,-0.381,-0.021,-0.021,-0.3803
+Azacitidine,Meclofenamic acid,8,279,384788,-0.3852,0.0022,0.0022,-0.3846
+Meclofenamic acid,Clofarabine,279,19,384163,-0.3862,0.0012,0.0012,-0.3856
+Irinotecan,Meclofenamic acid,275,279,384077,-0.3869,0.0005,0.0005,-0.3863
+Methotrexate,Dipyridamole,63,269,384723,-0.3871,0.198,0.1979,-0.3866
+Doxorubicin,Meclofenamic acid,33,279,384593,-0.3873,0.0001,0.0001,-0.3867
+Mefloquine,Thiabendazole,280,292,384206,-0.3875,-0.1206,-0.1206,-0.3868
+Mycophenolic acid,Meclofenamic acid,281,279,384229,-0.3874,0,0,-0.3868
+Meclofenamic acid,Cytarabine,279,21,384164,-0.3879,-0.0005,-0.0005,-0.3873
+Meclofenamic acid,Eflornithine,279,271,384171,-0.3913,-0.391,-0.3913,-0.3897
+Mefloquine,Meclofenamic acid,280,279,384196,-0.3903,-0.0029,-0.0029,-0.3897
+Topiramate,Meclofenamic acid,294,279,384540,-0.3913,-0.3911,-0.3913,-0.3897
+Aprepitant,Albendazole,260,259,383701,-0.3924,-0.0319,-0.032,-0.3916
+Chlorzoxazone,Diazoxide,264,268,383795,-0.4029,0.0522,0.0522,-0.4023
+Temozolomide,Hydroxyurea,92,46,384854,-0.4044,-0.0406,-0.0406,-0.4037
+Temozolomide,Tizoxanide,92,293,384850,-0.4085,-0.0548,-0.0549,-0.4072
+Albendazole,Mitotane,259,66,383697,-0.4093,0.1075,0.1075,-0.4087
+Hydroxyurea,Meclofenamic acid,46,279,384660,-0.4097,-0.0222,-0.0222,-0.4091
+Quinine,Triflupromazine,288,295,384419,-0.4103,-0.4103,-0.4103,-0.4094
+Tizoxanide,Doxorubicin,293,33,384529,-0.4111,-0.0597,-0.0597,-0.4104
+Irinotecan,Tizoxanide,275,293,384085,-0.4123,-0.061,-0.061,-0.4117
+Meclofenamic acid,Carboplatin,279,14,384162,-0.4208,-0.391,-0.3913,-0.4193
+Mitotane,Leflunomide,66,278,384755,-0.4209,0.0961,0.0961,-0.4203
+Pyrvinium chloride dihydrate,Teriflunomide,287,291,384392,-0.4266,0,0,-0.4261
+Dipyridamole,Imatinib,269,48,383936,-0.4275,0.1573,0.1572,-0.4269
+Chlorzoxazone,Sodium diethyldithiocarbamate trihydrate,264,289,383802,-0.4312,0.0239,0.0238,-0.4306
+Nitisinone,Pazopanib,284,286,384314,-0.4342,-0.2633,-0.2635,-0.4326
+Dipyridamole,Leflunomide,269,278,383921,-0.4344,0.1503,0.1503,-0.4338
+Pazopanib,Febuxostat,286,273,384360,-0.4364,-0.2633,-0.2635,-0.4348
+Meclofenamic acid,Thiabendazole,279,292,384179,-0.438,-0.1692,-0.1693,-0.4366
+Methotrexate,Thiabendazole,63,292,384735,-0.4376,-0.1699,-0.1701,-0.4368
+Dipyridamole,Dihydroqinghaosu,269,261,383914,-0.4385,0.1462,0.1461,-0.438
+Cerivastatin,Chlorzoxazone,263,264,383776,-0.4394,0.0156,0.0156,-0.4388
+Dronedarone,Leflunomide,270,278,383953,-0.4398,-0.4396,-0.4396,-0.4392
+Halofantrine,Meclofenamic acid,274,279,384053,-0.4427,-0.0553,-0.0553,-0.4421
+Diazoxide,Quinine,268,288,383903,-0.4438,0.0522,0.0522,-0.4433
+Oxyphenbutazone,Chlorzoxazone,285,264,384331,-0.448,0.007,0.007,-0.4474
+Methotrexate,Mercaptopurine,63,61,384739,-0.4484,-0.3323,-0.3325,-0.4475
+Irinotecan,Aprepitant,275,260,384068,-0.4495,-0.0895,-0.0895,-0.4489
+Tizoxanide,Teriflunomide,293,291,384525,-0.4511,-0.2082,-0.2085,-0.4497
+Hydroxyurea,Pazopanib,46,286,384664,-0.4522,-0.1913,-0.1913,-0.4515
+Azacitidine,Chlorzoxazone,8,264,384778,-0.4527,0.0022,0.0022,-0.4521
+Clofarabine,Chlorzoxazone,19,264,383599,-0.4536,0.0012,0.0012,-0.4531
+Fluorouracil,Azacitidine,41,8,384647,-0.4539,-0.0936,-0.0936,-0.4536
+Chlorzoxazone,Doxorubicin,264,33,383807,-0.4548,0.0001,0.0001,-0.4542
+Cytarabine,Chlorzoxazone,21,264,383614,-0.4549,0,0,-0.4543
+Halofantrine,Chlorzoxazone,274,264,384044,-0.4549,0,0,-0.4543
+Mycophenolic acid,Chlorzoxazone,281,264,384221,-0.4549,0,0,-0.4543
+Chlorzoxazone,Everolimus,264,37,383808,-0.4553,0.0011,0.0009,-0.4546
+Dipyridamole,Everolimus,269,37,383934,-0.4554,0.1302,0.13,-0.4549
+Sodium diethyldithiocarbamate trihydrate,Quinine,289,288,384438,-0.4582,0.0378,0.0378,-0.4576
+Fluorouracil,Pazopanib,41,286,384637,-0.4589,-0.1958,-0.1964,-0.4578
+Chlorzoxazone,Irinotecan,264,275,383798,-0.4608,-0.006,-0.006,-0.4603
+Vorinostat,Quinine,106,288,383548,-0.4654,0.0306,0.0306,-0.4648
+Itraconazole,Teriflunomide,277,291,384134,-0.4704,-0.4309,-0.431,-0.4689
+Meclofenamic acid,Methotrexate,279,63,384181,-0.4698,-0.0814,-0.0816,-0.469
+Irinotecan,Mercaptopurine,275,61,384091,-0.4707,-0.3549,-0.3549,-0.4698
+Quinine,Fluorouracil,288,41,384421,-0.4713,-0.1091,-0.1091,-0.4704
+Quinine,Nisoldipine,288,283,384416,-0.4763,-0.4598,-0.4598,-0.4749
+Bortezomib,Chlorzoxazone,11,264,383568,-0.4769,-0.0219,-0.022,-0.4763
+Albendazole,Dipyridamole,259,269,383677,-0.4769,0.1075,0.1075,-0.4764
+Mitotane,Diazoxide,66,268,384747,-0.482,0.0345,0.0345,-0.4815
+Dipyridamole,Teriflunomide,269,291,383929,-0.4828,-0.2405,-0.2407,-0.4816
+Quinine,Hydroxyurea,288,46,384422,-0.4824,0.0135,0.0134,-0.4819
+Bortezomib,Quinine,11,288,383576,-0.4831,0.0128,0.0128,-0.4826
+Oxyphenbutazone,Mitotane,285,66,384348,-0.4838,0.0326,0.0326,-0.4833
+Quinine,Dronedarone,288,270,384410,-0.4851,-0.4849,-0.4849,-0.4841
+Vorinostat,Mitotane,106,66,383560,-0.4858,0.0306,0.0306,-0.4853
+Tizoxanide,Everolimus,293,37,384530,-0.4885,-0.1359,-0.1362,-0.4878
+Cerivastatin,Quinine,263,288,383786,-0.49,0.0059,0.0059,-0.4895
+Mitotane,Sulfinpyrazone,66,290,384758,-0.492,-0.489,-0.4891,-0.4905
+Pyrvinium chloride dihydrate,Quinine,287,288,384390,-0.4944,0,0,-0.4939
+Quinine,Irinotecan,288,275,384412,-0.4944,0,0,-0.4939
+Halofantrine,Quinine,274,288,384056,-0.4958,0,0,-0.4953
+Quinine,Mefloquine,288,280,384415,-0.4958,0,0,-0.4953
+Meclofenamic acid,Cycloguanil,279,267,384169,-0.4972,-0.3913,-0.3913,-0.4959
+Quinine,Valproic acid,288,296,384420,-0.5008,-0.5005,-0.5008,-0.4993
+Mitotane,Cerivastatin,66,263,384743,-0.5007,0.0156,0.0156,-0.5003
+Mitotane,Hydroxyurea,66,46,384765,-0.5028,0.0134,0.0134,-0.5024
+Quinine,Azacitidine,288,8,384425,-0.5035,-0.0077,-0.0077,-0.503
+Sunitinib,Meclofenamic acid,90,279,384818,-0.5053,-0.3913,-0.3913,-0.5043
+Mitotane,Azacitidine,66,8,384769,-0.5141,0.0022,0.0022,-0.5136
+Hydroxyurea,Chlorzoxazone,46,264,384655,-0.5148,-0.0599,-0.0599,-0.5143
+Clofarabine,Mitotane,19,66,383608,-0.515,0.0012,0.0012,-0.5145
+Oxyphenbutazone,Quinine,285,288,384341,-0.5157,-0.0197,-0.0198,-0.5152
+Quinine,Carisoprodol,288,262,384406,-0.5167,-0.5007,-0.5008,-0.5152
+Mitotane,Doxorubicin,66,33,384763,-0.5161,0.0001,0.0001,-0.5157
+Mycophenolic acid,Mitotane,281,66,384241,-0.5162,0,0,-0.5158
+Mitotane,Cytarabine,66,21,384740,-0.5162,0,0,-0.5158
+Mitotane,Halofantrine,66,274,384751,-0.5162,0,0,-0.5158
+Mycophenolic acid,Quinine,281,288,384233,-0.5205,-0.0247,-0.0247,-0.52
+Mitotane,Eflornithine,66,271,384749,-0.5214,-0.5212,-0.5214,-0.52
+Mitotane,Ethinyl estradiol,66,272,384750,-0.5214,-0.5214,-0.5214,-0.52
+Cytarabine,Quinine,21,288,383623,-0.5215,-0.0257,-0.0257,-0.521
+Quinine,Carboplatin,288,14,384402,-0.5303,-0.5006,-0.5008,-0.5288
+Irinotecan,Temozolomide,275,92,384093,-0.5305,-0.1668,-0.1668,-0.5299
+Eflornithine,Leflunomide,271,278,383980,-0.5322,-0.5322,-0.5322,-0.5311
+Diazoxide,Dipyridamole,268,269,383895,-0.5319,0.0522,0.0522,-0.5314
+Quinine,Chlorzoxazone,288,264,384407,-0.533,-0.0757,-0.0758,-0.5319
+Temozolomide,Nitisinone,92,284,384844,-0.5374,-0.3667,-0.3669,-0.536
+Methotrexate,Quinine,63,288,384732,-0.5382,-0.0412,-0.0414,-0.5376
+Quinine,Leflunomide,288,278,384413,-0.5387,-0.0422,-0.0422,-0.5381
+Aprepitant,Temozolomide,260,92,383715,-0.5417,-0.1793,-0.1794,-0.5404
+Mitotane,Irinotecan,66,275,384752,-0.5448,-0.0286,-0.0286,-0.5444
+Sodium diethyldithiocarbamate trihydrate,Dipyridamole,289,269,384429,-0.5462,0.0378,0.0378,-0.5458
+Mefloquine,Mitotane,280,66,384214,-0.5492,-0.033,-0.033,-0.5487
+Dipyridamole,Oxyphenbutazone,269,285,383925,-0.5513,0.0326,0.0326,-0.5509
+Vorinostat,Dipyridamole,106,269,383535,-0.5534,0.0306,0.0306,-0.5529
+Mitotane,Cycloguanil,66,267,384746,-0.5553,-0.4495,-0.4495,-0.5542
+Fluorouracil,Everolimus,41,37,384643,-0.5594,-0.1979,-0.198,-0.5589
+Mitotane,Itraconazole,66,277,384754,-0.5602,-0.5208,-0.5208,-0.5589
+Meclofenamic acid,Nitisinone,279,284,384175,-0.5618,-0.3911,-0.3913,-0.5603
+Leflunomide,Everolimus,278,37,384156,-0.5611,0.1503,0.1503,-0.5609
+Febuxostat,Meclofenamic acid,273,279,384029,-0.564,-0.391,-0.3913,-0.5626
+Quinine,Mercaptopurine,288,61,384423,-0.5689,-0.0733,-0.0735,-0.5682
+Bortezomib,Dipyridamole,11,269,383570,-0.5711,0.0128,0.0128,-0.5707
+Cerivastatin,Dipyridamole,263,269,383779,-0.5817,0.0022,0.0022,-0.5813
+Dipyridamole,Clofarabine,269,19,383912,-0.5826,0.0012,0.0012,-0.5822
+Dipyridamole,Doxorubicin,269,33,383933,-0.5837,0.0001,0.0001,-0.5833
+Dipyridamole,Mycophenolic acid,269,281,383923,-0.5838,0,0,-0.5834
+Halofantrine,Dipyridamole,274,269,384047,-0.5838,0,0,-0.5834
+Mefloquine,Dipyridamole,280,269,384190,-0.5838,0,0,-0.5834
+Irinotecan,Dipyridamole,275,269,384074,-0.5886,-0.0048,-0.0048,-0.5882
+Topiramate,Dipyridamole,294,269,384536,-0.5897,-0.5894,-0.5897,-0.5883
+Clofarabine,Quinine,19,288,383606,-0.5964,-0.1006,-0.1006,-0.5959
+Doxorubicin,Quinine,33,288,384597,-0.5976,-0.1018,-0.1018,-0.5971
+Vorinostat,Chlorzoxazone,106,264,383532,-0.5988,-0.1438,-0.1438,-0.5982
+Everolimus,Mercaptopurine,37,61,384617,-0.603,-0.4867,-0.4869,-0.602
+Chlorzoxazone,Dipyridamole,264,269,383796,-0.6043,-0.1473,-0.1476,-0.6034
+Aprepitant,Teriflunomide,260,291,383710,-0.6063,-0.3633,-0.3636,-0.6049
+Clofarabine active form,Thiabendazole,266,292,383860,-0.6062,0.0298,0.0297,-0.6058
+Everolimus,Meclofenamic acid,37,279,384607,-0.6068,-0.218,-0.2183,-0.6061
+Thiabendazole,Carboplatin,292,14,384479,-0.6139,0.022,0.022,-0.6136
+Sunitinib,Quinine,90,288,384824,-0.6147,-0.5008,-0.5008,-0.6138
+Mefloquine,Chlorzoxazone,280,264,384187,-0.6159,-0.161,-0.161,-0.6154
+Tizoxanide,Pazopanib,293,286,384520,-0.6175,-0.3546,-0.3549,-0.6161
+Niclosamide,Tizoxanide,282,293,384265,-0.6201,-0.3549,-0.3549,-0.6188
+Dipyridamole,Hydroxyurea,269,46,383935,-0.6218,-0.0379,-0.0379,-0.6214
+Everolimus,Albendazole,37,259,384602,-0.6248,0.0863,0.0863,-0.6245
+Pyrvinium chloride dihydrate,Thiabendazole,287,292,384393,-0.6358,0,0,-0.6354
+Methotrexate,Tizoxanide,63,293,384736,-0.6512,-0.299,-0.2992,-0.6505
+Sodium diethyldithiocarbamate trihydrate,Mitotane,289,66,384441,-0.6548,-0.1383,-0.1383,-0.6542
+Niclosamide,Itraconazole,282,277,384254,-0.6555,-0.6162,-0.6162,-0.6545
+Meclofenamic acid,Niclosamide,279,282,384174,-0.6564,-0.3913,-0.3913,-0.6552
+Methotrexate,Dihydroqinghaosu,63,261,384719,-0.6567,0.1386,0.1386,-0.6565
+Diazoxide,Everolimus,268,37,383907,-0.6585,0.0522,0.0522,-0.6583
+Febuxostat,Dihydroqinghaosu,273,261,384023,-0.6671,-0.4951,-0.4952,-0.6661
+Quinine,Febuxostat,288,273,384411,-0.6733,-0.5006,-0.5008,-0.672
+Vorinostat,Trifluoperazine,106,248,383529,-0.6747,-0.6534,-0.6534,-0.6739
+Oxyphenbutazone,Everolimus,285,37,384346,-0.6779,0.0326,0.0326,-0.6778
+Everolimus,Vorinostat,37,106,384599,-0.68,0.0306,0.0306,-0.6798
+Cinacalcet,Albendazole,265,259,383813,-0.6839,-0.6839,-0.6839,-0.6832
+Dipyridamole,Quinine,269,288,383927,-0.6873,-0.1892,-0.1895,-0.6864
+Methotrexate,Albendazole,63,259,384718,-0.6875,0.1075,0.1075,-0.6873
+Mitotane,Pyrvinium chloride dihydrate,66,287,384757,-0.689,0,0,-0.6887
+Imatinib,Dihydroqinghaosu,48,261,384676,-0.6895,0.1461,0.1461,-0.6892
+Dihydroqinghaosu,Leflunomide,261,278,383728,-0.6964,0.1462,0.1461,-0.6961
+Albendazole,Febuxostat,259,273,383680,-0.7022,-0.5303,-0.5304,-0.7013
+Imatinib,Leflunomide,48,278,384682,-0.7082,0.1274,0.1274,-0.7079
+Azacitidine,Everolimus,8,37,384800,-0.7082,0.0022,0.0022,-0.708
+Irinotecan,Everolimus,275,37,384088,-0.7098,0.0005,0.0005,-0.7097
+Clofarabine active form,Teriflunomide,266,291,383859,-0.7111,0,0,-0.7108
+Mycophenolic acid,Everolimus,281,37,384239,-0.7183,-0.008,-0.008,-0.7182
+Imatinib,Albendazole,48,259,384675,-0.7278,0.1075,0.1075,-0.7275
+Hydroxyurea,Everolimus,46,37,384672,-0.7321,-0.0217,-0.0217,-0.7319
+Valproic acid,Mitotane,296,66,384585,-0.7363,-0.6957,-0.6959,-0.735
+Quinine,Teriflunomide,288,291,384418,-0.738,-0.4957,-0.4958,-0.7368
+Febuxostat,Mitotane,273,66,384041,-0.7414,-0.6958,-0.6959,-0.7402
+Meclofenamic acid,Pyrvinium chloride dihydrate,279,287,384177,-0.742,-0.0329,-0.0329,-0.7417
+Diazoxide,Methotrexate,268,63,383910,-0.7423,0.0522,0.0522,-0.7422
+Everolimus,Mefloquine,37,280,384608,-0.7535,-0.0432,-0.0432,-0.7534
+Methotrexate,Sodium diethyldithiocarbamate trihydrate,63,289,384733,-0.7566,0.0378,0.0378,-0.7565
+Oxyphenbutazone,Methotrexate,285,63,384347,-0.7618,0.0326,0.0326,-0.7616
+Sodium diethyldithiocarbamate trihydrate,Mercaptopurine,289,61,384440,-0.7657,-0.6499,-0.6499,-0.7648
+Dihydroqinghaosu,Albendazole,261,259,383720,-0.7652,0.0812,0.0811,-0.7649
+Everolimus,Sodium diethyldithiocarbamate trihydrate,37,289,384613,-0.7691,-0.0585,-0.0585,-0.769
+Imatinib,Sulfinpyrazone,48,290,384690,-0.7716,-0.7686,-0.7687,-0.7705
+Azacitidine,Aprepitant,8,260,384775,-0.7759,-0.4159,-0.4159,-0.7753
+Hydroxyurea,Methotrexate,46,63,384673,-0.7808,0.0134,0.0134,-0.7807
+Sunitinib,Mycophenolic acid,90,281,384820,-0.7831,-0.6698,-0.6698,-0.7827
+Diazoxide,Leflunomide,268,278,383898,-0.7895,0.0522,0.0522,-0.7893
+Azacitidine,Methotrexate,8,63,384802,-0.792,0.0022,0.0022,-0.7919
+Diazoxide,Dihydroqinghaosu,268,261,383893,-0.7936,0.0522,0.0522,-0.7934
+Cytarabine,Methotrexate,21,63,383631,-0.7941,0,0,-0.794
+Mefloquine,Methotrexate,280,63,384213,-0.7941,0,0,-0.794
+Methotrexate,Halofantrine,63,274,384725,-0.7941,0,0,-0.794
+Albendazole,Leflunomide,259,278,383683,-0.802,0.0403,0.0402,-0.8017
+Imatinib,Oxyphenbutazone,48,285,384686,-0.802,0.0326,0.0326,-0.8018
+Mercaptopurine,Pyrvinium chloride dihydrate,61,287,384707,-0.8033,0,0,-0.8031
+Leflunomide,Sodium diethyldithiocarbamate trihydrate,278,289,384152,-0.8038,0.0378,0.0378,-0.8036
+Vorinostat,Imatinib,106,48,383558,-0.804,0.0306,0.0306,-0.8039
+Clofarabine active form,Hydroxyurea,266,46,383862,-0.8055,0,0,-0.8053
+Oxyphenbutazone,Leflunomide,285,278,384339,-0.8089,0.0326,0.0326,-0.8087
+Vorinostat,Leflunomide,106,278,383541,-0.8109,0.0306,0.0306,-0.8108
+Dihydroqinghaosu,Oxyphenbutazone,261,285,383734,-0.813,0.0326,0.0326,-0.8128
+Imatinib,Meclofenamic acid,48,279,384683,-0.8143,-0.4262,-0.4263,-0.8136
+Clofarabine active form,Chlorzoxazone,266,264,383841,-0.8152,0,0,-0.8151
+Chlorzoxazone,Methotrexate,264,63,383810,-0.8209,-0.3649,-0.3651,-0.8202
+Imatinib,Hydroxyurea,48,46,384694,-0.821,0.0134,0.0134,-0.8208
+Cerivastatin,Leflunomide,263,278,383782,-0.8258,0.0156,0.0156,-0.8257
+Leflunomide,Hydroxyurea,278,46,384158,-0.8279,0.0135,0.0134,-0.8278
+Bortezomib,Leflunomide,11,278,383572,-0.8286,0.0128,0.0128,-0.8284
+Cerivastatin,Dihydroqinghaosu,263,261,383774,-0.8299,0.0156,0.0156,-0.8298
+Albendazole,Diazoxide,259,268,383676,-0.8319,0.0522,0.0522,-0.8317
+Imatinib,Azacitidine,48,8,384695,-0.8322,0.0022,0.0022,-0.832
+Pyrvinium chloride dihydrate,Chlorzoxazone,287,264,384381,-0.8326,0,0,-0.8325
+Irinotecan,Imatinib,275,48,384090,-0.8338,0.0005,0.0005,-0.8337
+Cytarabine,Imatinib,21,48,383630,-0.8343,0,0,-0.8342
+Imatinib,Mycophenolic acid,48,281,384684,-0.8343,0,0,-0.8342
+Methotrexate,Vorinostat,63,106,384717,-0.8394,-0.045,-0.045,-0.8392
+Leflunomide,Irinotecan,278,275,384148,-0.8407,0.0005,0.0005,-0.8406
+Doxorubicin,Leflunomide,33,278,384592,-0.8412,0.0001,0.0001,-0.841
+Albendazole,Temozolomide,259,92,383698,-0.8419,-0.4777,-0.4778,-0.8411
+Leflunomide,Cytarabine,278,21,384142,-0.8413,0,0,-0.8411
+Leflunomide,Halofantrine,278,274,384147,-0.8413,0,0,-0.8411
+Mefloquine,Leflunomide,280,278,384195,-0.8413,0,0,-0.8411
+Mycophenolic acid,Leflunomide,281,278,384228,-0.8413,0,0,-0.8411
+Dihydroqinghaosu,Azacitidine,261,8,383745,-0.8432,0.0022,0.0022,-0.8431
+Dihydroqinghaosu,Irinotecan,261,275,383727,-0.8449,0.0005,0.0005,-0.8447
+Dihydroqinghaosu,Doxorubicin,261,33,383741,-0.8453,0.0001,0.0001,-0.8451
+Cytarabine,Dihydroqinghaosu,21,261,383612,-0.8454,0,0,-0.8452
+Dihydroqinghaosu,Halofantrine,261,274,383726,-0.8454,0,0,-0.8452
+Halofantrine,Everolimus,274,37,384061,-0.8466,-0.1363,-0.1363,-0.8465
+Dihydroqinghaosu,Sodium diethyldithiocarbamate trihydrate,261,289,383737,-0.8473,-0.0016,-0.0016,-0.8471
+Imatinib,Diazoxide,48,268,384680,-0.8515,-0.0167,-0.0167,-0.8513
+Clofarabine active form,Azacitidine,266,8,383865,-0.8519,0,0,-0.8517
+Isoniazid,Leflunomide,276,278,384103,-0.8529,-0.8497,-0.8497,-0.8518
+Dihydroqinghaosu,Eflornithine,261,271,383724,-0.8539,-0.8538,-0.8539,-0.8528
+Oxyphenbutazone,Albendazole,285,259,384330,-0.8532,0.0307,0.0307,-0.8531
+Pyrvinium chloride dihydrate,Methotrexate,287,63,384399,-0.8558,-0.0511,-0.0511,-0.8557
+Methotrexate,Mycophenolic acid,63,281,384730,-0.856,-0.0619,-0.0619,-0.8559
+Azacitidine,Leflunomide,8,278,384787,-0.8561,-0.0149,-0.0149,-0.856
+Quinine,Aprepitant,288,260,384404,-0.8626,-0.5008,-0.5008,-0.8615
+Albendazole,Vorinostat,259,106,383671,-0.8651,0.0188,0.0188,-0.8649
+Clofarabine active form,Mycophenolic acid,266,281,383852,-0.8675,0,0,-0.8674
+Cerivastatin,Albendazole,263,259,383773,-0.8682,0.0156,0.0156,-0.8681
+Dihydroqinghaosu,Hydroxyurea,261,46,383743,-0.8685,-0.023,-0.023,-0.8683
+Carisoprodol,Dihydroqinghaosu,262,261,383750,-0.8697,-0.8538,-0.8539,-0.8686
+Albendazole,Hydroxyurea,259,46,383695,-0.8703,0.0134,0.0134,-0.8702
+Dihydroqinghaosu,Mefloquine,261,280,383730,-0.8759,-0.0306,-0.0306,-0.8758
+Carboplatin,Leflunomide,14,278,383584,-0.8791,-0.8497,-0.8497,-0.878
+Azacitidine,Pyrvinium chloride dihydrate,8,287,384793,-0.8782,0,0,-0.8781
+Cytarabine,Dipyridamole,21,269,383617,-0.8791,-0.2953,-0.2953,-0.8787
+Methotrexate,Irinotecan,63,275,384726,-0.8801,-0.086,-0.086,-0.88
+Azacitidine,Albendazole,8,259,384774,-0.8815,0.0022,0.0022,-0.8814
+Irinotecan,Albendazole,275,259,384067,-0.8831,0.0005,0.0005,-0.883
+Albendazole,Cytarabine,259,21,383673,-0.8836,0,0,-0.8835
+Albendazole,Halofantrine,259,274,383681,-0.8836,0,0,-0.8835
+Albendazole,Mefloquine,259,280,383685,-0.8836,0,0,-0.8835
+Albendazole,Mycophenolic acid,259,281,383686,-0.8836,0,0,-0.8835
+Halofantrine,Carboplatin,274,14,384042,-0.8843,0.022,0.022,-0.8842
+Quinine,Meclofenamic acid,288,279,384414,-0.8901,-0.5007,-0.5008,-0.889
+Hydroxyurea,Carboplatin,46,14,384651,-0.8914,0.022,0.022,-0.8913
+Albendazole,Topiramate,259,294,383692,-0.8925,-0.8925,-0.8925,-0.8914
+Albendazole,Valproic acid,259,296,383694,-0.8925,-0.8925,-0.8925,-0.8914
+Albendazole,Ethinyl estradiol,259,272,383679,-0.8925,-0.8925,-0.8925,-0.8915
+Itraconazole,Albendazole,277,259,384118,-0.8946,-0.8925,-0.8925,-0.8935
+Albendazole,Sulfinpyrazone,259,290,383690,-0.8955,-0.8925,-0.8925,-0.8944
+Mycophenolic acid,Pyrvinium chloride dihydrate,281,287,384232,-0.8966,0,0,-0.8965
+Methotrexate,Leflunomide,63,278,384729,-0.8971,-0.1017,-0.1017,-0.8968
+Azacitidine,Dipyridamole,8,269,384781,-0.8975,-0.3137,-0.3137,-0.8971
+Dihydroqinghaosu,Carboplatin,261,14,383717,-0.9022,0.0156,0.0156,-0.9021
+Mefloquine,Imatinib,280,48,384211,-0.9041,-0.0698,-0.0698,-0.904
+Oxyphenbutazone,Diazoxide,285,268,384334,-0.906,0.0326,0.0326,-0.9059
+Pyrvinium chloride dihydrate,Halofantrine,287,274,384384,-0.9061,0,0,-0.906
+Diazoxide,Vorinostat,268,106,383890,-0.908,0.0306,0.0306,-0.908
+Dihydroqinghaosu,Niclosamide,261,282,383732,-0.9132,-0.6493,-0.6493,-0.9124
+Hydroxyurea,Pyrvinium chloride dihydrate,46,287,384665,-0.9131,0,0,-0.9131
+Clofarabine active form,Mitotane,266,66,383864,-0.9186,0,0,-0.9186
+Albendazole,Sodium diethyldithiocarbamate trihydrate,259,289,383689,-0.92,-0.036,-0.036,-0.9198
+Dihydroqinghaosu,Clofarabine,261,19,383718,-0.9203,-0.0749,-0.0749,-0.9201
+Vorinostat,Sodium diethyldithiocarbamate trihydrate,106,289,383549,-0.9223,0.0306,0.0306,-0.9222
+Cerivastatin,Diazoxide,263,268,383778,-0.9229,0.0156,0.0156,-0.9228
+Dihydroqinghaosu,Pyrvinium chloride dihydrate,261,287,383736,-0.9246,-0.007,-0.007,-0.9245
+Bortezomib,Diazoxide,11,268,383569,-0.9257,0.0128,0.0128,-0.9256
+Oxyphenbutazone,Carboplatin,285,14,384329,-0.9285,0.022,0.022,-0.9285
+Clofarabine,Leflunomide,19,278,383601,-0.9295,-0.0882,-0.0882,-0.9294
+Niclosamide,Pyrvinium chloride dihydrate,282,287,384259,-0.9307,0,0,-0.9307
+Sodium diethyldithiocarbamate trihydrate,Oxyphenbutazone,289,285,384437,-0.933,0.0199,0.0199,-0.9329
+Diazoxide,Sodium diethyldithiocarbamate trihydrate,268,289,383904,-0.9335,0.0052,0.0052,-0.9334
+Diazoxide,Clofarabine,268,19,383891,-0.9371,0.0012,0.0012,-0.9371
+Irinotecan,Diazoxide,275,268,384073,-0.9378,0.0005,0.0005,-0.9378
+Doxorubicin,Diazoxide,33,268,384591,-0.9382,0.0001,0.0001,-0.9382
+Cytarabine,Diazoxide,21,268,383616,-0.9383,0,0,-0.9383
+Mefloquine,Diazoxide,280,268,384189,-0.9383,0,0,-0.9383
+Mycophenolic acid,Diazoxide,281,268,384223,-0.9383,0,0,-0.9383
+Hydroxyurea,Sodium diethyldithiocarbamate trihydrate,46,289,384666,-0.9393,0.0134,0.0134,-0.9392
+Cerivastatin,Oxyphenbutazone,263,285,383784,-0.9423,0.0156,0.0156,-0.9422
+Cerivastatin,Vorinostat,263,106,383770,-0.9443,0.0156,0.0156,-0.9443
+Hydroxyurea,Oxyphenbutazone,46,285,384663,-0.9444,0.0135,0.0134,-0.9443
+Albendazole,Niclosamide,259,282,383687,-0.9454,-0.6816,-0.6816,-0.9447
+Vorinostat,Hydroxyurea,106,46,383557,-0.9464,0.0134,0.0134,-0.9464
+Bortezomib,Vorinostat,11,106,383563,-0.9471,0.0128,0.0128,-0.9471
+Dihydroqinghaosu,Vorinostat,261,106,383716,-0.9487,-0.1031,-0.1031,-0.9485
+Clofarabine active form,Cytarabine,266,21,383835,-0.9488,0,0,-0.9487
+Azacitidine,Sodium diethyldithiocarbamate trihydrate,8,289,384794,-0.9504,0.0022,0.0022,-0.9504
+Mefloquine,Sodium diethyldithiocarbamate trihydrate,280,289,384203,-0.9526,0,0,-0.9525
+Mycophenolic acid,Sodium diethyldithiocarbamate trihydrate,281,289,384234,-0.9526,0,0,-0.9525
+Sodium diethyldithiocarbamate trihydrate,Cytarabine,289,21,384427,-0.9526,0,0,-0.9525
+Dihydroqinghaosu,Mycophenolic acid,261,281,383731,-0.9535,-0.1081,-0.1081,-0.9533
+Clofarabine active form,Imatinib,266,48,383863,-0.9534,0,0,-0.9533
+Clofarabine,Carboplatin,19,14,383598,-0.9551,0.0133,0.0133,-0.955
+Clofarabine active form,Vorinostat,266,106,383833,-0.955,0,0,-0.955
+Azacitidine,Oxyphenbutazone,8,285,384792,-0.9555,0.0022,0.0022,-0.9555
+Clofarabine,Oxyphenbutazone,19,285,383604,-0.9565,0.0012,0.0012,-0.9565
+Oxyphenbutazone,Irinotecan,285,275,384338,-0.9572,0.0005,0.0005,-0.9572
+Clofarabine active form,Carboplatin,266,14,383834,-0.9573,0,0,-0.9573
+Pyrvinium chloride dihydrate,Carboplatin,287,14,384377,-0.9573,0,0,-0.9573
+Azacitidine,Vorinostat,8,106,384771,-0.9576,0.0022,0.0022,-0.9575
+Doxorubicin,Oxyphenbutazone,33,285,384596,-0.9576,0.0001,0.0001,-0.9576
+Mefloquine,Oxyphenbutazone,280,285,384200,-0.9577,0,0,-0.9577
+Oxyphenbutazone,Halofantrine,285,274,384337,-0.9577,0,0,-0.9577
+Halofantrine,Diazoxide,274,268,384046,-0.9592,-0.0209,-0.0209,-0.9591
+Vorinostat,Irinotecan,106,275,383539,-0.9592,0.0005,0.0005,-0.9592
+Vorinostat,Doxorubicin,106,33,383556,-0.9597,0.0001,0.0001,-0.9596
+Vorinostat,Halofantrine,106,274,383538,-0.9597,0,0,-0.9597
+Vorinostat,Mefloquine,106,280,383543,-0.9597,0,0,-0.9597
+Cytarabine,Vorinostat,21,106,383609,-0.9597,0,0,-0.9597
+Mycophenolic acid,Vorinostat,281,106,384216,-0.9597,0,0,-0.9597
+Dihydroqinghaosu,Everolimus,261,37,383742,-0.9601,-0.2487,-0.2487,-0.9598
+Pyrvinium chloride dihydrate,Clofarabine active form,287,266,384382,-0.9606,0,0,-0.9605
+Cerivastatin,Hydroxyurea,263,46,383792,-0.9613,0.0134,0.0134,-0.9613
+Bortezomib,Cerivastatin,11,263,383567,-0.962,0.0128,0.0128,-0.9619
+Imatinib,Carboplatin,48,14,384674,-0.962,0.0038,0.0038,-0.9619
+Hydroxyurea,Bortezomib,46,11,384650,-0.964,0.0128,0.0128,-0.964
+Vorinostat,Oxyphenbutazone,106,285,383546,-0.9654,-0.0074,-0.0074,-0.9653
+Dihydroqinghaosu,Sunitinib,261,90,383746,-0.9674,-0.8539,-0.8539,-0.9668
+Halofantrine,Sodium diethyldithiocarbamate trihydrate,274,289,384057,-0.9674,-0.0148,-0.0148,-0.9674
+Clofarabine active form,Oxyphenbutazone,266,285,383855,-0.9686,0,0,-0.9686
+Azacitidine,Cerivastatin,8,263,384777,-0.9724,0.0022,0.0022,-0.9724
+Doxorubicin,Albendazole,33,259,384588,-0.9734,-0.0898,-0.0898,-0.9733
+Vorinostat,Clofarabine,106,19,383528,-0.9736,-0.0138,-0.0138,-0.9736
+Doxorubicin,Cerivastatin,33,263,384590,-0.9745,0.0001,0.0001,-0.9745
+Cerivastatin,Mefloquine,263,280,383783,-0.9746,0,0,-0.9746
+Mycophenolic acid,Cerivastatin,281,263,384220,-0.9746,0,0,-0.9746
+Bortezomib,Azacitidine,11,8,383577,-0.9752,0.0022,0.0022,-0.9752
+Cytarabine,Oxyphenbutazone,21,285,383622,-0.9754,-0.0177,-0.0177,-0.9754
+Hydroxyurea,Clofarabine,46,19,384652,-0.9759,0.0008,0.0008,-0.9759
+Irinotecan,Hydroxyurea,275,46,384089,-0.9762,0.0005,0.0005,-0.9762
+Doxorubicin,Hydroxyurea,33,46,384598,-0.9766,0.0001,0.0001,-0.9766
+Mefloquine,Hydroxyurea,280,46,384210,-0.9767,0,0,-0.9767
+Hydroxyurea,Cytarabine,46,21,384653,-0.9767,0,0,-0.9767
+Hydroxyurea,Halofantrine,46,274,384659,-0.9767,0,0,-0.9767
+Bortezomib,Mefloquine,11,280,383573,-0.9774,0,0,-0.9774
+Diazoxide,Hydroxyurea,268,46,383909,-0.978,-0.0395,-0.0395,-0.9779
+Clofarabine active form,Dihydroqinghaosu,266,261,383838,-0.9782,0,0,-0.9782
+Clofarabine active form,Leflunomide,266,278,383849,-0.9829,0,0,-0.9829
+Pyrvinium chloride dihydrate,Leflunomide,287,278,384386,-0.9829,0,0,-0.9829
+Clofarabine active form,Albendazole,266,259,383837,-0.984,0,0,-0.984
+Pyrvinium chloride dihydrate,Albendazole,287,259,384379,-0.984,0,0,-0.984
+Cerivastatin,Pyrvinium chloride dihydrate,263,287,383785,-0.9849,0,0,-0.9849
+Azacitidine,Clofarabine,8,19,384772,-0.9867,0.0012,0.0012,-0.9866
+Irinotecan,Azacitidine,275,8,384092,-0.9873,0.0005,0.0005,-0.9873
+Cytarabine,Azacitidine,21,8,383632,-0.9878,0,0,-0.9878
+Azacitidine,Mefloquine,8,280,384789,-0.9878,0,0,-0.9878
+Azacitidine,Mycophenolic acid,8,281,384790,-0.9878,0,0,-0.9878
+Azacitidine,Doxorubicin,8,33,384799,-0.9878,0.0001,0.0001,-0.9878
+Cytarabine,Clofarabine,21,19,383611,-0.9888,0,0,-0.9888
+Mefloquine,Clofarabine,280,19,384184,-0.9888,0,0,-0.9888
+Cytarabine,Irinotecan,21,275,383618,-0.9895,0,0,-0.9895
+Mefloquine,Irinotecan,280,275,384192,-0.9895,0,0,-0.9895
+Mycophenolic acid,Irinotecan,281,275,384226,-0.9895,0,0,-0.9895
+Imatinib,Pyrvinium chloride dihydrate,48,287,384688,-0.9898,-0.0243,-0.0243,-0.9898
+Cytarabine,Doxorubicin,21,33,383629,-0.9899,0,0,-0.9899
+Doxorubicin,Mefloquine,33,280,384594,-0.9899,0,0,-0.9899
+Doxorubicin,Mycophenolic acid,33,281,384595,-0.9899,0,0,-0.9899
+Cytarabine,Mefloquine,21,280,383619,-0.99,0,0,-0.99
+Clofarabine active form,Cerivastatin,266,263,383840,-0.99,0,0,-0.99
+Clofarabine active form,Irinotecan,266,275,383847,-0.99,0,0,-0.99
+Clofarabine active form,Meclofenamic acid,266,279,383850,-0.99,0,0,-0.99
+Irinotecan,Pyrvinium chloride dihydrate,275,287,384080,-0.99,0,0,-0.99
+Mefloquine,Halofantrine,280,274,384191,-0.99,0,0,-0.99
+Mefloquine,Mycophenolic acid,280,281,384197,-0.99,0,0,-0.99
+Pyrvinium chloride dihydrate,Cytarabine,287,21,384378,-0.9989,-0.0337,-0.0337,-0.9989
+Sunitinib,Albendazole,90,259,384805,-1.006,-0.8925,-0.8925,-1.0055
+Halofantrine,Irinotecan,274,275,384050,-1.0071,-0.0176,-0.0176,-1.0071
+Azacitidine,Diazoxide,8,268,384780,-1.008,-0.0697,-0.0697,-1.008
+Cytarabine,Mycophenolic acid,21,281,383620,-1.0118,-0.0218,-0.0218,-1.0118
+Halofantrine,Azacitidine,274,8,384064,-1.0142,-0.0263,-0.0263,-1.0142
+Cerivastatin,Cytarabine,263,21,383772,-1.0153,-0.0407,-0.0407,-1.0153
+Pyrvinium chloride dihydrate,Vorinostat,287,106,384376,-1.0163,-0.0473,-0.0473,-1.0162
+Leflunomide,Nitisinone,278,284,384150,-1.0194,-0.8497,-0.8497,-1.0184
+Pyrvinium chloride dihydrate,Oxyphenbutazone,287,285,384388,-1.0204,-0.07,-0.07,-1.0203
+Irinotecan,Sodium diethyldithiocarbamate trihydrate,275,289,384081,-1.0231,-0.0705,-0.0705,-1.023
+Mycophenolic acid,Halofantrine,281,274,384225,-1.0272,-0.0372,-0.0372,-1.0272
+Oxyphenbutazone,Mycophenolic acid,285,281,384340,-1.0308,-0.0731,-0.0731,-1.0307
+Hydroxyurea,Mycophenolic acid,46,281,384661,-1.0323,-0.0556,-0.0556,-1.0323
+Irinotecan,Cerivastatin,275,263,384070,-1.052,-0.0774,-0.0774,-1.052
+Clofarabine,Mycophenolic acid,19,281,383602,-1.0523,-0.0635,-0.0635,-1.0523
+Imatinib,Cerivastatin,48,263,384677,-1.0898,-0.2554,-0.2554,-1.0897
+Dihydroqinghaosu,Teriflunomide,261,291,383738,-1.0953,-0.8538,-0.8539,-1.0944
+Thiabendazole,Dihydroqinghaosu,292,261,384481,-1.1213,-0.8538,-0.8539,-1.1204
+Albendazole,Tizoxanide,259,293,383691,-1.1397,-0.994,-0.994,-1.1389
+Azacitidine,Hydroxyurea,8,46,384801,-1.2093,-0.2326,-0.2326,-1.2093
+Albendazole,Quinine,259,288,383688,-1.2232,-0.7268,-0.7269,-1.2226
+Imatinib,Quinine,48,288,384689,-1.3393,-0.8427,-0.8428,-1.3387
