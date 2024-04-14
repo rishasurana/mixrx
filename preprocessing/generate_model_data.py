@@ -1,8 +1,9 @@
 import csv
+import pandas as pd
 
 # Step 1: Read drug data and map IDs to names and scores
 drug_scores = {}
-with open('drug_data.csv', mode='r') as file:
+with open('preprocessing/drug_data.csv', mode='r') as file:
     reader = csv.DictReader(file)
     for row in reader:
         pair = tuple(sorted((int(row['idDrugA']), int(row['idDrugB']))))
@@ -13,7 +14,7 @@ with open('drug_data.csv', mode='r') as file:
 
 # Step 2: Read drug combinations
 combinations = []
-with open('valid_drug_combinations.csv', mode='r') as file:
+with open('preprocessing/valid_drug_combinations.csv', mode='r') as file:
     reader = csv.DictReader(file)
     for row in reader:
         combinations.append([int(id.strip()) for id in row['Drug Combination'].split(',')])
@@ -22,15 +23,27 @@ with open('valid_drug_combinations.csv', mode='r') as file:
 contexts = []
 for combo in combinations:
     drug_names_list = [drug_scores[tuple(sorted((combo[i], combo[j])))] for i in range(len(combo)) for j in range(i + 1, len(combo)) if tuple(sorted((combo[i], combo[j]))) in drug_scores]
-    prompt = "Given the following set of drugs, decide if the synergy of the drug combination is synergistic, antagonistic, or additive in one word in square brackets. Then provide reasoning by analyzing the pairwise interactions of each. The drugs are: " + ", ".join(set([info['nameA'] for info in drug_names_list] + [info['nameB'] for info in drug_names_list]))
-
-    context = " ".join([f"{info['nameA']} and {info['nameB']} have a Loewe score of: {info['loewe']}, HSA score of: {info['hsa']}, and ZIP score of: {info['zip']}." for info in drug_names_list])
+    prompt = "Given the following set of drugs, decide if the drug combination is synergistic, antagonistic, or additive in one word. Then provide reasoning by analyzing each pairwise interaction."
+    example = "Format your response as a JSON object with the following keys (for example):[{""Prediction"": ""Synergistic"",""Reasoning"": ""DrugA and DrugB are highly synergistic, DrugB and DrugC are additive, DrugC and DrugA are synergistic""},]"""
+    drugs = "The drug combination to analyze is: " + ", ".join(set([info['nameA'] for info in drug_names_list] + [info['nameB'] for info in drug_names_list]))
+    context = "Context: " + " ".join([f"{info['nameA']} and {info['nameB']} have a Loewe score of: {info['loewe']}, HSA score of: {info['hsa']}, and ZIP score of: {info['zip']}." for info in drug_names_list])
     
-    contexts.append((prompt, context))
+    contexts.append([prompt + " " + example + " " + drugs + " " + context, context]) 
 
 # Step 4: Write the prompts and contexts to a new CSV
-with open('output_prompts_contexts.csv', mode='w', newline='') as file:
+with open('preprocessing/prompts.csv', mode='w', newline='') as file:
     writer = csv.writer(file)
     writer.writerow(['Prompt', 'Context'])
     for prompt, context in contexts:
         writer.writerow([prompt, context])
+
+
+# Step 5: Combine prompts with model_inputs
+model_inputs = pd.read_csv('preprocessing/model_inputs.csv') 
+df2 = pd.read_csv('preprocessing/prompts.csv')
+
+model_inputs['Prompt'] = df2['Prompt']
+model_inputs['Context'] = df2['Context']
+
+# Save the updated DataFrame to a new CSV file
+model_inputs.to_csv('preprocessing/final.csv', index=False)
