@@ -1,81 +1,209 @@
 import pandas as pd
 import json
+from rouge_score import rouge_scorer
+from sklearn.metrics import (
+    precision_recall_fscore_support,
+    confusion_matrix,
+)
+from bert_score import score
+import numpy as np
+import matplotlib.pyplot as plt
 
-# Load data
-drug_data_path = '../preprocessing/drug_data.csv' 
-drug_data_df = pd.read_csv(drug_data_path)
+final_data_path = "../preprocessing/final.csv"
+final_df = pd.read_csv(final_data_path)
 
-validation_data_path = '../preprocessing/valid_drug_combinations.csv' 
-validation_data_df = pd.read_csv(validation_data_path)
+model_responses = [
+    {
+        "prompt": final_df.head(1)["Prompt"].values[0],
+        "response": '```json\n[\n  {\n    "Prediction": "Antagonistic",\n    "Reasoning": "BML-190 and Temozolomide have negative scores across all interaction metrics (Loewe, HSA, ZIP), indicating antagonism."\n  }\n]\n```',
+    },
+    {
+        "prompt": final_df.head(2)["Prompt"].values[0],
+        "response": '```json\n[\n  {\n    "Prediction": "Antagonistic",\n    "Reasoning": "Carbamazepine and Temozolomide have negative scores across all interaction metrics (Loewe, HSA, ZIP), indicating antagonism."\n  }\n]\n```',
+    },
+]
 
-synergy_results_path = '../preprocessing/synergy_test_results.csv'
-synergy_results_df = pd.read_csv(synergy_results_path)
 
-# Mapping drug names to IDs
-drug_name_to_id = {row['drugNameA']: row['idDrugA'] for _, row in drug_data_df.iterrows()}
-drug_name_to_id.update({row['drugNameB']: row['idDrugB'] for _, row in drug_data_df.iterrows()})
+def normalize_prompt(prompt):
+    return "".join([i for i in prompt if not i.isdigit()]).lower().strip()
 
-def extract_drug_names(prompt):
-    start_phrase = "Given the following set of drugs, decide if the synergy of the drug combination is synergistic or antagonistic: "
-    end_phrase = " have a Loewe score of:"
-    start_index = prompt.find(start_phrase) + len(start_phrase)
-    end_index = prompt.find(end_phrase)
-    
-    drug_names_str = prompt[start_index:end_index].strip()
-    drug_names_list = [name.strip() for name in drug_names_str.split(",")]
-    
-    return drug_names_list
 
-def extract_drug_ids_from_prompt(prompt):
-    drug_names = extract_drug_names(prompt)
-    return [drug_name_to_id[name] for name in drug_names if name in drug_name_to_id]
+def compare_predictions(model_data, ground_truth_df):
+    correct_predictions = 0
+    total_predictions = len(model_data)
 
-def find_combination_response(drug_ids, synergy_results_df):
-    drug_ids_str = ", ".join(map(str, sorted(drug_ids)))
-    row = synergy_results_df[synergy_results_df['Drug Combination'] == drug_ids_str]
-    if not row.empty:
-        return row.iloc[0]['Overall Synergy Response']
-    return "Unknown"
+    for model_entry in model_data:
+        model_prompt = normalize_prompt(model_entry["prompt"])
+        ground_truth_row = ground_truth_df[
+            ground_truth_df["Prompt"].apply(normalize_prompt) == model_prompt
+        ]
 
-model_predictions_path = './model_responses.json'
-model_predictions = json.load(open(model_predictions_path))
+        if not ground_truth_row.empty:
+            model_response = json.loads(
+                model_entry["response"].strip("`").strip("json").strip("\n")
+            )
+            model_prediction = model_response[0]["Prediction"]
 
-true_positives = 0
-false_positives = 0
-false_negatives = 0
+            if (
+                model_prediction.lower()
+                == ground_truth_row["Prediction"].iloc[0].lower()
+            ):
+                correct_predictions += 1
 
-for prediction in model_predictions:
-    drug_ids = extract_drug_ids_from_prompt(prediction["prompt"])
-    actual_response = find_combination_response(drug_ids, synergy_results_df)
-    
-    response_str = prediction["response"].strip('`')
-    if response_str.startswith('json'):
-        response_str = response_str[5:]
-    
-    try:
-        model_response = json.loads(response_str)
-    except json.JSONDecodeError as e:
-        print(f"Error decoding JSON: {e}")
-        continue
+    accuracy = correct_predictions / total_predictions if total_predictions > 0 else 0
+    return accuracy
 
-    model_prediction = model_response[0]["Prediction"]
 
-    if actual_response.lower() == "unknown": 
-        print(f"Skipping unknown combination: {drug_ids}")
-        continue
+def calculate_rouge_scores(model_data, ground_truth_df):
+    """
+    ROUGE-N: Measures the overlap of n-grams between the system output and reference texts
+    ROUGE-L: Measures the longest matching sequence of words using longest common subsequence (LCS) statistics
+    """
 
-    if actual_response.lower() == model_prediction.lower():
-        true_positives += 1
-    else:
-        if actual_response.lower() == "antagonistic":
-            false_negatives += 1
-        if model_prediction.lower() == "synergistic":
-            false_positives += 1
+    scorer = rouge_scorer.RougeScorer(["rouge1", "rougeL"], use_stemmer=True)
+    scores = []
 
-precision = true_positives / (true_positives + false_positives) if (true_positives + false_positives) > 0 else 0
-recall = true_positives / (true_positives + false_negatives) if (true_positives + false_negatives) > 0 else 0
-f1_score = 2 * (precision * recall) / (precision + recall) if (precision + recall) > 0 else 0
+    for model_entry in model_data:
+        model_prompt = normalize_prompt(model_entry["prompt"])
+        ground_truth_row = ground_truth_df[
+            ground_truth_df["Prompt"].apply(normalize_prompt) == model_prompt
+        ]
 
-print(f"Precision: {precision:.2f}")
-print(f"Recall: {recall:.2f}")
-print(f"F1 Score: {f1_score:.2f}")
+        if not ground_truth_row.empty:
+            model_response = json.loads(model_entry["response"].strip("`json\n"))
+            model_reasoning = model_response[0]["Reasoning"]
+            ground_truth_reasoning = ground_truth_row["Reasoning"].iloc[0]
+
+            scores.append(scorer.score(ground_truth_reasoning, model_reasoning))
+
+    return scores
+
+
+def calculate_precision_recall_f1(model_data, ground_truth_df):
+    """
+    Helps us understand the accuracy of positive predictions (precision),
+    the ability of the model to find all positive samples (recall),
+    and a balance between precision and recall (F1-score).
+    """
+
+    y_true = []
+    y_pred = []
+
+    for model_entry in model_data:
+        model_prompt = normalize_prompt(model_entry["prompt"])
+        ground_truth_row = ground_truth_df[
+            ground_truth_df["Prompt"].apply(normalize_prompt) == model_prompt
+        ]
+
+        if not ground_truth_row.empty:
+            model_response = json.loads(
+                model_entry["response"].strip("`").strip("json").strip("\n")
+            )
+            model_prediction = model_response[0]["Prediction"]
+            y_true.append(ground_truth_row["Prediction"].iloc[0].lower())
+            y_pred.append(model_prediction.lower())
+
+    precision, recall, fscore, _ = precision_recall_fscore_support(
+        y_true, y_pred, average="weighted"
+    )
+    return precision, recall, fscore
+
+
+def plot_confusion_matrix(model_data, ground_truth_df):
+    """
+    Confusion matrix helps visualize the performance of the model across different categories.
+    """
+    y_true = []
+    y_pred = []
+
+    for model_entry in model_data:
+        model_prompt = normalize_prompt(model_entry["prompt"])
+        ground_truth_row = ground_truth_df[
+            ground_truth_df["Prompt"].apply(normalize_prompt) == model_prompt
+        ]
+
+        if not ground_truth_row.empty:
+            model_response = json.loads(
+                model_entry["response"].strip("`").strip("json").strip("\n")
+            )
+            model_prediction = model_response[0]["Prediction"]
+            y_true.append(ground_truth_row["Prediction"].iloc[0].lower())
+            y_pred.append(model_prediction.lower())
+
+    labels = list(set(y_true + y_pred))
+    cm = confusion_matrix(y_true, y_pred, labels=labels)
+    fig, ax = plt.subplots()
+    cax = ax.matshow(cm, cmap=plt.cm.Blues)
+    plt.title("Confusion Matrix")
+    fig.colorbar(cax)
+    ax.set_xticks(range(len(labels)))
+    ax.set_yticks(range(len(labels)))
+    ax.set_xticklabels(labels)
+    ax.set_yticklabels(labels)
+    plt.xlabel("Predicted")
+    plt.ylabel("True")
+    plt.show()
+
+
+def calculate_bert_scores(model_data, ground_truth_df):
+    """
+    BERTScore leverages the pre-trained contextual embeddings from BERT and matches words in candidate
+    and reference texts based on cosine similarity.
+    """
+    cands = []
+    refs = []
+
+    for model_entry in model_data:
+        model_prompt = normalize_prompt(model_entry["prompt"])
+        ground_truth_row = ground_truth_df[
+            ground_truth_df["Prompt"].apply(normalize_prompt) == model_prompt
+        ]
+
+        if not ground_truth_row.empty:
+            model_response = json.loads(
+                model_entry["response"].strip("`").strip("json").strip("\n")
+            )
+            model_reasoning = model_response[0]["Reasoning"]
+            ground_truth_reasoning = ground_truth_row["Reasoning"].iloc[0]
+
+            cands.append(model_reasoning)
+            refs.append(ground_truth_reasoning)
+
+    # Calculating BERTScore
+    P, R, F1 = score(cands, refs, lang="en", rescale_with_baseline=True)
+
+    # Convert to python floats and calculate average
+    P = P.tolist()
+    R = R.tolist()
+    F1 = F1.tolist()
+    avg_P = sum(P) / len(P)
+    avg_R = sum(R) / len(R)
+    avg_F1 = sum(F1) / len(F1)
+
+    return avg_P, avg_R, avg_F1
+
+accuracy = compare_predictions(model_responses, final_df)
+rouge_results = calculate_rouge_scores(model_responses, final_df)
+precision, recall, fscore = calculate_precision_recall_f1(model_responses, final_df)
+average_rouge1 = sum(score["rouge1"].fmeasure for score in rouge_results) / len(
+    rouge_results
+)
+average_rougeL = sum(score["rougeL"].fmeasure for score in rouge_results) / len(
+    rouge_results
+)
+bert_P, bert_R, bert_F1 = calculate_bert_scores(model_responses, final_df)
+
+print(f"Accuracy: {accuracy:.2f}")
+
+# for score in rouge_results:
+#     print(
+#         f"ROUGE-1: {score['rouge1'].fmeasure:.4f}, ROUGE-L: {score['rougeL'].fmeasure:.4f}"
+#     )
+
+print(f"Average ROUGE-1: {average_rouge1:.4f}, Average ROUGE-L: {average_rougeL:.4f}")
+print(f"Precision: {precision:.2f}, Recall: {recall:.2f}, F1-Score: {fscore:.2f}")
+print(
+    f"BERTScore Precision: {bert_P:.4f}, Recall: {bert_R:.4f}, F1-Score: {bert_F1:.4f}"
+)
+
+plot_confusion_matrix(model_responses, final_df)
