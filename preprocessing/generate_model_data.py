@@ -63,4 +63,4 @@ model_inputs['Prompt'] = df2['Prompt']
 model_inputs['Context'] = df2['Context']
 
 # Save the updated DataFrame to a new CSV file
-model_inputs.to_csv('preprocessing/final.csv', index=False)
+model_inputs.to_csv('final.csv', index=False)
