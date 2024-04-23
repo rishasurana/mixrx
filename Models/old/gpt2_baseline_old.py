@@ -15,7 +15,7 @@ from transformers import GPT2Tokenizer, GPT2Model, GPT2LMHeadModel
 import torch
 import pandas as pd
 import json
-
+import datasets
 
 tokenizer = GPT2Tokenizer.from_pretrained('gpt2')
 tokenizer.pad_token = tokenizer.eos_token
@@ -57,7 +57,7 @@ from datasets import load_dataset, DatasetDict, load_from_disk, Dataset
 # Create prompt tensors from prompts_contexts.csv file.
 
 # Read the CSV file into a pandas DataFrame
-prompts_contexts = '../preprocessing/updated_prompts_contexts.csv'
+prompts_contexts = 'final.csv'
 # prompts_contexts = '/content/drive/MyDrive/CSCI499 Natural Language Processing/preprocessing/updated_prompts_contexts.csv'
 df = pd.read_csv(prompts_contexts)
 dataset = Dataset.from_pandas(df)
@@ -70,7 +70,7 @@ def create_mult_seq(example):
 
     example['Sequences'] = sentences
     tokens = tokenizer(example['Sequences'])
-    examples['input_ids'] = tokens['input_ids']
+    example['input_ids'] = tokens['input_ids']
     # examples['mask???'] = tokens['mask???']
     return example
 
