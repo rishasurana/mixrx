@@ -1,15 +1,14 @@
-import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer, Trainer, TrainingArguments
 from transformers import DataCollatorForLanguageModeling
 from torch.utils.data import Dataset
 import pandas as pd
+import torch
 import os
 
 print(torch.cuda.is_available())
 print(torch.version.cuda)
 
 torch.cuda.empty_cache()
-
 os.environ['PYTORCH_CUDA_ALLOC_CONF'] = 'expandable_segments:True'
 
 class CSVTextDataset(Dataset):
@@ -19,7 +18,7 @@ class CSVTextDataset(Dataset):
         self.file_path = file_path
 
     def __len__(self):
-        return sum(1 for line in open(self.file_path)) - 1  # subtract one for header
+        return sum(1 for line in open(self.file_path)) - 1
 
     def __getitem__(self, idx):
         line = pd.read_csv(self.file_path, skiprows=idx + 1, nrows=1)
@@ -32,13 +31,10 @@ def fine_tune_mistral(model_name, train_file, output_dir):
     model = AutoModelForCausalLM.from_pretrained(model_name, torch_dtype=torch.float16)
     tokenizer = AutoTokenizer.from_pretrained(model_name)
 
-    # Freeze all the parameters except for the last layer
-    for param in model.parameters():
-        param.requires_grad = False
-    for param in model.transformer.h[-1].parameters():  # Unfreeze the last transformer block
-        param.requires_grad = True
-    for param in model.lm_head.parameters():  # Unfreeze the lm_head
-        param.requires_grad = True
+    # Freeze all the parameters except for the lm_head
+    for name, param in model.named_parameters():
+        if 'lm_head' not in name:
+            param.requires_grad = False
 
     train_dataset = CSVTextDataset(tokenizer=tokenizer, file_path=train_file, block_size=128)
     print("loaded dataset")
