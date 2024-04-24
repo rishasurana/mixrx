@@ -1,56 +1,67 @@
-from transformers import AutoModelForCausalLM, AutoTokenizer, Trainer, TrainingArguments
-from transformers import DataCollatorForLanguageModeling
-from torch.utils.data import Dataset
 import pandas as pd
 import torch
+from transformers import AutoModelForCausalLM, AutoTokenizer, TrainingArguments, Trainer
+from transformers import DataCollatorForLanguageModeling
+from torch.utils.data import Dataset
 import os
 
-print(torch.cuda.is_available())
-print(torch.version.cuda)
-
-torch.cuda.empty_cache()
-os.environ['PYTORCH_CUDA_ALLOC_CONF'] = 'expandable_segments:True'
-
 class CSVTextDataset(Dataset):
-    def __init__(self, tokenizer, file_path, block_size=128):
+    def __init__(self, tokenizer, file_path, block_size=128, limit=None):
         self.tokenizer = tokenizer
         self.block_size = block_size
-        self.file_path = file_path
+
+        # Load the dataset into a pandas dataframe
+        self.data = pd.read_csv(file_path)
+
+        # If a limit is specified, select only the last 'limit' examples
+        if limit:
+            self.data = self.data.tail(limit)
+
+        # Combine the prompts and predictions into one text string per row
+        combined_texts = "<PROMPT> " + self.data['Prompt'] + " " + "<PREDICTION> " + self.data['Prediction']
+        # Tokenize the text
+        self.examples = self.tokenizer(
+            combined_texts.tolist(),
+            add_special_tokens=True,
+            truncation=True,
+            padding=True,  # Ensure all sequences are padded to the same length
+            max_length=block_size,
+            return_tensors="pt"
+        ).input_ids
 
     def __len__(self):
-        return sum(1 for line in open(self.file_path)) - 1
+        return len(self.examples)
 
     def __getitem__(self, idx):
-        line = pd.read_csv(self.file_path, skiprows=idx + 1, nrows=1)
-        text = line['Prompt'].item() + " " + line['Prediction'].item()
-        tokenized_text = self.tokenizer(text, add_special_tokens=True, truncation=True, max_length=self.block_size, return_tensors="pt")
-        return tokenized_text['input_ids'].squeeze(0)
+        return self.examples[idx]
 
-def fine_tune_mistral(model_name, train_file, output_dir):
-    print("begin fine-tuning")
-    model = AutoModelForCausalLM.from_pretrained(model_name, torch_dtype=torch.float16)
+def fine_tune_mistral(model_name, train_file, output_dir, num_examples=8000):
+    print("Begin fine-tuning")
+    # Load Mistral model and tokenizer
+    model = AutoModelForCausalLM.from_pretrained(model_name)
     tokenizer = AutoTokenizer.from_pretrained(model_name)
 
-    # Freeze all the parameters except for the lm_head
-    for name, param in model.named_parameters():
-        if 'lm_head' not in name:
-            param.requires_grad = False
+    tokenizer.pad_token = tokenizer.eos_token if tokenizer.eos_token else tokenizer.bos_token
+    # Load training dataset, last 'num_examples' entries
+    train_dataset = CSVTextDataset(tokenizer=tokenizer, file_path=train_file, block_size=128, limit=num_examples)
+    print("Loaded dataset")
 
-    train_dataset = CSVTextDataset(tokenizer=tokenizer, file_path=train_file, block_size=128)
-    print("loaded dataset")
-
+    # Create data collator for language modeling
     data_collator = DataCollatorForLanguageModeling(tokenizer=tokenizer, mlm=False)
 
+    # Set training arguments
     training_args = TrainingArguments(
         output_dir=output_dir,
         overwrite_output_dir=True,
-        num_train_epochs=1,
-        per_device_train_batch_size=1,
-        gradient_accumulation_steps=8,
-        save_steps=10_000,
+        num_train_epochs=3,
+        per_device_train_batch_size=4,
+        gradient_accumulation_steps=4,
+        learning_rate=2e-5,
+        save_steps=500,  # Save more frequently
         save_total_limit=2,
     )
 
+    # Train the model
     trainer = Trainer(
         model=model,
         args=training_args,
@@ -59,9 +70,14 @@ def fine_tune_mistral(model_name, train_file, output_dir):
     )
 
     trainer.train()
-    print("done training")
+    print("Done training")
 
+    # Explicitly save the model and tokenizer
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
     model.save_pretrained(output_dir)
     tokenizer.save_pretrained(output_dir)
+    print(f"Model and tokenizer are saved in {output_dir}")
 
-fine_tune_mistral("mistralai/Mistral-7B-v0.1", "final.csv", "output")
+# Fine-tune the model
+fine_tune_mistral("mistralai/Mistral-7B-Instruct-v0.2", "final_reduced.csv", "output")
