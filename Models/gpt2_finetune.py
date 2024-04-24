@@ -12,15 +12,22 @@ class CSVTextDataset(Dataset):
 
         # Load the dataset into a pandas dataframe
         self.data = pd.read_csv(file_path)
-        
+
         # If a limit is specified, select only the last 'limit' examples
         if limit:
             self.data = self.data.tail(limit)
 
         # Combine the prompts and predictions into one text string per row
-        combined_texts = self.data['Prompt'] + " " + self.data['Prediction']
+        combined_texts = "<PROMPT> " + self.data['Prompt'] + " " + "<PREDICTION> " + self.data['Prediction']
         # Tokenize the text
-        self.examples = self.tokenizer(combined_texts.tolist(), add_special_tokens=True, truncation=True, max_length=block_size, return_tensors="pt").input_ids
+        self.examples = self.tokenizer(
+            combined_texts.tolist(),
+            add_special_tokens=True,
+            truncation=True,
+            padding=True,  # Ensure all sequences are padded to the same length
+            max_length=block_size,
+            return_tensors="pt"
+        ).input_ids
 
     def __len__(self):
         return len(self.examples)
@@ -28,12 +35,13 @@ class CSVTextDataset(Dataset):
     def __getitem__(self, idx):
         return self.examples[idx]
 
-def fine_tune_gpt2(model_name, train_file, output_dir, num_examples=1000):
+def fine_tune_gpt2(model_name, train_file, output_dir, num_examples=8000):
     print("Begin fine-tuning")
     # Load GPT-2 model and tokenizer
-    model = GPT2LMHeadModel.from_pretrained(model_name, torch_dtype=torch.float16)
+    model = GPT2LMHeadModel.from_pretrained(model_name)
     tokenizer = GPT2Tokenizer.from_pretrained(model_name)
 
+    tokenizer.pad_token = tokenizer.eos_token
     # Load training dataset, last 'num_examples' entries
     train_dataset = CSVTextDataset(tokenizer=tokenizer, file_path=train_file, block_size=128, limit=num_examples)
     print("Loaded dataset")
@@ -45,11 +53,13 @@ def fine_tune_gpt2(model_name, train_file, output_dir, num_examples=1000):
     training_args = TrainingArguments(
         output_dir=output_dir,
         overwrite_output_dir=True,
-        num_train_epochs=1,
-        per_device_train_batch_size=1,
-        gradient_accumulation_steps=8,
+        num_train_epochs=3,
+        per_device_train_batch_size=4,
+        gradient_accumulation_steps=4,
+        learning_rate=2e-5,
         save_steps=500,  # Save more frequently
         save_total_limit=2,
+
     )
 
     # Train the model
@@ -71,4 +81,4 @@ def fine_tune_gpt2(model_name, train_file, output_dir, num_examples=1000):
     print(f"Model and tokenizer are saved in {output_dir}")
 
 # Fine-tune the model
-fine_tune_gpt2("gpt2", "final.csv", "output")
+fine_tune_gpt2("gpt2", "final_reduced.csv", "output")

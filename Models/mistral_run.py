@@ -1,41 +1,63 @@
 import pandas as pd
+import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM
-from tqdm import tqdm
+import os
 
-# Load the Mistral Instruct model and tokenizer
-tokenizer = AutoTokenizer.from_pretrained("mistralai/Mistral-7B-Instruct-v0.2")
-model = AutoModelForCausalLM.from_pretrained("mistralai/Mistral-7B-Instruct-v0.2")
+# Check if CUDA is available and print CUDA version
+print(torch.cuda.is_available())
+print(torch.version.cuda)
 
-def generate_response(prompt):
-    # Tokenize the prompt with automatic padding and truncation
-    inputs = tokenizer(prompt, return_tensors='pt', max_length=1024, truncation=True, padding="max_length")
-    
-    # Generate response, ensuring not to exceed the model's maximum length
-    outputs = model.generate(
-        input_ids=inputs['input_ids'],
-        attention_mask=inputs['attention_mask'],
-        pad_token_id=tokenizer.pad_token_id,
-        max_length=1024,  # Ensuring it doesn't exceed the model's maximum length
-        num_return_sequences=1
-    )
-    # Decode the output tokens to a string
-    response = tokenizer.decode(outputs[0], skip_special_tokens=True)
-    return response
+torch.cuda.empty_cache()  # Clearing CUDA cache to free up unused memory
 
-def main():
-    # Read the CSV file
-    data = pd.read_csv('final.csv')
-    
-    # Process only the first 1000 prompts
-    limited_data = data.head(1000)
+os.environ['PYTORCH_CUDA_ALLOC_CONF'] = 'expandable_segments:True'
 
-    # Initialize progress bar and generate responses for each prompt
-    tqdm.pandas(desc="Generating responses")
-    limited_data['Model Response'] = limited_data['Prompt'].progress_apply(generate_response)
-    
-    # Save the responses to a new CSV file
-    limited_data[['Prompt', 'Model Response']].to_csv('outputs.csv', index=False)
-    print("Model responses have been saved to 'outputs.csv'.")
+print("instruct mistral")
 
-if __name__ == "__main__":
-    main()
+model_name = "mistralai/Mistral-7B-Instruct-v0.2"
+
+# Setting up the device
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+tokenizer = AutoTokenizer.from_pretrained(model_name, trust_remote_code=True)
+
+# Load the model in half-precision (float16)
+try:
+    model = AutoModelForCausalLM.from_pretrained(model_name, trust_remote_code=True, torch_dtype=torch.float16)
+    model.to(device)
+except RuntimeError as e:
+    print(f"Running on CPU due to CUDA memory error: {e}")
+    device = torch.device("cpu")  # Explicitly setting device to CPU
+    model = AutoModelForCausalLM.from_pretrained(model_name, trust_remote_code=True).to(device)
+
+print('Model added to device: ', device)  # Indicate which device is being used
+
+# Set tokenizer padding token and side
+tokenizer.pad_token = tokenizer.eos_token
+tokenizer.padding_side = "left"
+
+# Load your data
+df_full = pd.read_csv("final_reduced.csv")
+print('Data loaded')
+
+df = df_full.head(1000)
+
+def generate_text(prompt):
+    print(f"Using device: {device}")
+    inputs = tokenizer(prompt, return_tensors="pt").to(device)
+    outputs = model.generate(**inputs, max_new_tokens=30, pad_token_id=tokenizer.eos_token_id, eos_token_id=tokenizer.eos_token_id)
+    decoded_output = tokenizer.decode(outputs[0], skip_special_tokens=True)
+    return decoded_output
+
+# Prepare to collect results
+results = []
+
+# Generate text for each row and column
+for index, row in df.iterrows():
+    prompt = row['Prompt']
+    output = generate_text(prompt)
+    results.append(output)
+
+# Save results to CSV
+print('Saving results')
+results_df = pd.DataFrame(results)
+results_df.to_csv("outputs_mistral_pretrained.csv", index=False)
+print('Results saved')

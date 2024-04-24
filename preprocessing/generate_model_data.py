@@ -31,21 +31,21 @@ for combo in combinations:
     ]
     
     # Prepare the prompt and example text for response formatting
-    prompt = 'Given the following set of drugs, decide if the drug combination is synergistic, antagonistic, or additive in one word. Then provide reasoning by analyzing each pairwise interaction.'
-    example = 'Format your response as a JSON object with the following keys (for example): [{"Prediction": "Synergistic", "Reasoning": "DrugA and DrugB are highly synergistic, DrugB and DrugC are additive, DrugC and DrugA are synergistic"}]'
+    prompt = 'According to the rule, if Loewe > 0.1, the outcome is Antagonistic; if Loewe < -0.1, it is Synergistic; otherwise, it is Additive. Decide if the combination is synergistic, antagonistic, or additive.'# Then provide reasoning by analyzing each pairwise interaction.'
+    #example = 'Format your response as a JSON object with the following keys (for example): [{"Prediction": "Synergistic", "Reasoning": "DrugA and DrugB are highly synergistic, DrugB and DrugC are additive, DrugC and DrugA are synergistic"}]'
     
     # List the drugs involved in the current combination
     drugs = 'The drug combination to analyze is: ' + ', '.join(set([info['nameA'] for info in drug_names_list] + [info['nameB'] for info in drug_names_list]))
     
     # Generate a context string detailing interactions and scores
-    context = 'Context: ' + ' '.join([
-        f'{info['nameA']} and {info['nameB']} have a Loewe score of: {info['loewe']}, HSA score of: {info['hsa']}, and ZIP score of: {info['zip']}.'
+    context = 'Context: ' +  ' '.join([
+        f'{info['nameA']} and {info['nameB']} have a Loewe score of: {info['loewe']}.'
         for info in drug_names_list
     ])
     
     # Append both the detailed prompt and the context to the list
-    contexts.append([prompt + " " + example + " " + drugs + " " + context, context])
-
+    # contexts.append([prompt + " " + example + " " + drugs + " " + context, context])
+    contexts.append([context + " " + " " + drugs + " " + prompt, context])
 
 # Step 4: Write the prompts and contexts to a new CSV
 with open('preprocessing/prompts.csv', mode='w', newline='') as file:
@@ -63,4 +63,4 @@ model_inputs['Prompt'] = df2['Prompt']
 model_inputs['Context'] = df2['Context']
 
 # Save the updated DataFrame to a new CSV file
-model_inputs.to_csv('final.csv', index=False)
+model_inputs.to_csv('final_reduced.csv', index=False)

@@ -12,7 +12,7 @@ tokenizer.pad_token = tokenizer.eos_token
 
 def generate_response(prompt):
     # Ensure prompt does not exceed model's max input length - 50 to allow some room for additional tokens
-    max_length_for_prompt = 1024 - 50
+    max_length_for_prompt = 1024 - 100
     inputs = tokenizer(prompt, return_tensors='pt', max_length=max_length_for_prompt, truncation=True, padding="max_length")
     
     # Generate response, only allowing up to 50 new tokens
@@ -23,12 +23,15 @@ def generate_response(prompt):
         max_length=1024,  # Not exceeding the model's maximum length
         num_return_sequences=1
     )
-    response = tokenizer.decode(outputs[0], skip_special_tokens=True)
+    
+    # Decode only the generated part, excluding the input prompt length
+    input_len = inputs['input_ids'].shape[1]  # Length of the input including padding
+    response = tokenizer.decode(outputs[0][input_len:], skip_special_tokens=True)
     return response
 
 def main():
     # Read the CSV file
-    data = pd.read_csv('final.csv')
+    data = pd.read_csv('final_reduced.csv')
     
     # Process only the first 1000 prompts
     limited_data = data.head(1000)
