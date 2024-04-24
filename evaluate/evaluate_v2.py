@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 
 # final_data_path = "../preprocessing/final.csv"
 final_data_path = "final_reduced.csv"
-output_data_path = "outputs-gpt2-finetuned.csv"
+output_data_path = "evaluate/outputs-gpt2-finetuned.csv"
 final_df = pd.read_csv(final_data_path)
 model_responses = pd.read_csv(output_data_path)  # columns: ['Prompt', 'Model Response']
 
