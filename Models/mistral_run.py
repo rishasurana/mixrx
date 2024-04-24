@@ -43,7 +43,7 @@ df = df_full.head(1000)
 def generate_text(prompt):
     print(f"Using device: {device}")
     inputs = tokenizer(prompt, return_tensors="pt").to(device)
-    outputs = model.generate(**inputs, max_new_tokens=30, pad_token_id=tokenizer.eos_token_id, eos_token_id=tokenizer.eos_token_id)
+    outputs = model.generate(**inputs, max_new_tokens=100, pad_token_id=tokenizer.eos_token_id, eos_token_id=tokenizer.eos_token_id)
     decoded_output = tokenizer.decode(outputs[0], skip_special_tokens=True)
     return decoded_output
 
