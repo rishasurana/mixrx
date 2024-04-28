@@ -31,7 +31,7 @@ for combo in combinations:
     ]
     
     # Prepare the prompt and example text for response formatting
-    prompt = 'According to the rule, if Loewe > 0.1, the outcome is Antagonistic; if Loewe < -0.1, it is Synergistic; otherwise, it is Additive. Decide if the combination is synergistic, antagonistic, or additive.'# Then provide reasoning by analyzing each pairwise interaction.'
+    prompt = '. According to the rule, if Loewe > 0.1, the outcome is Antagonistic; if Loewe < -0.1, it is Synergistic; otherwise, it is Additive. Decide if the combination is synergistic, antagonistic, or additive.'# Then provide reasoning by analyzing each pairwise interaction.'
     #example = 'Format your response as a JSON object with the following keys (for example): [{"Prediction": "Synergistic", "Reasoning": "DrugA and DrugB are highly synergistic, DrugB and DrugC are additive, DrugC and DrugA are synergistic"}]'
     
     # List the drugs involved in the current combination
